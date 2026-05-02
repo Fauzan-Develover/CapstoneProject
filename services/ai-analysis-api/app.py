@@ -1,79 +1,54 @@
-import os
-os.environ["TF_USE_LEGACY_KERAS"] = "1"
-
 import pickle
 import PyPDF2
 import numpy as np
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
-from tensorflow.keras.models import load_model
-from tensorflow.keras.layers import Embedding, Dense, LSTM, Dropout
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+from keras import layers, Model
+from keras.preprocessing.sequence import pad_sequences
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# --- JURUS ANTI ERROR KERAS (SATPAM PENYARING LAYER) ---
-# Fungsi untuk membuang variabel siluman dari layer manapun
-def bersihkan_config(kwargs):
-    kwargs.pop('quantization_config', None)
-    return kwargs
-
-# Kita buat versi aman untuk SEMUA layer yang dipakai AI Anda
-class SafeEmbedding(Embedding):
-    def __init__(self, **kwargs):
-        super().__init__(**bersihkan_config(kwargs))
-
-class SafeDense(Dense):
-    def __init__(self, **kwargs):
-        super().__init__(**bersihkan_config(kwargs))
-
-class SafeLSTM(LSTM):
-    def __init__(self, **kwargs):
-        super().__init__(**bersihkan_config(kwargs))
-
-class SafeDropout(Dropout):
-    def __init__(self, **kwargs):
-        super().__init__(**bersihkan_config(kwargs))
-
-# 1. Membuat fondasi server
 app = Flask(__name__)
 CORS(app) 
 
-print("Sedang memuat model AI dan Tokenizer, mohon tunggu...")
+print("Sedang membangun Arsitektur AI dan memuat Otak (Weights), mohon tunggu...")
 
-# 2. Memuat otak AI dengan memasang satpam ke semua layer
-satpam_layer = {
-    'Embedding': SafeEmbedding,
-    'Dense': SafeDense,
-    'LSTM': SafeLSTM,
-    'Dropout': SafeDropout
-}
+def build_model(vocab_size=10000, max_length=100):
+    input_text = layers.Input(shape=(max_length,), name="input_teks")
+    embedding = layers.Embedding(input_dim=vocab_size, output_dim=64)(input_text)
+    lstm_layer = layers.Bidirectional(layers.LSTM(64, return_sequences=False))(embedding)
+    
+    dense_1 = layers.Dense(32, activation='relu')(lstm_layer)
+    dropout = layers.Dropout(0.3)(dense_1)
+    dense_2 = layers.Dense(16, activation='relu')(dropout)
+    
+    output_level = layers.Dense(1, activation='sigmoid', name="prediksi_level")(dense_2)
+    output_label = layers.Dense(3, activation='softmax', name="prediksi_label")(dense_2)
+    
+    model = Model(inputs=input_text, outputs=[output_level, output_label])
+    return model
 
-# Load model dengan penjagaan ketat
-model_ai = load_model('model_zan.h5', custom_objects=satpam_layer)
+model_ai = build_model()
 
-# 3. Membaca kamus kata (Tokenizer)
+model_ai.load_weights('model_zan.keras')
+
 with open('tokenizer_sidang.pkl', 'rb') as file_kamus:
     tokenizer = pickle.load(file_kamus)
 
 print("Status: Model AI dan Tokenizer berhasil dihidupkan!")
 
-# 4. Membuat Pintu Masuk (Endpoint)
 @app.route('/api/prediksi', methods=['POST'])
 def proses_penilaian():
-    # A. Pengecekan barang bawaan dari React
     if 'file_skripsi' not in request.files:
         return jsonify({"error": "File PDF skripsi tidak ditemukan!"}), 400
     
     if 'teks_mahasiswa' not in request.form:
         return jsonify({"error": "Teks presentasi mahasiswa tidak ditemukan!"}), 400
 
-    # B. Mengambil barang bawaannya
     file_pdf = request.files['file_skripsi']
     teks_mahasiswa = request.form['teks_mahasiswa']
 
-    # C. Ekstraksi teks dari PDF
     teks_skripsi = ""
     try:
         reader = PyPDF2.PdfReader(file_pdf)
@@ -82,7 +57,6 @@ def proses_penilaian():
     except Exception as e:
         return jsonify({"error": f"Gagal membaca PDF: {str(e)}"}), 500
 
-    # D. Cek Kesesuaian / Nyambung atau Tidak (TF-IDF)
     try:
         vectorizer = TfidfVectorizer()
         tfidf_matrix = vectorizer.fit_transform([teks_skripsi, teks_mahasiswa])
@@ -90,7 +64,6 @@ def proses_penilaian():
     except:
         skor_match = 0.0
 
-    # E. Proses Penilaian Psikologi & Pemahaman (LSTM)
     sekuens = tokenizer.texts_to_sequences([teks_mahasiswa])
     siap_masuk = pad_sequences(sekuens, maxlen=100, padding='post', truncating='post')
     
@@ -99,7 +72,6 @@ def proses_penilaian():
     prob_pede = float(hasil_prediksi[0][0][0]) * 100
     prob_paham = hasil_prediksi[1][0]
 
-    # F. Menerjemahkan Angka jadi Keputusan
     if prob_pede >= 50:
         keputusan_pede = "Percaya Diri"
     else:
@@ -113,7 +85,6 @@ def proses_penilaian():
     else:
         keputusan_paham = daftar_label[index_jawaban]
 
-    # G. Membungkus paket untuk React (JSON)
     hasil_akhir = {
         "status": "success",
         "kesesuaian_skripsi_persen": round(skor_match * 100, 2),
@@ -126,8 +97,7 @@ def proses_penilaian():
 
 @app.route('/', methods=['GET'])
 def halaman_utama():
-    return "<h1>Server SkripsiVibe AI Berjalan Normal! 🚀</h1><p>Gunakan endpoint POST ke <b>/api/prediksi</b> untuk menilai mahasiswa.</p>"
+    return "<h1>Server SkripsiVibe AI Berjalan Normal!</h1><p>Gunakan endpoint POST ke <b>/api/prediksi</b> untuk menilai mahasiswa.</p>"
 
-# 5. Tombol Power untuk menyalakan Server
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
