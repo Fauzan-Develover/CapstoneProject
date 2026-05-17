@@ -5239,10 +5239,8 @@ id,jurusan,teks,level,score,label
 5425,Teknik Sipil,variabel terikat analisis pushover dikaji ulang untuk optimasi desain untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,0.803,3
 5426,Teknik Sipil,dalam konteks ini perancangan fondasi bore pile diukur menggunakan instrumen presisi untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,0.931,3
 5428,Teknik Sipil,implementasi metode rencana anggaran biaya dikaji ulang untuk optimasi desain untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,0.765,1
-5429,Teknik Sipil,perhitungan manual mitigasi gempa diukur menggunakan instrumen presisi untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,-0.85,3
 5430,Teknik Sipil,meninjau ulang perkuatan dinding penahan tanah dianalisis menggunakan pendekatan numerik untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,0.923,3
 5431,Teknik Sipil,terkait desain rencana anggaran biaya diperhitungkan berdasarkan standar sni untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,0.904,3
-5432,Teknik Sipil,sebagaimana dijelaskan kapasitas dukung tanah diperhitungkan berdasarkan standar sni untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,1.5,3
 5433,Teknik Sipil,perhitungan manual kuat tekan beton diperhitungkan berdasarkan standar sni untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,0.933,3
 5434,Teknik Sipil,mengevaluasi kinerja deformasi material komposit dievaluasi secara komprehensif untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,0.9,1
 5435,Teknik Sipil,untuk pengujian kurva s proyek diuji melalui simulasi perangkat lunak untuk memastikan integritas struktural dapat dipertanggungjawabkan,1,0.84,3
@@ -5287,7 +5285,6 @@ id,jurusan,teks,level,score,label
 5477,Teknik Sipil,sejauh pemahaman saya stabilitas lereng berpengaruh pada umur rencana walau saya butuh waktu untuk merincinya lebih detail,1,0.415,2
 5478,Teknik Sipil,kira kira seperti itu perancangan fondasi bore pile berkaitan dengan kekuatan struktur walau saya butuh waktu untuk merincinya lebih detail,1,0.652,2
 5479,Teknik Sipil,asumsi saya saat ini perkuatan dinding penahan tanah dilakukan untuk mereduksi risiko walau saya butuh waktu untuk merincinya lebih detail,0,0.426,2
-5480,Teknik Sipil,mungkin saja pendekatannya perkuatan dinding penahan tanah dilakukan untuk mereduksi risiko walau saya butuh waktu untuk merincinya lebih detail,0,1.5,2
 5481,Teknik Sipil,sepertinya drainase perkotaan bertujuan melihat respons material walau saya butuh waktu untuk merincinya lebih detail,0,0.505,2
 5483,Teknik Sipil,tampaknya penerapan kinerja seismik berpengaruh pada umur rencana walau saya butuh waktu untuk merincinya lebih detail,0,0.655,2
 5484,Teknik Sipil,saya berasumsi hidrologi kawasan bertujuan melihat respons material walau saya butuh waktu untuk merincinya lebih detail,1,0.408,2
@@ -5300,7 +5297,6 @@ id,jurusan,teks,level,score,label
 5493,Teknik Sipil,saya berasumsi distribusi tegangan dilakukan untuk mereduksi risiko walau saya butuh waktu untuk merincinya lebih detail,0,0.401,2
 5494,Teknik Sipil,berdasarkan literatur seingat saya kinerja seismik berpengaruh pada umur rencana walau saya butuh waktu untuk merincinya lebih detail,1,0.723,2
 5495,Teknik Sipil,dalam bayangan saya respons dinamik struktur berkaitan dengan kekuatan struktur walau saya butuh waktu untuk merincinya lebih detail,1,0.688,1
-5496,Teknik Sipil,kalau tidak keliru drainase perkotaan berkaitan dengan kekuatan struktur walau saya butuh waktu untuk merincinya lebih detail,0,-0.85,2
 5498,Teknik Sipil,kalau tidak keliru respons dinamik struktur berkaitan dengan kekuatan struktur walau saya butuh waktu untuk merincinya lebih detail,0,0.586,2
 5499,Teknik Sipil,bisa dibilang koefisien permeabilitas berkaitan dengan kekuatan struktur walau saya butuh waktu untuk merincinya lebih detail,1,0.546,1
 5500,Teknik Sipil,seingat saya dari jurnal pemadatan tanah lapis dasar berpengaruh pada umur rencana walau saya butuh waktu untuk merincinya lebih detail,1,0.63,2
@@ -5388,14 +5384,12 @@ id,jurusan,teks,level,score,label
 5586,Teknik Sipil,perencanaan geometri jalan dianalisis menggunakan perangkat lunak elemen hingga guna memastikan akurasi data,1,0.872,3
 5587,Teknik Sipil,observasi lapangan memberikan data awal dan kemudian kapasitas dukung tanah dikalkulasi berdasarkan standar nasional,1,0.952,1
 5588,Teknik Sipil,merujuk pada sni maka deformasi material dievaluasi ulang,1,0.787,3
-5589,Teknik Sipil,berdasarkan literatur maka dinding penahan tanah dievaluasi ulang,1,-0.85,3
 5590,Teknik Sipil,peneliti telah memvalidasi campuran aspal panas melalui simulasi numerik secara komprehensif,1,0.973,3
 5591,Teknik Sipil,observasi lapangan memberikan data awal dan kemudian analisis hidrolika dikalkulasi berdasarkan standar nasional,1,0.807,3
 5592,Teknik Sipil,berdasarkan literatur maka manajemen waktu proyek dievaluasi ulang,1,0.771,3
 5593,Teknik Sipil,kami telah memvalidasi campuran aspal panas melalui simulasi numerik secara komprehensif,1,0.781,3
 5594,Teknik Sipil,merujuk pada sni maka campuran aspal panas dievaluasi ulang,1,0.814,3
 5595,Teknik Sipil,sangat krusial peran respons dinamik struktur dalam menentukan umur rencana infrastruktur tersebut,1,0.981,3
-5597,Teknik Sipil,observasi lapangan memberikan data awal dan kemudian mitigasi gempa dikalkulasi berdasarkan standar nasional,1,99.0,3
 5599,Teknik Sipil,tim telah memvalidasi manajemen waktu proyek melalui simulasi numerik secara komprehensif,1,0.755,3
 5601,Teknik Sipil,sepertinya uji kuat tarik dipengaruhi oleh kurva s walau saya perlu mengeceknya ulang,0,0.423,2
 5602,Teknik Sipil,sejauh yang saya pelajari metode elemen hingga dipengaruhi oleh stabilitas lereng walau saya perlu mengeceknya ulang,1,0.495,2
@@ -5434,8 +5428,6 @@ id,jurusan,teks,level,score,label
 5638,Teknik Sipil,sejauh yang saya pelajari kinerja seismik bertujuan mereduksi kurva s walau saya perlu mengeceknya ulang,1,0.631,2
 5639,Teknik Sipil,sejauh pemahaman saya kuat tekan beton dipengaruhi oleh kapasitas dukung tanah walau saya perlu mengeceknya ulang,1,0.597,2
 5641,Teknik Sipil,sejauh yang saya pelajari drainase perkotaan berkaitan erat dengan respons dinamik struktur walau saya perlu mengeceknya ulang,0,0.531,2
-5642,Teknik Sipil,saya berasumsi distribusi tegangan berkaitan erat dengan analisis struktur baja walau saya perlu mengeceknya ulang,0,99.0,2
-5643,Teknik Sipil,kalau saya tidak salah tangkap kinerja seismik memiliki dampak terhadap drainase perkotaan walau saya perlu mengeceknya ulang,0,99.0,2
 5644,Teknik Sipil,sejauh yang saya pelajari penurunan konsolidasi memiliki dampak terhadap koefisien permeabilitas walau saya perlu mengeceknya ulang,1,0.627,2
 5645,Teknik Sipil,sepertinya metode mitigasi gempa diaplikasikan pada uji kuat tarik walau saya perlu mengeceknya ulang,1,0.443,2
 5646,Teknik Sipil,dalam bayangan saya rencana anggaran biaya dipengaruhi oleh mitigasi gempa walau saya perlu mengeceknya ulang,1,0.609,2
@@ -5472,11 +5464,9 @@ id,jurusan,teks,level,score,label
 5678,Teknik Sipil,hal tersebut dihitung dihitung pakai eh maksud saya tidak dihitung bu,0,0.116,1
 5679,Teknik Sipil,maafkan saya bu karena kepanikan ini penjelasan detail tentang distribusi tegangan tidak bisa saya ingat sama sekali,0,0.189,1
 5682,Teknik Sipil,saya memohon pengertian bapak karena saking gugupnya teori perencanaan geometri jalan tersebut tidak bisa saya ingat,0,0.025,1
-5683,Teknik Sipil,mohon maaf yang sebesar besarnya bu saya menyerah pada pertanyaan kuat tekan beton ini karena terlalu gugup,0,1.5,1
 5684,Teknik Sipil,variabelnya adalah adalah kuat eh bukan maaf variabel independen pak,0,0.068,1
 5686,Teknik Sipil,maafkan ketidakmampuan saya bu saat ini kepanikan menguasai saya hingga tidak bisa menjawab soal perkerasan lentur,0,0.276,1
 5688,Teknik Sipil,faktor respons dinamik struktur dikonsepkan pengkonsepannya supaya konsepnya jelas dan lalu kemudian menjadi jelas,0,0.283,1
-5689,Teknik Sipil,nilainya didapat didapat dari oh astaga ralat dari lampiran pak,0,99.0,1
 5690,Teknik Sipil,ya ampun mendadak saya tidak bisa berpikir jernih bu maaf mengenai kapasitas dukung tanah,0,0.23,1
 5691,Teknik Sipil,aduh pikiran saya terhenti mendadak bu maafkan saya mengenai uji kuat tarik,0,0.326,1
 5695,Teknik Sipil,mohon maaf bapak sejujurnya saya sangat gugup saat ini dan variabel kuat geser tanah itu benar benar hilang dari ingatan saya,0,0.142,1
@@ -5532,12 +5522,10 @@ id,jurusan,teks,level,score,label
 5903,Teknik Sipil,mungkin uji triaksial banyak dipengaruhi oleh aspek lainnya walau saya butuh waktu mengingatnya kembali,0,0.652,2
 5904,Teknik Sipil,saya sangat memohon pengertian luhur bapak karena saking gugupnya landasan teori koefisien permeabilitas tersebut mustahil saya ingat,0,0.21,1
 5905,Teknik Sipil,menurut ingatan pendek saya pemadatan lapis dasar banyak dipengaruhi oleh aspek lainnya walau saya butuh waktu mengingatnya kembali,1,0.61,2
-5906,Teknik Sipil,kami mengimplementasikan algoritma lanjutan agar deformasi material dapat diproyeksikan secara akurat,1,99.0,3
 5907,Teknik Sipil,pendekatan elemen hingga membuktikan bahwa analisis hidrolika mampu menahan tegangan geser rencana,1,0.879,3
 5908,Teknik Sipil,mohon maaf bu saya resmi mengibarkan bendera putih untuk menanggapi pertanyaan metode elemen hingga ini karena terlampau tegang,0,0.051,3
 5909,Teknik Sipil,pendekatan elemen hingga membuktikan bahwa deformasi material mampu menahan tegangan geser rencana,1,0.99,1
 5911,Teknik Sipil,faktor pengali penurunan konsolidasi dikonseptualisasikan alur pengkonsepannya supaya idenya terang benderang dan lalu kemudian menjadi terang,0,0.181,1
-5912,Teknik Sipil,kami mengimplementasikan algoritma lanjutan agar respons dinamik struktur dapat diproyeksikan secara akurat,1,-0.85,3
 5913,Teknik Sipil,sepertinya perkerasan lentur banyak dipengaruhi oleh aspek lainnya walau saya butuh waktu mengingatnya kembali,1,0.474,2
 5914,Teknik Sipil,bila merujuk pada ingatan lama saya mitigasi gempa banyak dipengaruhi oleh aspek lainnya walau saya butuh waktu mengingatnya kembali,1,0.505,2
 5915,Teknik Sipil,analisis struktur baja dianalisis menggunakan perangkat keras mutakhir guna memastikan akurasi data proyek,1,0.914,3
@@ -5553,7 +5541,6 @@ id,jurusan,teks,level,score,label
 5927,Teknik Sipil,kira kira seperti itu penurunan konsolidasi banyak dipengaruhi oleh aspek lainnya walau saya butuh waktu mengingatnya kembali,0,0.644,2
 5928,Teknik Sipil,dalam lingkup keteknikan sipil evaluasi kurva s menjadi landasan utama pengambilan keputusan,1,0.86,3
 5929,Teknik Sipil,adapun variabel pendukung koefisien permeabilitas telah dikalibrasi sesuai manual operasional baku,1,0.928,1
-5930,Teknik Sipil,mungkin deformasi material bertujuan pokok mereduksi aspek lainnya walau saya butuh waktu mengingatnya kembali,0,99.0,2
 5931,Teknik Sipil,tim peneliti telah memvalidasi penurunan konsolidasi melalui simulasi numerik secara terperinci,1,0.759,3
 5932,Teknik Sipil,dalam pandangan sementara saya dinding penahan tanah bertujuan pokok mereduksi aspek lainnya walau saya butuh waktu mengingatnya kembali,1,0.441,2
 5933,Teknik Sipil,adapun variabel pendukung pemadatan lapis dasar telah dikalibrasi sesuai manual operasional baku,1,0.901,3
@@ -5609,8 +5596,6 @@ id,jurusan,teks,level,score,label
 5987,Teknik Sipil,pemodelan teknis kurva s disusun tahapan pembuatannya agar visual modelnya terbentuk sempurna dan selanjutnya lalu terbentuk riil,0,0.105,1
 5988,Teknik Sipil,waduh konsep itu mendadak hilang tanpa sisa dari ingatan saya pak hmmm mengenai perilaku lentur balok,0,0.328,1
 5990,Teknik Sipil,saya memohon maaf atas kekurangan grafis namun kalibrasi ulang menunjukkan analisis hidrolika tetap dapat dipertanggungjawabkan,1,0.914,3
-5991,Teknik Sipil,metodologi penurunan konsolidasi diputuskan penggunaannya agar mekanismenya berfungsi lancar lalu dan seterusnya berfungsi terus menerus,0,-0.85,1
-5992,Teknik Sipil,dalam lingkup keteknikan sipil evaluasi perkerasan lentur menjadi landasan utama pengambilan keputusan,1,-0.85,3
 5994,Teknik Sipil,kami mengimplementasikan algoritma lanjutan agar dinding penahan tanah dapat diproyeksikan secara akurat,1,0.889,3
 5995,Teknik Sipil,sistem drainase bekerja bekerja secara oh maaf ralat sistem gravitasi pak,0,0.272,1
 5996,Teknik Sipil,komponen variabelnya adalah adalah kurva eh bukan maaf variabel terikat pak,0,0.191,1
@@ -5657,7 +5642,6 @@ id,jurusan,teks,level,score,label
 6041,Farmasi,sebagai langkah tindak lanjut teknis implementasi mikroenkapsulasi diuji coba kembali pada kondisi penyimpanan ekstrem,1,0.855,3
 6042,Farmasi,walaupun reaksi sintesis sempat error pada awalnya tetapi pendekatan metode alternatif mampu mengatasi hal tersebut sehingga mikroenkapsulasi tetap dapat dilanjutkan dengan valid,1,0.828,3
 6043,Farmasi,hasil fraksinasi pertama dinilai gagal serta evaluasi lanjutan membuktikan bahwa uji stabilitas fisik tetap dapat dilanjutkan dengan valid,1,0.77,3
-6044,Farmasi,faktor nilai regresi linear pada mikroenkapsulasi dikonseptualisasikan kerangka perhitungannya supaya proses penetapan kadarnya terang benderang jelas validnya dan lalu kemudian menjadi jalan penyelesaian,0,-0.85,1
 6046,Farmasi,bila merujuk pada histori catatan praktikum saya ekstrak etanol daun bertujuan pokok untuk mengoptimalkan absorpsi obat tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,1,0.401,2
 6047,Farmasi,maaf pak penguji tiba tiba isi memori kepala saya kosong melompong saat ditanya seputar interaksi obat itu mengenai pokok bahasan pengujian in vitro,0,0.242,1
 6048,Farmasi,waduh saya benar benar lupa struktur senyawa tersebut padahal baru saja saya gambar strukturnya tadi pagi buta mengenai pokok bahasan skrining fitokimia,0,0.302,1
@@ -5670,7 +5654,6 @@ id,jurusan,teks,level,score,label
 6055,Farmasi,walaupun pengujian ekstraksi berstatus gagal lalu optimasi ulang menunjukkan optimasi formula tetap dapat dilanjutkan dengan valid,1,0.954,3
 6056,Farmasi,sistem penghantaran ini menahan menahan degradasi asam lambung oh maaf maksud saya pelepasan burst pak,0,0.307,1
 6057,Farmasi,saya rasa kemungkinan hasil keluaran dari ekstraksi maserasi banyak dipengaruhi secara langsung oleh variasi ph tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,1,0.691,2
-6058,Farmasi,mohon ampun beribu ampun bapak saya betul betul tidak mampu menyimpan memori lagi mengenai landasan teori pengujian in vitro akibat gugup parah saat ujian komprehensif ini,0,-0.85,1
 6059,Farmasi,sejauh prinsip kerja alat yang sempat saya pahami mikroenkapsulasi sering diaplikasikan khususnya pada pengembangan sistem penghantaran obat tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,0,0.634,2
 6061,Farmasi,sepertinya kalau dipikir metode spektrofotometri uvvis berkaitan cukup erat secara profil farmakokinetik tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,0,0.602,2
 6062,Farmasi,secara garis besar mungkin gambaran formulasinya farmakodinamik sediaan banyak dipengaruhi secara langsung oleh variasi ph tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,1,0.686,2
@@ -5693,10 +5676,8 @@ id,jurusan,teks,level,score,label
 6079,Farmasi,didapatkan sebuah konklusi klinis bahwa aktivitas antibakteri memenuhi seluruh prasyarat standar keamanan obat terkini,1,0.811,3
 6080,Farmasi,berdasarkan literatur jurnal farmakognosi terbaru optimasi metabolit sekunder terbukti mempercepat waktu rilis zat aktif,1,0.83,3
 6081,Farmasi,tim peneliti telah memvalidasi keandalan uji disolusi terbanding melalui tahapan pengujian in vivo secara berulang,1,0.826,1
-6082,Farmasi,sistem formulasi tablet farmakognosi terapan direncanakan detail komposisinya agar granulnya matang menyeluruh bisa dikempa dan lalu selanjutnya diuji lagi sifat alirnya kalau kurang,0,-0.85,1
 6083,Farmasi,seingat saya dari halaman lampiran hasil formulasi sediaan tablet banyak dipengaruhi secara langsung oleh variasi ph tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,1,0.581,2
 6084,Farmasi,pengumpulan data absorbansi memberikan landasan desain awal dan kemudian farmakokinetik klinis dirancang sesuai kebutuhan formulasi,1,0.769,3
-6085,Farmasi,asumsi hipotesis saya untuk saat ini aktivitas antioksidan bertujuan pokok untuk mengoptimalkan absorpsi obat tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,0,-0.85,2
 6086,Farmasi,astaga memohon maaf pak saya grogi luar biasa sekali sampai ngeblank parah saat disuruh membaca kromatogram mengenai pokok bahasan farmakognosi terapan,0,0.05,1
 6087,Farmasi,bila merujuk pada histori catatan praktikum saya profil disolusi banyak dipengaruhi secara langsung oleh variasi ph tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,0,0.587,2
 6088,Farmasi,secara garis besar mungkin gambaran formulasinya optimasi formula memiliki potensi dampak langsung terhadap laju disolusi tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,1,0.679,2
@@ -5725,10 +5706,8 @@ id,jurusan,teks,level,score,label
 6112,Farmasi,dalam lingkup riset pengembangan obat baru penerapan mikroenkapsulasi menjadi pondasi utama tahapan preklinis,1,0.976,3
 6113,Farmasi,meskipun implementasi uji toksisitas gagal pada tahap inisiasi maka pendekatan metode alternatif mampu mengatasi hal tersebut sehingga aktivitas antioksidan tetap dapat dilanjutkan dengan valid,1,0.99,3
 6114,Farmasi,hasil fraksinasi pertama dinilai gagal serta penyesuaian konsentrasi pelarut berhasil memperbaiki waktu paruh eliminasi tetap dapat dilanjutkan dengan valid,1,0.929,3
-6115,Farmasi,kira kira bentuk mekanismenya menyerupai hal tersebut standarisasi ekstrak bertujuan pokok untuk mengoptimalkan absorpsi obat tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,1,-0.85,2
 6116,Farmasi,tim peneliti telah memvalidasi keandalan formulasi sediaan tablet melalui tahapan pengujian in vivo secara berulang,1,0.825,3
 6118,Farmasi,sejauh batasan pemahaman teori dasar saya kromatografi cair kinerja tinggi bertujuan pokok untuk mengoptimalkan absorpsi obat tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,1,0.682,2
-6119,Farmasi,pendekatan metode ekstraksi bertingkat membuktikan secara nyata bahwa kromatografi lapis tipis mampu meningkatkan kemurnian isolat,1,1.5,3
 6120,Farmasi,sejauh batasan pemahaman teori dasar saya uji iritasi kulit sering diaplikasikan khususnya pada pengembangan sistem penghantaran obat tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,1,0.561,2
 6121,Farmasi,pendekatan metode ekstraksi bertingkat membuktikan secara nyata bahwa waktu paruh eliminasi mampu meningkatkan kemurnian isolat,1,0.781,3
 6122,Farmasi,tujuan dari pemanfaatan uji mikroenkapsulasi ini dilaksanakan agar khasiatnya bisa sesuai target terapi lalu dan kemudian hasilnya ditargetkan berulang lagi pada pasien,0,0.338,1
@@ -5754,7 +5733,6 @@ id,jurusan,teks,level,score,label
 6146,Farmasi,seingat saya dari halaman lampiran hasil uji stabilitas fisik bertujuan pokok untuk mengoptimalkan absorpsi obat tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,0,0.693,1
 6147,Farmasi,aduh kemampuan menalar data farmakokinetik saya terhenti mendadak bu maafkan sekali kelemahan saya ini mengenai pokok bahasan farmakodinamik sediaan,0,0.371,1
 6148,Farmasi,menurut sisa ingatan pendek yang saya miliki evaluasi sediaan salep memiliki potensi dampak langsung terhadap laju disolusi tersebut walau saya butuh sedikit waktu memastikan kembali prosedurnya,1,0.659,2
-6149,Farmasi,adapun parameter pengujian terkait metabolit sekunder telah dikonfigurasi menyesuaikan panduan pedoman cpob baku,1,99.0,3
 6150,Farmasi,mohon maaf bapak dosen penguji sejujurnya batin saya sangat gugup sekali saat ini dan materi konsep pengujian in vitro itu benar benar hilang tak tersisa setetespun dari ingatan saya,0,0.091,1
 6151,Farmasi,maafkan keterbatasan kemampuan akademik dasar kefarmasian saya bu karena kepanikan luar biasa ini alur prosedur kerja lab tentang kromatografi cair kinerja tinggi tidak sanggup saya ingat sama sekali di dalam kepala,0,0.295,1
 6152,Farmasi,sepertinya kalau dipikir senyawa bioaktif bertujuan pokok untuk mengoptimalkan absorbsi senyawa tersebut operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,1,0.673,2
@@ -5808,7 +5786,6 @@ id,jurusan,teks,level,score,label
 6205,Farmasi,kira kira bentuk profilnya menyerupai hal tersebut optimasi formula memiliki potensi dampak langsung terhadap laju disolusi obat operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,0.647,2
 6206,Farmasi,parameter batas tahapan pengujian fisik aktivitas antioksidan tersebut dinilai progres proses ujinya untuk mendapatkan lembar catatan hasil evaluasi fisik yang lalu dievaluasi kembali nantinya di akhir uji,0,0.157,1
 6207,Farmasi,merujuk pada parameter kompendial yang berlaku maka aktivitas antioksidan dikaji ulang dengan tingkat presisi amat tinggi,1,0.866,3
-6208,Farmasi,berdasarkan literatur jurnal farmasi fisika terbaru optimasi implementasi pengujian in vitro terbukti mempercepat waktu rilis zat aktif sediaan,1,-0.85,3
 6209,Farmasi,bila merujuk pada histori catatan jurnal lab saya uji disolusi terbanding bertujuan pokok untuk mengoptimalkan absorbsi senyawa tersebut operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,0.661,2
 6210,Farmasi,berdasarkan beberapa literatur seingat saya pelepasan obat terkontrol memiliki potensi dampak langsung terhadap laju disolusi obat operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,1,0.497,2
 6211,Farmasi,prosesnya nanti akan selalu melibatkan melibatkan pemanasan suhu tinggi oh ralat maksudnya pendinginan es pak,0,0.085,1
@@ -5842,7 +5819,6 @@ id,jurusan,teks,level,score,label
 6239,Farmasi,saya pribadi agak menduga duga efeknya ekstrak etanol daun bertujuan pokok untuk mengoptimalkan absorbsi senyawa tersebut operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,0.591,2
 6240,Farmasi,merujuk pada parameter kompendial yang berlaku maka ekstrak etanol daun dikaji ulang dengan tingkat presisi amat tinggi,1,0.872,3
 6242,Farmasi,sejujurnya otak logika analitik farmasi saya sangat tegang kaku pak dan sungguh tidak mampu lagi mengais sisa ingatan mengenai interpretasi kurva mikroenkapsulasi tersebut,0,0.033,1
-6243,Farmasi,langkah inisiasi uji in vitro ini untuk untuk mengukur tegangan permukaan eh maaf bukan itu hasil evaluasi stabilitasnya bu,0,1.5,1
 6245,Farmasi,kami merancang sebuah kerangka kerja uji lanjutan agar metabolit sekunder dapat dieksekusi secara otomatis terstruktur dan reprodusibel,1,0.935,1
 6246,Farmasi,pengumpulan spesifikasi bahan baku memberikan landasan desain awal dan kemudian skrining fitokimia dirancang sesuai kebutuhan terapi,1,0.771,3
 6247,Farmasi,hasil perhitungan kurva kadar dari aktivitas antioksidan ini dikaji ulang kembali terus supaya persentasenya tercapai mantap persis dan selanjutnya dianalisis berulang kali lagi tanpa henti statistiknya,0,0.212,1
@@ -5856,7 +5832,6 @@ id,jurusan,teks,level,score,label
 6257,Farmasi,ya ampun bu saya seketika blank seketika padahal itu merupakan bagian tahapan ekstraksi isolasi paling krusial di bab tiga mengenai pokok landasan skrining fitokimia,0,0.023,1
 6258,Farmasi,bisa dibilang secara teoritis sintesis turunan senyawa bertujuan pokok untuk mengoptimalkan absorbsi senyawa tersebut operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,0.7,1
 6259,Farmasi,saya memohon maaf atas minimnya rendemen ekstrak namun optimasi parameter ulang menunjukkan mikroenkapsulasi tetap dapat dilanjutkan secara presisi dan stabil,1,0.863,3
-6260,Farmasi,maaf bu saya benar benar blank parah sekarang padahal rumusan resep komposisinya tergolong lumayan standar mengenai pokok landasan kromatografi lapis tipis,0,1.5,1
 6261,Farmasi,seingat saya dari halaman lampiran hasil uji profil disolusi memiliki potensi dampak langsung terhadap laju disolusi obat operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,0.591,2
 6262,Farmasi,pengujian laju disolusi komponen sempat gagal tetapi pemeriksaan spektrum mendalam memberikan kepastian bahwa reseptor agonis antagonis tetap dapat dilanjutkan secara presisi dan stabil,1,0.753,3
 6263,Farmasi,melalui serangkaian studi praklinis standarisasi ekstrak menunjukkan tingkat korelasi yang sangat positif terhadap efektivitas penyembuhan,1,0.922,3
@@ -5889,7 +5864,6 @@ id,jurusan,teks,level,score,label
 6294,Farmasi,parameter batas tahapan pengujian fisik bioavailabilitas obat tersebut dinilai progres proses ujinya untuk mendapatkan lembar catatan hasil evaluasi fisik yang lalu dievaluasi kembali nantinya di akhir uji,0,0.148,1
 6295,Farmasi,metodologi tahapan ekstraksi maserasi formulasi sediaan tablet diputuskan penerapannya secara sadar agar penyariannya berjalan lancar terus lalu dan seterusnya berjalan terus menerus tanpa henti menyari zat aktifnya,0,0.061,1
 6296,Farmasi,meskipun implementasi uji toksisitas gagal pada iterasi awal maka pendekatan metodologi alternatif mampu mengatasi hal tersebut sehingga farmakokinetik klinis tetap dapat dilanjutkan secara presisi dan stabil,1,0.918,3
-6297,Farmasi,dalam lingkup riset kefarmasian modern penerapan ekstrak etanol daun menjadi pondasi utama tahapan penemuan obat baru,1,1.5,3
 6298,Farmasi,aduh ngeblank total pak langkah kerja optimasi formula saya tiba tiba buntu total di tengah jalan presentasi sidang mengenai pokok landasan skrining fitokimia,0,0.222,1
 6299,Farmasi,didapatkan sebuah konklusi teknis bahwa kromatografi lapis tipis memenuhi seluruh prasyarat keamanan obat terkini,1,0.753,3
 6300,Farmasi,hasil skrining pertama dinilai gagal serta optimasi parameter ulang menunjukkan farmakognosi terapan tetap dapat dilanjutkan secara presisi dan stabil,1,0.816,3
@@ -5907,7 +5881,6 @@ id,jurusan,teks,level,score,label
 6312,Farmasi,maafkan keterbatasan kemampuan akademik dasar kefarmasian saya bu karena kepanikan luar biasa ini alur prosedur kerja lab tentang senyawa bioaktif tidak sanggup saya ingat sama sekali di dalam kepala,0,0.051,1
 6313,Farmasi,sebagai langkah tindak lanjut analitik implementasi pengujian in vitro diuji coba kembali pada kondisi penyimpanan dipercepat,1,0.954,3
 6314,Farmasi,walaupun reaksi esterifikasi sempat error pada awalnya tetapi penyesuaian konsentrasi dapar berhasil memperbaiki standarisasi ekstrak tetap dapat dilanjutkan secara presisi dan stabil,1,0.768,3
-6315,Farmasi,saya rasa kemungkinan hasil keluaran serapan dari pengujian in vivo memiliki potensi dampak langsung terhadap laju disolusi obat operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,1,-0.85,2
 6317,Farmasi,metodologi tahapan ekstraksi maserasi aktivitas antioksidan diputuskan penerapannya secara sadar agar penyariannya berjalan lancar terus lalu dan seterusnya berjalan terus menerus tanpa henti menyari zat aktifnya,0,0.243,1
 6318,Farmasi,data serapan panjang gelombang diambil melalui melalui kuvet kuarsa oh astaga maksud saya ambil detektor indeks bias langsung pak,0,0.247,1
 6319,Farmasi,bila merujuk pada histori catatan jurnal lab saya metabolit sekunder sering diaplikasikan khususnya pada pengembangan sistem penghantaran tertarget operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,0.416,2
@@ -5919,7 +5892,6 @@ id,jurusan,teks,level,score,label
 6325,Farmasi,mohon maaf bu saya dengan resmi mengibarkan bendera putih untuk menanggapi urusan pertanyaan prediksi interaksi obat uji stabilitas fisik ini karena terlampau blank memikirkan efek toksiknya,0,0.139,1
 6326,Farmasi,sepertinya alur prosedur analitik kromatografi cair kinerja tinggi sering diaplikasikan khususnya pada pengembangan sistem penghantaran tertarget operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,0.725,2
 6327,Farmasi,kondisi awal pelarut belum menunjukkan hasil maksimal tetapi pemeriksaan spektrum mendalam memberikan kepastian bahwa pelepasan obat terkontrol tetap dapat dilanjutkan secara presisi dan stabil,1,0.925,3
-6328,Farmasi,secara garis besar mungkin gambaran formulasinya sintesis turunan senyawa berkaitan cukup erat secara profil farmakokinetik operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,-0.85,2
 6329,Farmasi,kita mencoba menganalisa melihat melihat dari sisi uji organoleptis oh ralat bukan dari pengamatan mikroskopis stomata bu,0,0.321,3
 6330,Farmasi,bila merujuk pada histori catatan jurnal lab saya pelepasan obat terkontrol bertujuan pokok untuk mengoptimalkan absorbsi senyawa tersebut operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,0.547,2
 6332,Farmasi,kalau saya tidak terlampau keliru menangkap mekanismenya metabolit sekunder banyak dipengaruhi secara langsung oleh variasi ph medium operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,0,0.474,2
@@ -5969,7 +5941,6 @@ id,jurusan,teks,level,score,label
 6379,Farmasi,didapatkan sebuah konklusi teknis bahwa aktivitas antibakteri memenuhi seluruh prasyarat keamanan obat terkini,1,0.811,3
 6380,Farmasi,berdasarkan literatur jurnal farmasi fisika terbaru optimasi implementasi metabolit sekunder terbukti mempercepat waktu rilis zat aktif sediaan,1,0.83,3
 6381,Farmasi,tim formulator telah memvalidasi keandalan uji disolusi terbanding melalui tahapan pengujian fisikokimia secara berulang,1,0.826,1
-6382,Farmasi,sistem rancangan formulasi tablet farmakognosi terapan direncanakan detail komposisi campurannya agar massa granulnya matang menyeluruh sempurna bisa dikempa dan lalu selanjutnya diuji lagi sifat laju alirnya kalau kurang,0,-0.85,1
 6383,Farmasi,seingat saya dari halaman lampiran hasil uji formulasi sediaan tablet banyak dipengaruhi secara langsung oleh variasi ph medium operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,1,0.581,2
 6384,Farmasi,pengumpulan spesifikasi bahan baku memberikan landasan desain awal dan kemudian farmakokinetik klinis dirancang sesuai kebutuhan terapi,1,0.769,3
 6386,Farmasi,astaga memohon maaf pak saya grogi luar biasa sekali sampai ngeblank parah saat disuruh memikirkan interpretasi spektrum infra merah mengenai pokok landasan farmakognosi terapan,0,0.05,1
@@ -6003,7 +5974,6 @@ id,jurusan,teks,level,score,label
 6416,Farmasi,tim formulator telah memvalidasi keandalan formulasi sediaan tablet melalui tahapan pengujian fisikokimia secara berulang,1,0.825,3
 6417,Farmasi,bisa dibilang secara teoritis metode spektrofotometri uvvis berkaitan cukup erat secara profil farmakokinetik operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,1,0.468,3
 6418,Farmasi,sejauh batasan pemahaman farmakologi terbatas saya kromatografi cair kinerja tinggi bertujuan pokok untuk mengoptimalkan absorbsi senyawa tersebut operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,1,0.682,2
-6419,Farmasi,pendekatan metode ekstraksi terkini membuktikan secara nyata bahwa kromatografi lapis tipis mampu menekan persentase angka degradasi senyawa aktif,1,1.5,3
 6420,Farmasi,sejauh batasan pemahaman farmakologi terbatas saya uji iritasi kulit sering diaplikasikan khususnya pada pengembangan sistem penghantaran tertarget operasional klinis lainnya walau saya butuh sedikit waktu memastikan kembali angka kadarnya,1,0.561,2
 6421,Farmasi,pendekatan metode ekstraksi terkini membuktikan secara nyata bahwa waktu paruh eliminasi mampu menekan persentase angka degradasi senyawa aktif,1,0.781,3
 6422,Farmasi,tujuan dari pemanfaatan tahapan uji mikroenkapsulasi ini dilaksanakan agar khasiatnya kelak bisa sesuai target terapi sistem lalu dan kemudian hasilnya ditargetkan berulang lagi pada pasien uji,0,0.338,1
@@ -6012,7 +5982,6 @@ id,jurusan,teks,level,score,label
 6426,Farmasi,angka nilai waktu retensi didapat didapat dari jarak tempuh fase gerak oh astaga ralat baca jarak noda bercak pak,0,0.267,1
 6427,Farmasi,kami merancang sebuah kerangka kerja uji lanjutan agar uji iritasi kulit dapat dieksekusi secara otomatis terstruktur dan reprodusibel,1,0.96,3
 6431,Farmasi,uji iritasi kulit dievaluasi menggunakan instrumen analitik guna mengukur efisiensi pelepasan obat,1,0.791,3
-6432,Farmasi,pendekatan metode ekstraksi terkini membuktikan secara nyata bahwa reseptor agonis antagonis mampu menekan persentase angka degradasi senyawa aktif,1,-0.85,3
 6433,Farmasi,melalui serangkaian studi praklinis optimasi formula menunjukkan tingkat korelasi yang sangat positif terhadap efektivitas penyembuhan,1,0.809,3
 6435,Farmasi,pengumpulan spesifikasi bahan baku memberikan landasan desain awal dan kemudian uji disolusi terbanding dirancang sesuai kebutuhan terapi,1,0.924,3
 6436,Farmasi,melalui serangkaian studi praklinis profil disolusi menunjukkan tingkat korelasi yang sangat positif terhadap efektivitas penyembuhan,1,0.966,3
@@ -6039,7 +6008,6 @@ id,jurusan,teks,level,score,label
 6461,Farmasi,itu dilarutkan dengan dengan cairan polar oh bukan maksud saya lewat teknik pemisahan partisi pak,0,0.028,1
 6462,Farmasi,melalui serangkaian studi praklinis yang ketat fraksinasi ekstrak etanol daun menunjukkan tingkat korelasi sangat positif terhadap efektivitas penyembuhan target,1,0.777,3
 6463,Farmasi,merujuk pada parameter kompendial yang berlaku secara global maka evaluasi sediaan salep antibakteri dikaji ulang dengan tingkat presisi amat tinggi,1,0.983,3
-6464,Farmasi,adapun parameter kritis sistem terkait metode spektrofotometri derivatif telah dikonfigurasi menyesuaikan panduan pedoman farmakope edisi terkini,1,99.0,3
 6465,Farmasi,integrasi parameter standarisasi ekstrak terbukti mempercepat waktu rilis sediaan sesuai jurnal biofarmasetika terbaru,1,0.86,3
 6468,Farmasi,data nilai serapan panjang spektrum absorbansi terkait bioavailabilitas absolut obat dari alat komponen spektro fotometer dikumpulkan tahapan proses pencatatannya demi kelengkapan perhitungan persamaan kurva regresi baku lalu kemudian barisan datanya menjadi utuh linier dan terkumpul,0,0.177,1
 6469,Farmasi,asumsi hipotesis teknis saya untuk saat ini interaksi reseptor agonis antagonis berkaitan cukup erat secara profil farmakokinetik walau saya butuh sedikit waktu mengingat kembali nilai spesifikasinya,1,0.598,2
@@ -6136,7 +6104,6 @@ id,jurusan,teks,level,score,label
 6570,Farmasi,sebagai langkah nyata tindak lanjut analitik implementasi waktu paruh eliminasi plasma diuji coba kembali pada kondisi penyimpanan suhu dipercepat ekstrim,1,0.902,3
 6571,Farmasi,sangat krusial untuk dipahami peran vital dari ekstraksi maserasi bertingkat dalam menentukan efikasi sediaan farmasi tersebut di dalam tubuh,1,0.936,3
 6572,Farmasi,status error pada log alat tidak menghentikan proses evaluasi kromatografi cair kinerja tinggi lalu dilanjutkan dengan metode manual,1,0.813,3
-6573,Farmasi,dalam lingkup riset kefarmasian modern saat ini penerapan formulasi sediaan tablet lepas lambat menjadi pondasi utama pada tahapan penemuan obat baru,1,-0.85,3
 6574,Farmasi,saya pribadi agak menduga duga efeknya farmakokinetik klinis populasi berkaitan cukup erat secara profil farmakokinetik walau saya butuh sedikit waktu mengingat kembali nilai spesifikasinya,0,0.624,2
 6575,Farmasi,prosedur dokumen sop pembuatan campuran sediaan metode spektrofotometri derivatif dijalankan proses langkah urutan peracikannya untuk melakukan hal formulasi tersebut persis sesuai dokumen panduan buku cpob lalu dan kemudian diracik diaduk secara utuh hingga homogen menyeluruh,0,0.172,1
 6576,Farmasi,maaf bu saya harus bersikap terbuka jujur menunduk menyerah tidak tahu sama sekali harus merespon argumen ilmiah apa terkait sistem mekanisme rute kerja aksi molekuler uji stabilitas fisik dipercepat karena kepalang dilanda panik hebat dan pasrah mutlak total,0,0.068,1
@@ -6149,7 +6116,6 @@ id,jurusan,teks,level,score,label
 6585,Farmasi,secara garis besar mungkin gambaran formulasi itu evaluasi sediaan salep antibakteri banyak dipengaruhi secara langsung oleh variasi derajat keasaman pelarut walau saya butuh sedikit waktu mengingat kembali nilai spesifikasinya,1,0.462,2
 6586,Farmasi,dalam lingkup riset kefarmasian modern saat ini penerapan uji stabilitas fisik dipercepat menjadi pondasi utama pada tahapan penemuan obat baru,1,0.903,3
 6587,Farmasi,menurut sisa ingatan pendek yang saya miliki saat praktikum pengukuran aktivitas antioksidan berkaitan cukup erat secara profil farmakokinetik walau saya butuh sedikit waktu mengingat kembali nilai spesifikasinya,0,0.465,2
-6588,Farmasi,rancangan kerangka kerja uji lanjutan telah diimplementasikan agar interaksi reseptor agonis antagonis dapat dieksekusi secara otomatis terstruktur dan reprodusibel,1,-0.85,3
 6589,Farmasi,sangat krusial untuk dipahami peran vital dari kromatografi cair kinerja tinggi dalam menentukan efikasi sediaan farmasi tersebut di dalam tubuh,1,0.919,3
 6590,Farmasi,seingat saya dari halaman lampiran hasil uji interaksi reseptor agonis antagonis bertujuan pokok untuk mengoptimalkan absorpsi senyawa tersebut melintasi membran walau saya butuh sedikit waktu mengingat kembali nilai spesifikasinya,0,0.438,2
 6591,Farmasi,kalau saya tidak terlampau keliru menangkap mekanismenya uji disolusi terbanding bertujuan pokok untuk mengoptimalkan absorpsi senyawa tersebut melintasi membran walau saya butuh sedikit waktu mengingat kembali nilai spesifikasinya,0,0.425,2
@@ -6166,7 +6132,6 @@ id,jurusan,teks,level,score,label
 6602,Sistem Informasi,tampaknya rancangan basis data relasional sering diaplikasikan pada aspek lainnya walau saya butuh waktu memastikan kodenya,0,0.638,2
 6603,Sistem Informasi,langkah awal ini untuk untuk mengukur eh maaf bukan itu outputnya bu,0,0.083,1
 6604,Sistem Informasi,aduh kemampuan analisis saya terhenti mendadak bu maafkan kelemahan saya mengenai framework itil,0,0.194,1
-6605,Sistem Informasi,kami mengimplementasikan kerangka kerja lanjutan agar metode waterfall dapat diproyeksikan secara akurat,1,1.5,3
 6607,Sistem Informasi,kira kira logikanya seperti itu metode agile sering diaplikasikan pada aspek lainnya walau saya butuh waktu memastikan kodenya,0,0.69,2
 6608,Sistem Informasi,parameter pengujian keamanan sistem informasi tersebut dinilai proses testingnya untuk mendapatkan log evaluasi yang lalu dievaluasi kembali,0,0.16,1
 6609,Sistem Informasi,pendekatan kuantitatif membuktikan bahwa basis data relasional mampu menekan angka redudansi data,1,0.869,3
@@ -6175,7 +6140,6 @@ id,jurusan,teks,level,score,label
 6612,Sistem Informasi,komponen variabelnya adalah adalah arsitektur eh bukan maaf primary key pak,0,0.026,1
 6613,Sistem Informasi,berdasarkan literatur teknologi terbaru pemanfaatan pemodelan uml terbukti mempercepat waktu respons,1,0.966,3
 6614,Sistem Informasi,prosedur instalasi pemodelan uml dijalankan pelaksanaannya untuk melakukan hal tersebut persis lalu dan kemudian dilakukan secara utuh,0,0.025,1
-6615,Sistem Informasi,sangat krusial peran user experience dalam menentukan skalabilitas arsitektur aplikasi tersebut,1,-0.85,3
 6616,Sistem Informasi,dalam pandangan sementara saya manajemen risiko ti banyak dipengaruhi oleh aspek lainnya walau saya butuh waktu memastikan kodenya,1,0.581,2
 6617,Sistem Informasi,sistem jaringan bekerja bekerja secara oh maaf ralat sistem lokal pak,0,0.346,1
 6618,Sistem Informasi,pengujian unit sempat gagal tetapi evaluasi lanjutan membuktikan bahwa audit sistem tetap dapat beroperasi dengan baik,1,0.9,3
@@ -6235,7 +6199,6 @@ id,jurusan,teks,level,score,label
 6676,Sistem Informasi,sangat krusial peran tata kelola cobit dalam menentukan skalabilitas arsitektur aplikasi tersebut,1,0.847,3
 6677,Sistem Informasi,sebagai tindak lanjut praktis arsitektur enterprise diuji coba kembali pada kondisi beban server maksimum,1,0.924,3
 6679,Sistem Informasi,dalam lingkup sistem informasi penerapan algoritma apriori menjadi kunci utama transformasi digital,1,0.936,3
-6680,Sistem Informasi,didapatkan konklusi teknis bahwa framework itil memenuhi semua standar keamanan data,1,1.5,3
 6681,Sistem Informasi,berdasarkan literatur teknologi terbaru pemanfaatan basis data relasional terbukti mempercepat waktu respons,1,0.826,3
 6682,Sistem Informasi,saya rasa output dari audit sistem berkaitan erat dengan aspek lainnya walau saya butuh waktu memastikan kodenya,0,0.673,2
 6683,Sistem Informasi,dalam lingkup sistem informasi penerapan pemodelan uml menjadi kunci utama transformasi digital,1,0.827,3
@@ -6251,7 +6214,6 @@ id,jurusan,teks,level,score,label
 6695,Sistem Informasi,prosedur instalasi pengembangan frontend dijalankan pelaksanaannya untuk melakukan hal tersebut persis lalu dan kemudian dilakukan secara utuh,0,0.357,1
 6696,Sistem Informasi,parameter pengujian data warehouse tersebut dinilai proses testingnya untuk mendapatkan log evaluasi yang lalu dievaluasi kembali,0,0.13,1
 6697,Sistem Informasi,bisa dibilang arsitektur microservices bertujuan pokok mengoptimalkan aspek lainnya walau saya butuh waktu memastikan kodenya,1,0.57,2
-6699,Sistem Informasi,dalam lingkup sistem informasi penerapan sistem pendukung keputusan menjadi kunci utama transformasi digital,1,-0.85,3
 6700,Sistem Informasi,sejauh materi yang saya pahami arsitektur microservices berkaitan erat dengan aspek lainnya walau saya butuh waktu memastikan kodenya,0,0.478,2
 6701,Sistem Informasi,status error pada log server tidak menghentikan proses lalu pendekatan heuristik mampu mengatasi hal tersebut sehingga data mining tetap dapat beroperasi dengan baik,1,0.791,3
 6702,Sistem Informasi,sebagai tindak lanjut praktis pemodelan uml diuji coba kembali pada kondisi beban server maksimum,1,0.839,3
@@ -6288,7 +6250,6 @@ id,jurusan,teks,level,score,label
 6736,Sistem Informasi,terdapat error komputasi pada skrip namun pemeriksaan mendalam memberikan kepastian bahwa optimasi database tetap dapat beroperasi dengan baik,1,0.905,3
 6737,Sistem Informasi,saya pribadi menduga basis data relasional berkaitan erat dengan aspek lainnya walau saya butuh waktu memastikan kodenya,0,0.526,2
 6738,Sistem Informasi,tujuan dari pemanfaatan sistem pendukung keputusan ini diimplementasikan agar sasarannya bisa sesuai target lalu dan kemudian hasilnya ditargetkan lagi pada sistem,0,0.192,1
-6739,Sistem Informasi,parameter pengujian optimasi database tersebut dinilai proses testingnya untuk mendapatkan log evaluasi yang lalu dievaluasi kembali,0,99.0,1
 6740,Sistem Informasi,terdapat error komputasi pada skrip namun pendekatan heuristik mampu mengatasi hal tersebut sehingga optimasi database tetap dapat beroperasi dengan baik,1,0.826,3
 6741,Sistem Informasi,maafkan ketidakberdayaan saya bu detik ini kepanikan menguasai saya mutlak hingga lumpuh menjawab soal keamanan sistem informasi,0,0.048,1
 6742,Sistem Informasi,seingat saya dari dokumentasi audit sistem memiliki dampak langsung terhadap aspek lainnya walau saya butuh waktu memastikan kodenya,0,0.681,2
@@ -6303,7 +6264,6 @@ id,jurusan,teks,level,score,label
 6751,Sistem Informasi,data payload terkait integrasi api dari server dikumpulkan tahapan pengumpulannya demi kelengkapan database lalu kemudian datanya menjadi utuh,0,0.285,1
 6753,Sistem Informasi,kalau saya tidak keliru menangkap manajemen risiko ti banyak dipengaruhi oleh load aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.684,2
 6754,Sistem Informasi,saya memohon maaf atas kekurangan antarmuka namun penyesuaian algoritma berhasil memperbaiki rekayasa perangkat lunak tetap dapat beroperasi secara optimal,1,0.839,3
-6755,Sistem Informasi,adapun modul terkait metode waterfall telah dikonfigurasi sesuai panduan pengembangan perangkat lunak baku,1,1.5,3
 6756,Sistem Informasi,tampaknya rancangan keamanan sistem informasi banyak dipengaruhi oleh load aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.515,2
 6757,Sistem Informasi,fungsi logic itu dipanggil dipanggil pada oh maksud saya pada controller utama bu,0,0.288,1
 6758,Sistem Informasi,adapun modul terkait audit sistem telah dikonfigurasi sesuai panduan pengembangan perangkat lunak baku,1,0.883,3
@@ -6319,7 +6279,6 @@ id,jurusan,teks,level,score,label
 6769,Sistem Informasi,kami memilih menggunakan menggunakan integrasi eh maaf ralat maksud saya database nosql,0,0.137,1
 6770,Sistem Informasi,maaf bu saya pasrah sepenuhnya karena pikiran saya terblokir total oleh rasa panik yang luar biasa tentang implementasi business intelligence,0,0.112,1
 6771,Sistem Informasi,astaga logika pikiran saya buyar bu hmmm mengenai basis data relasional,0,0.219,1
-6772,Sistem Informasi,dalam pandangan sementara saya arsitektur microservices bertujuan pokok mengoptimalkan modul aspek operasional lainnya walau saya butuh waktu memastikan kodenya,0,99.0,2
 6773,Sistem Informasi,kira kira logikanya seperti itu metode scrum bertujuan pokok mengoptimalkan modul aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.58,2
 6774,Sistem Informasi,konsep dasar algoritma apriori itu ditetapkan rincian variabelnya agar tentu hasilnya muncul di antarmuka lalu kemudian menjadi tentu arahnya,0,0.315,1
 6775,Sistem Informasi,maaf pak ngeblank sama sekali saya sangat bingung mau menjelaskan variabel apa mengenai pemodelan uml,0,0.021,1
@@ -6369,7 +6328,6 @@ id,jurusan,teks,level,score,label
 6819,Sistem Informasi,metode waterfall dianalisis menggunakan metrik performa guna memastikan efisiensi sumber daya cloud,1,0.959,1
 6820,Sistem Informasi,sepertinya metode waterfall banyak dipengaruhi oleh load aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.6,1
 6821,Sistem Informasi,kami mengimplementasikan kerangka kerja lanjutan agar keamanan sistem informasi dapat dieksekusi secara akurat,1,0.909,3
-6822,Sistem Informasi,sebagai tindak lanjut teknis metode scrum diuji coba kembali pada kondisi beban server maksimum,1,1.5,3
 6823,Sistem Informasi,secara garis besar mungkin integrasi api banyak dipengaruhi oleh load aspek operasional lainnya walau saya butuh waktu memastikan kodenya,0,0.737,2
 6824,Sistem Informasi,adapun modul terkait integrasi api telah dikonfigurasi sesuai panduan pengembangan perangkat lunak baku,1,0.949,3
 6826,Sistem Informasi,saya rasa output dari metode scrum sering diaplikasikan pada lingkungan aspek operasional lainnya walau saya butuh waktu memastikan kodenya,0,0.407,2
@@ -6387,7 +6345,6 @@ id,jurusan,teks,level,score,label
 6839,Sistem Informasi,sejauh pemahaman coding saya kriptografi berkaitan erat dengan performa aspek operasional lainnya walau saya butuh waktu memastikan kodenya,0,0.465,2
 6840,Sistem Informasi,angka metriknya didapat didapat dari oh astaga ralat baca dashboard admin pak,0,0.173,1
 6841,Sistem Informasi,saya sangat memohon pengertian luhur bapak karena saking nervousnya landasan teori data mining tersebut mustahil saya jabarkan,0,0.389,1
-6842,Sistem Informasi,hasil komputasi dari metode scrum ini dikaji ulang kembali supaya datanya tercapai mantap dan selanjutnya dianalisis berulang kali,0,1.5,1
 6843,Sistem Informasi,prosedur deployment metode scrum dijalankan eksekusinya untuk melakukan hal tersebut persis lalu dan kemudian dieksekusi secara utuh,0,0.344,1
 6844,Sistem Informasi,maaf bu saya harus jujur tidak tahu sama sekali harus merespon apa terkait integrasi metode scrum karena kepalang panik dan pasrah total,0,0.242,1
 6845,Sistem Informasi,menurut ingatan pendek saya manajemen risiko ti berkaitan erat dengan performa aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.702,2
@@ -6396,14 +6353,11 @@ id,jurusan,teks,level,score,label
 6848,Sistem Informasi,bila merujuk pada catatan repo saya integrasi api banyak dipengaruhi oleh load aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.469,2
 6849,Sistem Informasi,sangat krusial peran evaluasi usability dalam menentukan skalabilitas arsitektur perangkat lunak tersebut,1,0.794,3
 6850,Sistem Informasi,faktor pengali pada kriptografi dikonseptualisasikan alur sistemnya supaya proses logikanya terang benderang dan lalu kemudian menjadi jalan,0,0.258,1
-6851,Sistem Informasi,menurut ingatan pendek saya data mining banyak dipengaruhi oleh load aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,-0.85,2
 6852,Sistem Informasi,maafkan ketidakberdayaan saya bu detik ini kepanikan menguasai saya mutlak hingga lumpuh menjawab soal tentang machine learning,0,0.312,1
-6853,Sistem Informasi,didapatkan konklusi teknis bahwa metode agile memenuhi semua prasyarat keamanan siber,1,99.0,3
 6854,Sistem Informasi,tampaknya rancangan algoritma apriori banyak dipengaruhi oleh load aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.553,2
 6855,Sistem Informasi,menurut ingatan pendek saya metode agile berkaitan erat dengan performa aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.71,1
 6856,Sistem Informasi,maaf apabila ada sedikit latensi jaringan namun penyesuaian algoritma berhasil memperbaiki pengembangan front end tetap dapat beroperasi secara optimal,1,0.934,3
 6857,Sistem Informasi,kira kira logikanya seperti itu pemodelan uml banyak dipengaruhi oleh load aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.459,2
-6858,Sistem Informasi,pengumpulan requirement memberikan landasan awal dan kemudian rekayasa perangkat lunak dirancang sesuai kebutuhan stakeholder,1,1.5,3
 6859,Sistem Informasi,sepertinya alur metode basis data relasional sering diaplikasikan pada lingkungan aspek operasional lainnya walau saya butuh waktu memastikan kodenya,0,0.673,2
 6860,Sistem Informasi,menurut ingatan pendek saya basis data relasional sering diaplikasikan pada lingkungan aspek operasional lainnya walau saya butuh waktu memastikan kodenya,1,0.672,1
 6861,Sistem Informasi,sistem ini memang belum terintegrasi penuh dan penyesuaian algoritma berhasil memperbaiki audit sistem tetap dapat beroperasi secara optimal,1,0.988,3
@@ -6452,14 +6406,12 @@ id,jurusan,teks,level,score,label
 6910,Sistem Informasi,sejauh pemahaman coding terbatas saya sistem pendukung keputusan bertujuan pokok mengoptimalkan modul tersebut operasional lainnya walau saya butuh waktu memastikan baris kodenya,1,0.699,2
 6911,Sistem Informasi,sejauh sintaks yang sempat saya pahami pengembangan front end sering diaplikasikan pada lingkungan cloud operasional lainnya walau saya butuh waktu memastikan baris kodenya,0,0.704,2
 6912,Sistem Informasi,sejauh pemahaman coding terbatas saya pemodelan uml memiliki dampak langsung terhadap response time operasional lainnya walau saya butuh waktu memastikan baris kodenya,1,0.461,2
-6914,Sistem Informasi,waduh saya benar benar lupa sintaks tersebut padahal baru saja dieksekusi tadi pagi mengenai materi sistem pakar,0,-0.85,1
 6915,Sistem Informasi,mohon ampun beribu ampun bapak saya betul betul tidak menyimpan dokumentasi memori lagi mengenai konsep dasar machine learning akibat gugup saat presentasi ini,0,0.042,1
 6916,Sistem Informasi,berdasarkan literatur sistem informasi terbaru integrasi sistem pakar terbukti mempercepat waktu respons antarmuka pengguna,1,0.769,3
 6917,Sistem Informasi,mungkin saja algoritmenya didesain sistem pendukung keputusan memiliki dampak langsung terhadap response time operasional lainnya walau saya butuh waktu memastikan baris kodenya,1,0.604,2
 6918,Sistem Informasi,maaf bu saya benar benar blank sekarang padahal struktur relasi datanya lumayan standar mengenai materi data visualization,0,0.386,1
 6919,Sistem Informasi,sistem integrasi komponen data warehouse direncanakan detail arsitekturnya agar desainnya matang menyeluruh sempurna dan lalu selanjutnya didesain ulang lagi,0,0.098,1
 6920,Sistem Informasi,meski akurasi model belum mencapai titik optimum kemudian evaluasi lanjutan membuktikan bahwa analisis regresi linear tetap dapat beroperasi secara persisten,1,0.771,3
-6921,Sistem Informasi,sistem integrasi komponen arsitektur enterprise direncanakan detail arsitekturnya agar desainnya matang menyeluruh sempurna dan lalu selanjutnya didesain ulang lagi,0,99.0,1
 6922,Sistem Informasi,seingat saya dari dokumentasi framework basis data relasional berkaitan cukup erat dengan performa operasional lainnya walau saya butuh waktu memastikan baris kodenya,0,0.576,2
 6923,Sistem Informasi,mohon ampun beribu ampun bapak saya betul betul tidak menyimpan dokumentasi memori lagi mengenai konsep dasar analisis regresi linear akibat gugup saat presentasi ini,0,0.196,1
 6924,Sistem Informasi,terdapat pesan error saat integrasi api namun optimasi ulang menunjukkan internet of things tetap dapat beroperasi secara persisten,1,0.828,3
@@ -6472,7 +6424,6 @@ id,jurusan,teks,level,score,label
 6933,Sistem Informasi,didapatkan konklusi sistem bahwa pemrosesan bahasa alami memenuhi semua prasyarat keamanan siber terkini,1,0.857,3
 6935,Sistem Informasi,maaf bu dosen saya pasrah sepenuhnya karena pikiran kognitif saya terblokir total oleh rasa panik yang luar biasa tentang implementasi teknis arsitektur microservices,0,0.248,1
 6936,Sistem Informasi,sistem ini memang belum terintegrasi penuh dan optimasi ulang menunjukkan integrasi api tetap dapat beroperasi secara persisten,1,0.967,3
-6937,Sistem Informasi,astaga logika pikiran sistem saya buyar bu hmmm mengenai materi manajemen risiko ti,0,1.5,1
 6938,Sistem Informasi,sejauh pemahaman coding terbatas saya tata kelola cobit bertujuan pokok mengoptimalkan modul tersebut operasional lainnya walau saya butuh waktu memastikan baris kodenya,0,0.501,1
 6939,Sistem Informasi,framework itil dievaluasi menggunakan metrik performa guna memastikan efisiensi pemrosesan data,1,0.857,1
 6940,Sistem Informasi,bila merujuk pada catatan repositori saya tata kelola cobit berkaitan cukup erat dengan performa operasional lainnya walau saya butuh waktu memastikan baris kodenya,0,0.665,2
@@ -6504,7 +6455,6 @@ id,jurusan,teks,level,score,label
 6969,Sistem Informasi,mohon maaf yang sebesar besarnya bu saya memilih menyerah saja pada pertanyaan seputar implementasi arsitektur enterprise ini karena terlanjur sangat gugup didepan laptop,0,0.343,1
 6970,Sistem Informasi,sejujurnya bapak saya sangat menyesal meminta maaf karena materi rumit arsitektur microservices luput total dari hafalan sintaks bahasa pemrograman saya saat ini,0,0.204,1
 6971,Sistem Informasi,tampaknya rancangan tabel sistem pakar memiliki dampak langsung terhadap response time operasional lainnya walau saya butuh waktu memastikan baris kodenya,0,0.424,2
-6972,Sistem Informasi,bisa dibilang tata kelola cobit banyak dipengaruhi oleh beban server operasional lainnya walau saya butuh waktu memastikan baris kodenya,1,1.5,2
 6973,Sistem Informasi,komponen parameternya adalah adalah entitas basis eh bukan maaf itu primary key pak,0,0.308,1
 6974,Sistem Informasi,saya rasa hasil keluaran dari cloud computing banyak dipengaruhi oleh beban server operasional lainnya walau saya butuh waktu memastikan baris kodenya,1,0.503,2
 6975,Sistem Informasi,prosedur deployment aplikasi audit sistem dijalankan eksekusinya untuk melakukan hal tersebut persis sesuai panduan lalu dan kemudian dieksekusi secara utuh menyeluruh,0,0.164,1
@@ -6524,7 +6474,6 @@ id,jurusan,teks,level,score,label
 6991,Sistem Informasi,saya memohon maaf atas kekurangan fungsionalitas namun evaluasi lanjutan membuktikan bahwa analisis regresi linear tetap dapat beroperasi secara persisten,1,0.774,3
 6992,Sistem Informasi,testing aplikasi mobile dilakukan dilakukan hmmm oh bukan dijalankan secara otomatis jatuhnya bu,0,0.189,1
 6993,Sistem Informasi,konsep dasar operasional machine learning itu ditetapkan rincian variabelnya agar tentu hasilnya muncul di antarmuka web lalu kemudian menjadi tentu arah sistemnya,0,0.017,1
-6994,Sistem Informasi,kami merancang kerangka kerja lanjutan agar pengembangan front end dapat dieksekusi secara otomatis dan akurat,1,-0.85,3
 6995,Sistem Informasi,asumsi teknis saya untuk saat ini pemrosesan bahasa alami bertujuan pokok mengoptimalkan modul tersebut operasional lainnya walau saya butuh waktu memastikan baris kodenya,0,0.568,2
 6996,Sistem Informasi,maaf bu dosen saya pasrah sepenuhnya karena pikiran kognitif saya terblokir total oleh rasa panik yang luar biasa tentang implementasi teknis evaluasi usability,0,0.277,1
 6997,Sistem Informasi,mungkin saja algoritmenya didesain integrasi api banyak dipengaruhi oleh beban server operasional lainnya walau saya butuh waktu memastikan baris kodenya,1,0.593,2
@@ -6561,7 +6510,6 @@ id,jurusan,teks,level,score,label
 7029,Sistem Informasi,meskipun implementasi backend gagal pada tahap awal maka pemeriksaan mendalam memberikan kepastian bahwa keamanan sistem informasi tetap dapat beroperasi secara persisten,1,0.971,3
 7030,Sistem Informasi,kira kira logikanya menyerupai hal tersebut rekayasa perangkat lunak memiliki dampak langsung terhadap response time operasional lainnya walau saya butuh waktu memastikan baris kodenya,0,0.694,2
 7031,Sistem Informasi,kalau saya tidak keliru menangkap konsepnya keamanan sistem informasi memiliki dampak langsung terhadap response time operasional lainnya walau saya butuh waktu memastikan baris kodenya,0,0.709,2
-7032,Sistem Informasi,pengumpulan spesifikasi kebutuhan memberikan landasan awal dan kemudian cloud computing dirancang sesuai kebutuhan bisnis,1,-0.85,3
 7033,Sistem Informasi,sejauh pemahaman coding terbatas saya basis data relasional sering diaplikasikan pada lingkungan cloud operasional lainnya walau saya butuh waktu memastikan baris kodenya,0,0.467,2
 7034,Sistem Informasi,sistem integrasi komponen analisis regresi linear direncanakan detail arsitekturnya agar desainnya matang menyeluruh sempurna dan lalu selanjutnya didesain ulang lagi,0,0.387,1
 7035,Sistem Informasi,rasanya rekayasa perangkat lunak bertujuan pokok mengoptimalkan modul tersebut operasional lainnya walau saya butuh waktu memastikan baris kodenya,1,0.439,2
@@ -6584,7 +6532,6 @@ id,jurusan,teks,level,score,label
 7054,Sistem Informasi,sejujurnya bapak saya sangat amat menyesal meminta maaf karena materi dirasa rumit user experience luput total dari daya hafalan sintaks bahasa pemrograman saya saat ini,0,0.284,1
 7055,Sistem Informasi,astaga alur logika pikiran sistem saya mendadak buyar bu hmmm mengenai materi pokok arsitektur microservices,0,0.03,1
 7057,Sistem Informasi,kondisi awal load test belum menunjukkan hasil maksimal tetapi penyesuaian logika algoritma berhasil memperbaiki arsitektur microservices tetap dapat beroperasi secara persisten dan stabil,1,0.81,3
-7058,Sistem Informasi,dalam pandangan awal sementara yang saya punya pengujian white box memiliki potensi dampak langsung terhadap response time operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,0,1.5,2
 7059,Sistem Informasi,status error pada log aplikasi tidak menghentikan flow proses lalu penyesuaian logika algoritma berhasil memperbaiki pemodelan uml tetap dapat beroperasi secara persisten dan stabil,1,0.835,3
 7060,Sistem Informasi,dalam pandangan awal sementara yang saya punya sistem pakar sering diaplikasikan khususnya pada lingkungan cloud computing operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,0,0.547,2
 7061,Sistem Informasi,walaupun pengujian alpha berstatus gagal lalu pemeriksaan arsitektur mendalam memberikan kepastian bahwa data visualization tetap dapat beroperasi secara persisten dan stabil,1,0.765,3
@@ -6604,7 +6551,6 @@ id,jurusan,teks,level,score,label
 7077,Sistem Informasi,kemungkinan besar penyebab utamanya algoritma apriori bertujuan pokok untuk mengoptimalkan sisi modul tersebut operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,0,0.438,2
 7078,Sistem Informasi,atribut value kolom spesifik tersebut direcord direcord pakai array sesi eh maksud saya sengaja tidak disimpan log bu,0,0.189,1
 7079,Sistem Informasi,mungkin saja big data analytics memiliki potensi dampak langsung terhadap response time operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,1,0.558,2
-7080,Sistem Informasi,kajian logis akademis tentang rekayasa perangkat lunak ini dikalkulasi ulang berdasarkan landasan rumus matematis algoritmanya supaya terhitung dengan presisi tepat dan lalu dihitung ulang kembali,0,1.5,1
 7081,Sistem Informasi,astaga memohon maaf pak saya grogi luar biasa sekali sampai ngeblank parah saat disuruh memikirkan arsitektur server mengenai materi pokok data visualization,0,0.165,1
 7082,Sistem Informasi,sangat krusial untuk dipahami peran dari enterprise resource planning dalam menentukan skalabilitas arsitektur sistem informasi enterprise tersebut,1,0.865,3
 7083,Sistem Informasi,kami merancang sebuah kerangka kerja konseptual lanjutan agar arsitektur enterprise dapat dieksekusi secara otomatis terstruktur dan akurat,1,0.858,3
@@ -6618,7 +6564,6 @@ id,jurusan,teks,level,score,label
 7091,Sistem Informasi,sejujurnya bapak saya sangat amat menyesal meminta maaf karena materi dirasa rumit framework itil luput total dari daya hafalan sintaks bahasa pemrograman saya saat ini,0,0.337,1
 7092,Sistem Informasi,kalau saya tidak terlampau keliru menangkap konsepnya internet of things banyak dipengaruhi secara langsung oleh beban server operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,1,0.653,2
 7093,Sistem Informasi,kemungkinan besar penyebab utamanya pengujian black box sering diaplikasikan khususnya pada lingkungan cloud computing operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,1,0.503,2
-7094,Sistem Informasi,maaf bu saya harus bersikap jujur tidak tahu sama sekali harus merespon teknis apa terkait proses integrasi pengujian white box karena kepalang panik hebat dan pasrah total,0,99.0,1
 7095,Sistem Informasi,seingat saya dari halaman dokumentasi framework pemodelan uml memiliki potensi dampak langsung terhadap response time operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,1,0.406,2
 7096,Sistem Informasi,adapun modul fungsional sistem terkait pengujian black box telah dikonfigurasi menyesuaikan panduan pengembangan rekayasa perangkat lunak baku,1,0.781,3
 7097,Sistem Informasi,bila merujuk pada histori catatan repositori saya data warehouse sering diaplikasikan khususnya pada lingkungan cloud computing operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,1,0.74,2
@@ -6646,7 +6591,6 @@ id,jurusan,teks,level,score,label
 7121,Sistem Informasi,tim engineer telah memvalidasi keandalan sistem pendukung keputusan melalui tahapan pengujian sistem secara berulang,1,0.852,3
 7122,Sistem Informasi,aduh maaf bapak dosen saya mendadak ngeblank padahal semalam sudah benar benar mati matian mencoba coding ulang mengenai materi pokok analisis regresi linear,0,0.302,1
 7123,Sistem Informasi,astaga alur logika pikiran sistem saya mendadak buyar bu hmmm mengenai materi pokok business intelligence,0,0.092,1
-7124,Sistem Informasi,asumsi logika teknis saya untuk saat ini pemrosesan bahasa alami banyak dipengaruhi secara langsung oleh beban server operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,1,-0.85,2
 7125,Sistem Informasi,sejujurnya otak logika analitik saya sangat tegang kaku pak dan sungguh tidak mampu lagi mengais sisa ingatan mengenai skema arsitektur machine learning tersebut,0,0.278,1
 7126,Sistem Informasi,sejauh batasan pemahaman coding terbatas saya internet of things sering diaplikasikan khususnya pada lingkungan cloud computing operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,0,0.635,2
 7127,Sistem Informasi,maaf bu saya benar benar blank parah sekarang padahal rancangan struktur relasi datanya tergolong lumayan standar mengenai materi pokok analisis sentimen,0,0.304,1
@@ -6669,7 +6613,6 @@ id,jurusan,teks,level,score,label
 7146,Sistem Informasi,fungsi logic method program itu dipanggil dipanggil pada sisi view oh maksud saya pada file controller utama bu,0,0.118,1
 7147,Sistem Informasi,tim engineer telah memvalidasi keandalan analisis regresi linear melalui tahapan pengujian sistem secara berulang,1,0.851,3
 7148,Sistem Informasi,adapun modul fungsional sistem terkait rekayasa perangkat lunak telah dikonfigurasi menyesuaikan panduan pengembangan rekayasa perangkat lunak baku,1,0.947,3
-7149,Sistem Informasi,sistem jaringan infrastruktur aplikasi beroperasi bekerja secara fully online oh maaf ralat sistem local localhost pak,0,99.0,1
 7151,Sistem Informasi,pengujian black box dievaluasi menggunakan instrumen metrik performa guna mengukur efisiensi pemrosesan data,1,0.769,3
 7152,Sistem Informasi,sistem ini memang belum terintegrasi secara modular dan evaluasi mendalam lanjutan membuktikan bahwa kriptografi tetap dapat beroperasi secara persisten dan stabil,1,0.885,3
 7153,Sistem Informasi,kemungkinan besar penyebab utamanya pengembangan front end memiliki potensi dampak langsung terhadap response time operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,1,0.72,2
@@ -6704,11 +6647,9 @@ id,jurusan,teks,level,score,label
 7185,Sistem Informasi,terdapat error komputasi pada sisi server namun pendekatan metodologi heuristik mampu mengatasi hal tersebut sehingga audit sistem tetap dapat beroperasi secara persisten dan stabil,1,0.944,3
 7186,Sistem Informasi,sepertinya alur flowchart logika metode sistem pendukung keputusan banyak dipengaruhi secara langsung oleh beban server operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,0,0.698,2
 7187,Sistem Informasi,hasil komputasi server pemrosesan dari data visualization ini dikaji ulang kembali terus supaya datanya tercapai mantap persis dan selanjutnya dianalisis berulang kali lagi tanpa henti,0,0.027,1
-7188,Sistem Informasi,metode scrum dievaluasi menggunakan instrumen metrik performa guna mengukur efisiensi pemrosesan data,1,99.0,3
 7189,Sistem Informasi,konsep dasar struktur operasional basis data relasional itu ditetapkan rincian jenis variabelnya agar tentu nilainya hasilnya muncul di antarmuka web lalu kemudian menjadi tentu arah sistemnya,0,0.163,1
 7190,Sistem Informasi,mungkin saja arsitektur enterprise berkaitan cukup erat secara teknis dengan performa operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,1,0.559,2
 7192,Sistem Informasi,menurut sisa ingatan pendek yang saya miliki basis data relasional sering diaplikasikan khususnya pada lingkungan cloud computing operasional lainnya walau saya butuh sedikit waktu memastikan kembali baris kodenya,0,0.48,2
-7195,Sistem Informasi,pendekatan metode rekayasa perangkat lunak terkini membuktikan secara nyata bahwa data warehouse mampu menekan persentase angka redundansi basis data,1,1.5,3
 7196,Sistem Informasi,itu dikerjakan dengan dengan cara insert manual oh bukan maksud saya lewat syntax query sql pak,0,0.272,1
 7197,Sistem Informasi,terdapat error komputasi pada sisi server namun evaluasi mendalam lanjutan membuktikan bahwa supply chain management tetap dapat beroperasi secara persisten dan stabil,1,0.777,3
 7198,Sistem Informasi,pengumpulan spesifikasi requirement memberikan landasan desain awal dan kemudian data warehouse dirancang sesuai kebutuhan stakeholder bisnis,1,0.926,3
@@ -6736,7 +6677,6 @@ id,jurusan,teks,level,score,label
 7226,Pendidikan Guru Sekolah Dasar,analisis kurikulum merdeka pada jenjang sekolah dasar menuntut guru untuk lebih kreatif dalam merancang modul ajar,1,0.99,3
 7228,Pendidikan Guru Sekolah Dasar,perumusan tujuan pembelajaran dalam rpp ini sudah disesuaikan dengan karakteristik unik setiap peserta didik,1,0.77,3
 7231,Pendidikan Guru Sekolah Dasar,integrasi nilai karakter dalam setiap mata pelajaran bertujuan untuk membentuk profil pelajar pancasila,1,0.89,3
-7233,Pendidikan Guru Sekolah Dasar,merujuk pada teori vygotsky maka scaffolding diberikan secara bertahap hingga siswa mencapai kemandirian belajar,1,99.0,3
 7234,Pendidikan Guru Sekolah Dasar,pemanfaatan barang bekas sebagai media pembelajaran merupakan bentuk nyata dari kreativitas tanpa batas seorang guru,1,0.77,3
 7236,Pendidikan Guru Sekolah Dasar,pemanfaatan barang bekas sebagai media pembelajaran merupakan bentuk nyata dari kreativitas tanpa batas seorang guru,1,0.91,1
 7237,Pendidikan Guru Sekolah Dasar,dalam konteks pendidikan inklusi maka peran guru pendamping sangat krusial bagi perkembangan motorik siswa,1,0.98,3
@@ -6761,8 +6701,6 @@ id,jurusan,teks,level,score,label
 7273,Pendidikan Guru Sekolah Dasar,mungkin proses validasi ahli memakan waktu lebih lama sehingga saya merasa agak terburuburu,1,0.56,2
 7274,Pendidikan Guru Sekolah Dasar,kalau tidak salah ingat hasil pretest menunjukkan kemampuan awal siswa berada pada kategori cukup,0,0.71,2
 7276,Pendidikan Guru Sekolah Dasar,mungkin ada sedikit bias dalam pengisian kuesioner karena siswa merasa diawasi oleh guru kelas mereka,1,0.61,2
-7278,Pendidikan Guru Sekolah Dasar,sepertinya ada sedikit perbedaan antara hasil observasi pertama dengan hasil observasi kedua saya,0,99.0,2
-7279,Pendidikan Guru Sekolah Dasar,berdasarkan literatur seingat saya teori tersebut menekankan pada pentingnya lingkungan belajar yang nyaman,1,1.5,2
 7280,Pendidikan Guru Sekolah Dasar,kalau saya tidak keliru definisi operasional variabel ini merujuk pada skor total tes formatif,0,0.57,2
 7282,Pendidikan Guru Sekolah Dasar,mungkin saya perlu membaca lagi bab dua mengenai sintaks model pembelajaran problem based learning,0,0.58,3
 7284,Pendidikan Guru Sekolah Dasar,asumsi saya saat ini adalah hasil belajar siswa dipengaruhi oleh motivasi internal dan dukungan orang tua,0,0.47,3
@@ -6798,7 +6736,6 @@ id,jurusan,teks,level,score,label
 7322,Pendidikan Guru Sekolah Dasar,maaf bu pikiran saya sedang kacau saat ini sehingga saya tidak bisa berpikir jernih,0,0.35,1
 7323,Pendidikan Guru Sekolah Dasar,waduh bapak saya mendadak tidak tahu harus menjawab apa padahal tadi pagi saya ingat,0,0.23,1
 7324,Pendidikan Guru Sekolah Dasar,siswa kelas rendah membutuhkan eh maksud saya kelas tinggi eh maksud saya kelas satu sampai tiga bapak,0,0.38,1
-7325,Pendidikan Guru Sekolah Dasar,mohon maaf bapak saya merasa sangat bodoh saat ini karena tidak bisa menjawab pertanyaan yang sederhana,0,-0.85,1
 7326,Pendidikan Guru Sekolah Dasar,waduh tiba tiba kepala saya pusing dan semua materi yang saya pelajari hilang begitu saja,0,0.07,1
 7327,Pendidikan Guru Sekolah Dasar,kurikulum disusun supaya pengajaran teratur sehingga urutan mengajar menjadi teratur sesuai susunan kurikulum yang teratur itu,0,0.22,3
 7333,Pendidikan Guru Sekolah Dasar,maaf bapak saya tidak tahu lagi harus bicara apa karena saya benar benar merasa sangat buntu,0,0.36,3
@@ -6806,15 +6743,12 @@ id,jurusan,teks,level,score,label
 7335,Pendidikan Guru Sekolah Dasar,maaf bapak bisa diulangi pertanyaannya karena pikiran saya mendadak kosong dan tidak fokus,0,0.16,3
 7336,Pendidikan Guru Sekolah Dasar,mohon maaf bapak sejujurnya saya sangat gugup saat ini dan variabel itu benar benar hilang dari ingatan saya,0,0.03,3
 7338,Pendidikan Guru Sekolah Dasar,aduh maaf sekali pikiran saya melayang entah kemana sehingga saya tidak bisa menjawab pertanyaan itu,0,0.19,1
-7339,Pendidikan Guru Sekolah Dasar,sejujurnya bapak saya hanya mengikuti arahan teman tanpa benar benar memahami maksud dari pengujian ini,0,1.5,1
 7341,Pendidikan Guru Sekolah Dasar,hasil belajar siswa harus naik supaya prestasinya meningkat dan kenaikan itu membantu peningkatan hasil belajar lagi,0,0.09,3
-7342,Pendidikan Guru Sekolah Dasar,siswa sd butuh perhatian karena perhatian guru sangat dibutuhkan oleh siswa sd agar mereka merasa diperhatikan,0,1.5,1
 7343,Pendidikan Guru Sekolah Dasar,waduh saya benar benar blank bapak padahal saya yang menulis sendiri bagian latar belakang ini,0,0.32,1
 7344,Pendidikan Guru Sekolah Dasar,mohon maaf sekali bapak saya benar benar menyerah untuk menjelaskan bagian rumus ini kepada bapak,0,0.38,3
 7347,Pendidikan Guru Sekolah Dasar,pembelajaran aktif dilakukan agar siswa aktif belajar dan keaktifan itu membuat proses belajar menjadi aktif sekali,1,0.1,1
 7348,Pendidikan Guru Sekolah Dasar,teori yang saya pakai itu teori eh maksud saya teori konstruktivisme bapak bukan kognitivisme,0,0.37,1
 7349,Pendidikan Guru Sekolah Dasar,instrumen penelitiannya adalah eh maksud saya lembar observasi bukan tes tertulis bapak,0,0.23,1
-7350,Pendidikan Guru Sekolah Dasar,astaga pikiran saya buyar bu hmmm saya benar benar tidak bisa mengingat istilah itu sekarang,0,1.5,1
 7351,Pendidikan Guru Sekolah Dasar,aduh maaf bapak saya mendadak ngeblank sampai tidak bisa menjawab,0,0.12,1
 7353,Pendidikan Guru Sekolah Dasar,metode ceramah eh bukan metode diskusi begitu kira kira,0,0.2,1
 7355,Pendidikan Guru Sekolah Dasar,maaf bu saya mendadak kehilangan kata kata padahal semalam sudah diulas,0,0.13,1
@@ -6828,13 +6762,11 @@ id,jurusan,teks,level,score,label
 7363,Pendidikan Guru Sekolah Dasar,walaupun sebelumnya gagal namun iterasi ini terbukti berhasil mengatasi miskonsepsi,1,0.91,3
 7364,Pendidikan Guru Sekolah Dasar,kalau tidak keliru uji normalitas memang begitu adanya,0,0.68,2
 7365,Pendidikan Guru Sekolah Dasar,sepertinya analisis deskriptif ini kurang relevan pak,0,0.42,2
-7367,Pendidikan Guru Sekolah Dasar,sejujurnya saya merasa sangat bingung dan variabel itu benar benar hilang dari ingatan saya,0,1.5,1
 7368,Pendidikan Guru Sekolah Dasar,astaga pikiran saya buyar hmmm padahal semalam sudah diulas,0,0.28,1
 7369,Pendidikan Guru Sekolah Dasar,waduh pikiran saya melayang entah kemana karena saya sangat panik,0,0.17,1
 7370,Pendidikan Guru Sekolah Dasar,metode proyek evaluasi sumatif mendukung diferensiasi pembelajaran,1,0.82,3
 7372,Pendidikan Guru Sekolah Dasar,metode ceramah eh bukan metode diskusi yang dipakai bu,0,0.13,1
 7373,Pendidikan Guru Sekolah Dasar,kalau saya tidak salah instrumen kuesioner kurang relevan pak,0,0.46,2
-7374,Pendidikan Guru Sekolah Dasar,mohon maaf bapak sejujurnya saya sangat gugup saat ini dan materi ini di luar dugaan saya,0,1.5,1
 7375,Pendidikan Guru Sekolah Dasar,media ini penting karena memang penting untuk tercapai pada akhirnya,0,0.15,3
 7378,Pendidikan Guru Sekolah Dasar,media ini penting karena memang penting untuk mencapai hasil akhir,0,0.38,3
 7379,Pendidikan Guru Sekolah Dasar,pada prinsipnya kurikulum merdeka terbukti efektif menstimulasi keaktifan,1,0.91,3
@@ -6842,10 +6774,8 @@ id,jurusan,teks,level,score,label
 7381,Pendidikan Guru Sekolah Dasar,strategi perancah kurikulum merdeka menekan tingkat kebosanan di kelas,1,0.85,3
 7382,Pendidikan Guru Sekolah Dasar,meskipun terdapat error pada instrumen awal kalibrasi ulang memastikan validitasnya tinggi,1,0.81,3
 7383,Pendidikan Guru Sekolah Dasar,sepertinya metode demonstrasi kurang relevan pak,1,0.51,2
-7384,Pendidikan Guru Sekolah Dasar,tujuan dari penerapan ini diterapakan agar tujuannya menjadi lebih baik lagi,0,99.0,1
 7385,Pendidikan Guru Sekolah Dasar,penelitian kualitatif kualitatif eh maksudnya yang benar bapak,0,0.12,1
 7386,Pendidikan Guru Sekolah Dasar,kalau tidak keliru uji normalitas agak sulit diinterpretasikan,1,0.42,2
-7387,Pendidikan Guru Sekolah Dasar,sebagai bukti evaluasi sumatif berdampak langsung pada pencapaian kkm,1,-0.85,3
 7389,Pendidikan Guru Sekolah Dasar,ada kemungkinan metode demonstrasi masih butuh penyempurnaan,1,0.71,2
 7390,Pendidikan Guru Sekolah Dasar,penelitian kualitatif kualitatif eh maksudnya lewat kuesioner pak,0,0.22,1
 7391,Pendidikan Guru Sekolah Dasar,metode ceramah eh bukan metode diskusi yang benar bapak,0,0.27,1
@@ -6858,27 +6788,21 @@ id,jurusan,teks,level,score,label
 7400,Pendidikan Guru Sekolah Dasar,bisa jadi instrumen kuesioner agak bergeser dari fokus,0,0.68,2
 7401,Pendidikan Guru Sekolah Dasar,berdasarkan literatur seingat saya teori piaget kurang relevan pak,1,0.51,2
 7402,Pendidikan Guru Sekolah Dasar,sepertinya memang metode demonstrasi agak bergeser dari fokus,1,0.68,2
-7403,Pendidikan Guru Sekolah Dasar,saya mengaku tidak sanggup bapak karena saya benar benar buntu,0,99.0,1
-7406,Pendidikan Guru Sekolah Dasar,selaras dengan pengelolaan kelas terbukti efektif menstimulasi keaktifan,1,-0.85,3
 7408,Pendidikan Guru Sekolah Dasar,adapun hasil kemampuan literasi berdampak langsung pada pencapaian kkm,1,0.91,3
 7409,Pendidikan Guru Sekolah Dasar,pada prinsipnya keterampilan numerasi menciptakan suasana belajar bermakna,1,0.78,3
-7410,Pendidikan Guru Sekolah Dasar,saya mengaku tidak sanggup bapak karena saya tidak bisa mengingatnya,0,99.0,1
 7411,Pendidikan Guru Sekolah Dasar,observasi kelas pemecahan masalah memperkuat retensi memori jangka panjang,1,0.79,1
 7412,Pendidikan Guru Sekolah Dasar,saya pasrah bu karena kemampuan saya terbatas,0,0.17,1
 7413,Pendidikan Guru Sekolah Dasar,mohon maaf bapak sejujurnya saya sangat gugup saat ini dan kemampuan saya terbatas,0,0.32,3
 7414,Pendidikan Guru Sekolah Dasar,mohon ampun bu saya mendadak lupa karena saya sangat panik,0,0.24,1
 7415,Pendidikan Guru Sekolah Dasar,saya mengaku tidak sanggup bapak karena materi ini di luar dugaan saya,0,0.18,1
 7416,Pendidikan Guru Sekolah Dasar,siswa harus belajar agar pembelajarannya menjadi belajar sesuai dengan yang diharapkan,0,0.11,1
-7417,Pendidikan Guru Sekolah Dasar,aspek afektif perkembangan kognitif mendukung diferensiasi pembelajaran,1,-0.85,3
 7418,Pendidikan Guru Sekolah Dasar,mungkin saja observasi partisipatif memiliki bias tertentu,1,0.55,2
 7419,Pendidikan Guru Sekolah Dasar,kesalahan error saat observasi telah diantisipasi melalui perekaman video menyeluruh,1,0.79,3
 7420,Pendidikan Guru Sekolah Dasar,teori itu teori itu aduh ralat maksud saya lewat kuesioner pak,0,0.2,1
-7421,Pendidikan Guru Sekolah Dasar,bisa jadi tinjauan teori tersebut memang begitu adanya,0,-0.85,2
 7422,Pendidikan Guru Sekolah Dasar,waduh tiba tiba kepala saya kosong sampai tidak bisa menjawab,0,0.33,1
 7423,Pendidikan Guru Sekolah Dasar,seingat saya pendekatan kualitatif memang begitu adanya,0,0.57,1
 7425,Pendidikan Guru Sekolah Dasar,teori itu teori itu aduh ralat maksud saya sesuai panduan,0,0.05,1
 7427,Pendidikan Guru Sekolah Dasar,mungkin saja teori piaget belum saya kuasai penuh,0,0.43,1
-7428,Pendidikan Guru Sekolah Dasar,sejujurnya saya merasa sangat bingung dan saya tidak bisa mengingatnya,0,1.5,1
 7429,Pendidikan Guru Sekolah Dasar,waduh tiba tiba kepala saya kosong saat ditanya bagian ini,0,0.32,1
 7430,Pendidikan Guru Sekolah Dasar,ada kemungkinan variabel moderasi memiliki bias tertentu,1,0.72,2
 7431,Pendidikan Guru Sekolah Dasar,sebagai tindak pemikiran kritis berfungsi optimal sebagai perancah belajar,1,0.83,3
@@ -6896,7 +6820,6 @@ id,jurusan,teks,level,score,label
 7443,Pendidikan Guru Sekolah Dasar,mungkin saja pendekatan kualitatif agak sulit diinterpretasikan,0,0.71,2
 7444,Pendidikan Guru Sekolah Dasar,ada kemungkinan variabel moderasi kurang relevan pak,0,0.43,2
 7445,Pendidikan Guru Sekolah Dasar,waduh pikiran saya melayang entah kemana saat ditanya bagian ini,0,0.23,1
-7446,Pendidikan Guru Sekolah Dasar,bisa jadi variabel moderasi terasa membingungkan bu,1,99.0,2
 7447,Pendidikan Guru Sekolah Dasar,sepertinya memang analisis deskriptif ini agak sulit diinterpretasikan,1,0.63,2
 7448,Pendidikan Guru Sekolah Dasar,mungkin saja observasi partisipatif kurang relevan pak,1,0.68,2
 7449,Pendidikan Guru Sekolah Dasar,mungkin teori piaget kurang tajam analisisnya,1,0.55,2
@@ -6910,7 +6833,6 @@ id,jurusan,teks,level,score,label
 7458,Pendidikan Guru Sekolah Dasar,pemahaman konsep pemecahan masalah berdampak langsung pada pencapaian kkm,1,0.89,1
 7459,Pendidikan Guru Sekolah Dasar,berdasarkan literatur seingat saya variabel moderasi agak sulit diinterpretasikan,0,0.52,2
 7460,Pendidikan Guru Sekolah Dasar,hasil kuesioner pemecahan masalah terbukti efektif menstimulasi keaktifan,1,0.78,1
-7461,Pendidikan Guru Sekolah Dasar,ada kemungkinan observasi partisipatif belum saya kuasai penuh,0,-0.85,2
 7464,Pendidikan Guru Sekolah Dasar,meski belum mencapai target absolut tetapi tren kenaikannya sangat menjanjikan,1,0.97,3
 7466,Pendidikan Guru Sekolah Dasar,pemahaman konsep kemandirian siswa terbukti efektif menstimulasi keaktifan,1,0.82,1
 7468,Pendidikan Guru Sekolah Dasar,metode ceramah eh bukan metode diskusi di sekolah tersebut,0,0.33,1
@@ -6933,7 +6855,6 @@ id,jurusan,teks,level,score,label
 7492,Pendidikan Guru Sekolah Dasar,saya mohon maaf atas keterbatasan sampel namun kaidah generalisasi statistik tetap terpenuhi,1,0.92,3
 7493,Pendidikan Guru Sekolah Dasar,siswa yang belum merespons dipandu melalui scaffolding bertahap hingga mandiri,1,0.9,3
 7494,Pendidikan Guru Sekolah Dasar,kendati strategi pertama gagal pendekatan alternatif ini memberikan luaran optimal,1,0.82,3
-7495,Pendidikan Guru Sekolah Dasar,ditinjau dari kemampuan literasi berdampak langsung pada pencapaian kkm,1,99.0,3
 7496,Pendidikan Guru Sekolah Dasar,mungkin saja analisis deskriptif ini memang begitu adanya,0,0.41,2
 7497,Pendidikan Guru Sekolah Dasar,secara hipotetis mungkin analisis deskriptif ini kurang tajam analisisnya,1,0.56,3
 7498,Pendidikan Guru Sekolah Dasar,sebagai tindak kemampuan literasi memberikan korelasi positif yang nyata,1,0.88,3
@@ -6948,7 +6869,6 @@ id,jurusan,teks,level,score,label
 7509,Pendidikan Guru Sekolah Dasar,astaga saya ngeblank sekali bapak padahal tadi pagi sudah disimulasikan,0,0.2,1
 7510,Pendidikan Guru Sekolah Dasar,analisis data belum sepenuhnya rampung saat pra penelitian namun desain akhirnya berhasil disempurnakan,1,0.83,3
 7511,Pendidikan Guru Sekolah Dasar,sejauh yang direkam penerapan sistem reward kurang begitu pas pak,1,0.46,2
-7512,Pendidikan Guru Sekolah Dasar,berdasarkan literatur seingat saya observasi partisipatif kelas kurang tajam pembahasannya,0,1.5,2
 7513,Pendidikan Guru Sekolah Dasar,dalam konteks pembelajaran tematik menciptakan iklim kelas,1,0.86,3
 7514,Pendidikan Guru Sekolah Dasar,seingat saya observasi partisipatif kelas perlu disesuaikan lagi,0,0.53,2
 7515,Pendidikan Guru Sekolah Dasar,pendekatan kuantitatif eh maksudnya kualitatif yang sebenarnya saya tulis,0,0.1,1
@@ -6957,14 +6877,12 @@ id,jurusan,teks,level,score,label
 7518,Pendidikan Guru Sekolah Dasar,ada kemungkinan pengambilan sampel purposif terasa cukup membingungkan,0,0.66,2
 7519,Pendidikan Guru Sekolah Dasar,kemungkinan besar metode role playing masih memerlukan revisi,1,0.72,2
 7520,Pendidikan Guru Sekolah Dasar,saya mohon maaf atas batasan literatur lokal namun teori pedagogi kritis asing sangat relevan,1,0.81,3
-7521,Pendidikan Guru Sekolah Dasar,kesesuaian instrumen hasil akademik berdampak langsung pada,1,99.0,3
 7522,Pendidikan Guru Sekolah Dasar,pendekatan kuantitatif eh maksudnya kualitatif yang saya jadi belibet,0,0.22,1
 7523,Pendidikan Guru Sekolah Dasar,pengujian validitas perkembangan kognitif menekan tingkat disrupsi,1,0.79,1
 7524,Pendidikan Guru Sekolah Dasar,mohon ampun bu saya benar benar lupa padahal tadi pagi sudah disimulasikan,0,0.01,1
 7525,Pendidikan Guru Sekolah Dasar,secara empiris keterampilan abad ini mereduksi miskonsepsi awal,1,0.93,1
 7527,Pendidikan Guru Sekolah Dasar,sejujurnya mental saya sudah jatuh bu karena tidak tahu harus menjawab apa,0,0.24,1
 7528,Pendidikan Guru Sekolah Dasar,mohon maaf bapak ibu penekanan saya difokuskan pada tahapan kognitif operasional konkret piaget,1,0.9,3
-7531,Pendidikan Guru Sekolah Dasar,mohon ampun ibu saya tidak paham sama sekali dan tidak sanggup lagi mengingatnya,0,99.0,1
 7532,Pendidikan Guru Sekolah Dasar,kalau dipikir ulang observasi partisipatif kelas kurang tajam pembahasannya,0,0.57,2
 7533,Pendidikan Guru Sekolah Dasar,sejujurnya saya merasa amat sangat bingung dan tidak tahu harus menjawab apa,0,0.22,3
 7534,Pendidikan Guru Sekolah Dasar,banyak siswa belum mencapai kkm di awal sehingga saya merancang media pop up book interaktif,1,0.89,3
@@ -6976,14 +6894,11 @@ id,jurusan,teks,level,score,label
 7541,Pendidikan Guru Sekolah Dasar,siklusnya dua kali eh tiga kali begitu kira kira,0,0.16,1
 7542,Pendidikan Guru Sekolah Dasar,sebagai bukti kemandirian siswa mampu mengakomodasi gaya,1,0.82,1
 7543,Pendidikan Guru Sekolah Dasar,strategi awal diakui gagal beradaptasi dengan gaya belajar visual lalu pendekatan kontekstual diterapkan,1,0.88,3
-7544,Pendidikan Guru Sekolah Dasar,metode proyek pemikiran kritis berdampak langsung pada,1,1.5,3
 7546,Pendidikan Guru Sekolah Dasar,ada kemungkinan uji normalitas data terasa cukup membingungkan,1,0.73,2
-7548,Pendidikan Guru Sekolah Dasar,guru mengajar untuk memberikan ajaran kepada bisa sesuai target lalu berlanjut,0,1.5,1
 7549,Pendidikan Guru Sekolah Dasar,motivasi adalah dorongan supaya murid terdorong murid kegiatan belajar mengajar,0,0.15,3
 7553,Pendidikan Guru Sekolah Dasar,rasanya observasi partisipatif kelas kurang tajam pembahasannya,1,0.55,2
 7554,Pendidikan Guru Sekolah Dasar,waduh kepala saya kosong mendadak karena sangat gugup berhadapan penguji,0,0.26,1
 7555,Pendidikan Guru Sekolah Dasar,dalam konteks pengelolaan kelas mendukung diferensiasi eksekusi,1,0.9,1
-7557,Pendidikan Guru Sekolah Dasar,sepertinya pendekatan deskriptif kualitatif agak sulit untuk diinterpretasikan,0,99.0,2
 7558,Pendidikan Guru Sekolah Dasar,kalau saya ingat variabel kontrol tersebut mengandung sedikit bias,1,0.69,1
 7559,Pendidikan Guru Sekolah Dasar,seingat saya teori perkembangan vygotsky terasa cukup membingungkan,0,0.42,2
 7560,Pendidikan Guru Sekolah Dasar,mungkin memang variabel kontrol tersebut kurang cocok untuk anak,1,0.65,2
@@ -6991,15 +6906,12 @@ id,jurusan,teks,level,score,label
 7562,Pendidikan Guru Sekolah Dasar,ya tuhan materi itu lenyap dari otak sungguh tidak ingat apa apa,0,0.01,1
 7563,Pendidikan Guru Sekolah Dasar,berdasarkan literatur seingat saya teori perkembangan vygotsky agak melenceng dari rumusan,0,0.71,2
 7566,Pendidikan Guru Sekolah Dasar,waduh fokus saya melayang entah kemana padahal tadi pagi sudah disimulasikan,0,0.29,1
-7568,Pendidikan Guru Sekolah Dasar,saya sungguh pasrah bu karena pemahaman statistik sangat lemah,0,99.0,1
 7570,Pendidikan Guru Sekolah Dasar,menurut kerangka media manipulatif mendukung diferensiasi eksekusi,1,0.95,3
 7571,Pendidikan Guru Sekolah Dasar,kira kira pengambilan sampel purposif mengandung sedikit bias,1,0.58,2
-7572,Pendidikan Guru Sekolah Dasar,mohon maaf bapak sejujurnya saya sangat panik saat ini dan tidak sanggup lagi mengingatnya,0,1.5,1
 7573,Pendidikan Guru Sekolah Dasar,menurut pemahaman saya pendekatan deskriptif kualitatif kurang tajam pembahasannya,0,0.52,2
 7574,Pendidikan Guru Sekolah Dasar,sebagai bukti kurikulum merdeka menciptakan iklim kelas,1,0.89,3
 7576,Pendidikan Guru Sekolah Dasar,kemungkinan besar analisis statistik inferensial perlu disesuaikan lagi,1,0.45,2
 7577,Pendidikan Guru Sekolah Dasar,pada prinsipnya motivasi belajar mereduksi miskonsepsi awal,1,0.92,3
-7578,Pendidikan Guru Sekolah Dasar,saya sungguh pasrah bu karena pertanyaan ini di luar prediksi,0,-0.85,1
 7579,Pendidikan Guru Sekolah Dasar,ditinjau dari pemikiran kritis berfungsi optimal sebagai,1,0.97,3
 7580,Pendidikan Guru Sekolah Dasar,guru mengajar untuk memberikan ajaran kepada kumpulan data kesimpulan akhir,0,0.03,1
 7581,Pendidikan Guru Sekolah Dasar,ada kemungkinan observasi partisipatif kelas agak sulit untuk diinterpretasikan,1,0.47,2
@@ -7014,20 +6926,16 @@ id,jurusan,teks,level,score,label
 7592,Pendidikan Guru Sekolah Dasar,terjadinya error saat uji reliabilitas langsung diatasi menggunakan formula cronbach alpha alternatif,1,0.85,3
 7593,Pendidikan Guru Sekolah Dasar,implementasi metode pembentukan karakter meningkatkan efikasi diri,1,0.83,3
 7594,Pendidikan Guru Sekolah Dasar,penerapan teori kemampuan resolusi menekan tingkat disrupsi,1,0.8,3
-7595,Pendidikan Guru Sekolah Dasar,sejujurnya mental saya sudah jatuh bu karena saya sungguh buntu memikirkannya,0,1.5,1
 7596,Pendidikan Guru Sekolah Dasar,motivasi adalah dorongan supaya murid terdorong terevaluasi dengan sangat baik,0,0.08,3
 7597,Pendidikan Guru Sekolah Dasar,kuesioner tertutup eh maksudnya terbuka mohon dimaklumi pak,0,0.16,1
 7598,Pendidikan Guru Sekolah Dasar,kemungkinan besar penggunaan media diorama kurang tajam pembahasannya,0,0.49,2
-7599,Pendidikan Guru Sekolah Dasar,pendekatan saintifik kecerdasan majemuk menunjukkan tren linier,1,-0.85,3
 7600,Pendidikan Guru Sekolah Dasar,aduh maaf bapak saya mendadak ngeblank total sampai tidak mampu mengeluarkan kata,0,0.03,1
-7601,Pendidikan Guru Sekolah Dasar,evaluasi dikerjakan supaya hasil evaluasinya kokoh berdiri tegak lurus,0,-0.85,1
 7603,Pendidikan Guru Sekolah Dasar,ya tuhan materi itu lenyap dari otak sampai tidak mampu mengeluarkan kata,0,0.11,1
 7604,Pendidikan Guru Sekolah Dasar,sebagian subjek belum memahami instruksi sehingga intervensi verbal diberikan secara lebih personal,1,0.86,3
 7605,Pendidikan Guru Sekolah Dasar,pengujian validitas kolaborasi antar kelompok berfungsi optimal sebagai,1,0.96,3
 7606,Pendidikan Guru Sekolah Dasar,bisa jadi instrumen pedoman wawancara kurang tajam pembahasannya,0,0.72,2
 7607,Pendidikan Guru Sekolah Dasar,tujuan diterapkannya model ini agar tujuannya terpecahkan solusinya kemudian,0,0.03,1
 7609,Pendidikan Guru Sekolah Dasar,siklus pertama yang gagal justru menjadi acuan utama perbaikan rpp pada tahapan berikutnya,1,0.76,3
-7610,Pendidikan Guru Sekolah Dasar,guru mengajar untuk memberikan ajaran kepada murid kegiatan belajar mengajar,0,99.0,1
 7611,Pendidikan Guru Sekolah Dasar,secara hipotetis mungkin pendekatan deskriptif kualitatif mengandung sedikit bias,1,0.73,2
 7612,Pendidikan Guru Sekolah Dasar,kayaknya penerapan sistem reward mengandung sedikit bias,0,0.73,2
 7613,Pendidikan Guru Sekolah Dasar,pada prinsipnya kolaborasi antar kelompok mendukung diferensiasi eksekusi,1,0.94,3
@@ -7046,10 +6954,8 @@ id,jurusan,teks,level,score,label
 7627,Pendidikan Guru Sekolah Dasar,pengukuran reliabilitas pembentukan karakter mendukung diferensiasi eksekusi,1,0.86,1
 7628,Pendidikan Guru Sekolah Dasar,meskipun ada kendala error saat rekapitulasi nilai validitas instrumen tes tertulis dapat dipertanggungjawabkan,1,0.99,3
 7629,Pendidikan Guru Sekolah Dasar,kira kira tinjauan pustaka bab agak melenceng dari rumusan,1,0.47,3
-7630,Pendidikan Guru Sekolah Dasar,sejujurnya bapak saya angkat tangan untuk saya sungguh buntu memikirkannya,0,99.0,1
 7631,Pendidikan Guru Sekolah Dasar,kendati terjadi error teknis pada proyektor penyampaian materi tematik tetap berjalan secara efektif,1,0.76,3
 7632,Pendidikan Guru Sekolah Dasar,observasi langsung eh maksud saya wawancara sesuai saran pembimbing,0,0.32,1
-7633,Pendidikan Guru Sekolah Dasar,penerapan teori motivasi belajar mereduksi miskonsepsi awal,1,1.5,3
 7634,Pendidikan Guru Sekolah Dasar,pendekatan kuantitatif eh maksudnya kualitatif yang begitu kira kira,0,0.32,1
 7635,Pendidikan Guru Sekolah Dasar,kuesioner tertutup eh maksudnya terbuka saya jadi belibet,0,0.38,1
 7636,Pendidikan Guru Sekolah Dasar,ada kemungkinan teori perkembangan vygotsky perlu disesuaikan lagi,0,0.43,2
@@ -7061,18 +6967,12 @@ id,jurusan,teks,level,score,label
 7643,Pendidikan Guru Sekolah Dasar,pakai metode ceramah eh bukan metode diskusi yang betul bapak,0,0.39,1
 7644,Pendidikan Guru Sekolah Dasar,sepertinya penerapan sistem reward kurang begitu pas pak,1,0.48,2
 7645,Pendidikan Guru Sekolah Dasar,kuesioner tertutup eh maksudnya terbuka di naskah skripsi,0,0.2,1
-7648,Pendidikan Guru Sekolah Dasar,hasil kuesioner alat peraga terbukti efektif menstimulasi,1,99.0,3
 7649,Pendidikan Guru Sekolah Dasar,siswa yang belum lancar membaca dibimbing melalui teknik scaffolding secara intensif dan bertahap,1,0.76,3
 7650,Pendidikan Guru Sekolah Dasar,kalau dipikir ulang uji normalitas data mengandung sedikit bias,0,0.63,2
 7651,Pendidikan Guru Sekolah Dasar,mohon maaf bapak penekanan riset ini murni pada tahapan kognitif anak usia sekolah dasar,1,0.87,3
-7652,Pendidikan Guru Sekolah Dasar,pengukuran keandalan pembentukan karakter siswa mendukung diferensiasi pembelajaran,1,1.5,3
-7653,Pendidikan Guru Sekolah Dasar,pengujian hipotesis keterampilan berpikir tingkat tinggi terbukti relevan menstimulasi,1,1.5,3
 7654,Pendidikan Guru Sekolah Dasar,skenario role playing gagal menarik atensi siswa kelas atas maka model debat saya gunakan,1,0.82,3
 7655,Pendidikan Guru Sekolah Dasar,teori behaviorisme itu aduh salah maksudnya yang benar bapak,0,0.15,1
 7656,Pendidikan Guru Sekolah Dasar,seingat pengamatan saya instrumen lembar observasi kurang pas pembahasannya,0,0.59,2
-7657,Pendidikan Guru Sekolah Dasar,asumsi pribadi saat ini teknik cluster sampling perlu dikalibrasi ulang,0,1.5,2
-7658,Pendidikan Guru Sekolah Dasar,seingat pengamatan saya uji homogenitas data agak susah untuk dijabarkan,1,1.5,2
-7659,Pendidikan Guru Sekolah Dasar,rasanya observasi teori kognitif bruner agak meleset dari tujuan,0,-0.85,2
 7660,Pendidikan Guru Sekolah Dasar,masalah diteliti agar rumusan masalahnya bisa tercapai target lalu diteruskan,0,0.03,1
 7661,Pendidikan Guru Sekolah Dasar,menurut asumsi saya analisis korelasi product moment agak meleset dari tujuan,0,0.55,2
 7662,Pendidikan Guru Sekolah Dasar,kajian pustaka dikaji supaya pustakanya murid di proses belajar mengajar,0,0.07,1
@@ -7080,7 +6980,6 @@ id,jurusan,teks,level,score,label
 7664,Pendidikan Guru Sekolah Dasar,secara teoretis mungkin metode penugasan memiliki potensi bias,0,0.44,2
 7669,Pendidikan Guru Sekolah Dasar,maaf bu saya kehilangan susunan kata karena terlampau gugup di ruang sidang,0,0.38,1
 7670,Pendidikan Guru Sekolah Dasar,peserta didik yang belum mencapai ketuntasan minimum diberikan program remedial interaktif,1,0.77,3
-7671,Pendidikan Guru Sekolah Dasar,kayaknya memang pengamatan partisipan memang wajar terjadi di sd,1,-0.85,2
 7672,Pendidikan Guru Sekolah Dasar,sepertinya pengamatan partisipan masih butuh banyak perbaikan,1,0.58,2
 7674,Pendidikan Guru Sekolah Dasar,maafkan saya pak saya pasrah saja karena sudah kehabisan kosa kata menjawab,0,0.11,3
 7675,Pendidikan Guru Sekolah Dasar,kalau ditelaah lagi pendekatan fenomenologi terasa sedikit membingungkan,1,0.54,2
@@ -7097,12 +6996,10 @@ id,jurusan,teks,level,score,label
 7688,Pendidikan Guru Sekolah Dasar,saya mohon maaf pak benar benar tidak bisa pertanyaan bapak di luar nalar saya,0,0.09,3
 7689,Pendidikan Guru Sekolah Dasar,kegiatan pada pra siklus yang gagal justru menjadi fondasi utama penyusunan skenario baru,1,0.88,3
 7690,Pendidikan Guru Sekolah Dasar,anak anak yang belum fasih mengeja didampingi melalui tutor sebaya secara intensif,1,0.86,3
-7691,Pendidikan Guru Sekolah Dasar,merujuk hasil kolaborasi siswa memperkuat retensi informasi,1,99.0,3
 7692,Pendidikan Guru Sekolah Dasar,tempatnya di sekolah negeri eh swasta lewat observasi pak,0,0.24,1
 7693,Pendidikan Guru Sekolah Dasar,menurut asumsi saya penerapan token economy kurang begitu tajam pak,0,0.46,1
 7694,Pendidikan Guru Sekolah Dasar,implementasi media keterampilan berhitung berfungsi maksimal sebagai,1,0.93,3
 7695,Pendidikan Guru Sekolah Dasar,berdasarkan catatan sementara penerapan token economy memiliki potensi bias,1,0.48,2
-7696,Pendidikan Guru Sekolah Dasar,ditinjau dari media benda konkret berdampak signifikan pada,1,1.5,3
 7697,Pendidikan Guru Sekolah Dasar,peserta didik harus aktif supaya keaktifannya sistematis menjadi lebih sempurna lagi,0,0.07,3
 7698,Pendidikan Guru Sekolah Dasar,rasanya observasi konsep pecahan sederhana kurang relevan untuk anak sd,1,0.52,2
 7700,Pendidikan Guru Sekolah Dasar,berdasarkan analisis pemikiran analitis terbukti relevan menstimulasi,1,0.76,3
@@ -7116,14 +7013,12 @@ id,jurusan,teks,level,score,label
 7713,Pendidikan Guru Sekolah Dasar,mungkin saja penerapan token economy masih butuh banyak perbaikan,1,0.62,2
 7715,Pendidikan Guru Sekolah Dasar,ada kemungkinan bahwa teori kognitif bruner agak susah untuk dijabarkan,0,0.53,2
 7716,Pendidikan Guru Sekolah Dasar,asumsi pribadi saat ini variabel intervening tersebut belum saya pahami sepenuhnya,0,0.41,2
-7717,Pendidikan Guru Sekolah Dasar,motivasi merupakan dorongan supaya anak terdorong terus hidup di dalam kelas,0,99.0,1
 7718,Pendidikan Guru Sekolah Dasar,berdasarkan rujukan seingat saya desain rencana pelaksanaan perlu dikalibrasi ulang,0,0.67,2
 7719,Pendidikan Guru Sekolah Dasar,saya memohon maaf atas keterbatasan referensi berbahasa indonesia karena teori utamanya dari luar,1,0.83,3
 7720,Pendidikan Guru Sekolah Dasar,kalau saya ingat ingat pendekatan fenomenologi agak meleset dari tujuan,0,0.53,2
 7721,Pendidikan Guru Sekolah Dasar,aduh maaf bapak saya mendadak ngeblank sama sekali padahal barusan saja sudah dipelajari,0,0.02,1
 7722,Pendidikan Guru Sekolah Dasar,waduh memori saya hilang mendadak kepanikan ini merusak fokus saya,0,0.09,1
 7723,Pendidikan Guru Sekolah Dasar,mohon maaf apabila paparan ini agak teknis sebab pembuktiannya menuntut rincian mendalam,1,0.77,3
-7724,Pendidikan Guru Sekolah Dasar,observasi kelas kolaborasi siswa mereduksi miskonsepsi siswa,1,1.5,3
 7725,Pendidikan Guru Sekolah Dasar,seingat pengamatan saya penerapan token economy kurang pas pembahasannya,0,0.72,2
 7726,Pendidikan Guru Sekolah Dasar,mohon ampun ibu saya tidak mengerti sama sekali dan konsep itu menguap dari kepala saya,0,0.22,1
 7728,Pendidikan Guru Sekolah Dasar,aduh saya benar benar blank total sekarang rasanya jantung saya berdebar kencang,0,0.04,1
@@ -7134,13 +7029,10 @@ id,jurusan,teks,level,score,label
 7734,Pendidikan Guru Sekolah Dasar,terjadinya sistem error saat perhitungan manual langsung dikoreksi menggunakan formula otomatis,1,0.95,3
 7735,Pendidikan Guru Sekolah Dasar,kajian empiris motivasi internal berfungsi maksimal sebagai,1,0.81,1
 7736,Pendidikan Guru Sekolah Dasar,kalau ditelaah lagi instrumen lembar observasi belum saya pahami sepenuhnya,0,0.42,2
-7737,Pendidikan Guru Sekolah Dasar,sejujurnya nyali saya sudah ciut bu karena saya sungguh pusing memikirkannya,0,1.5,1
-7739,Pendidikan Guru Sekolah Dasar,bisa jadi karena analisis korelasi product moment terasa sedikit membingungkan,0,1.5,2
 7740,Pendidikan Guru Sekolah Dasar,kira kira seperti desain rencana pelaksanaan memiliki potensi bias,1,0.63,1
 7741,Pendidikan Guru Sekolah Dasar,eksplorasi konsep media benda konkret terbukti relevan menstimulasi,1,0.97,3
 7743,Pendidikan Guru Sekolah Dasar,asumsi pribadi saat ini analisis korelasi product moment agak meleset dari tujuan,1,0.7,2
 7744,Pendidikan Guru Sekolah Dasar,strategi demonstrasi diakui gagal diterapkan di kelas rendah lalu beralih ke gamifikasi,1,0.9,3
-7745,Pendidikan Guru Sekolah Dasar,ada kemungkinan bahwa pengamatan partisipan perlu dikalibrasi ulang,1,1.5,2
 7746,Pendidikan Guru Sekolah Dasar,walaupun pengolahan spss sempat error namun hasil uji reliabilitas instrumen tetap valid,1,0.96,3
 7747,Pendidikan Guru Sekolah Dasar,kajian empiris pemikiran analitis menunjukkan pola peningkatan linier,1,0.96,3
 7749,Pendidikan Guru Sekolah Dasar,metode tes tertulis eh maksud saya lisan mohon dimaafkan pak,0,0.24,1
@@ -7172,21 +7064,17 @@ id,jurusan,teks,level,score,label
 7779,Pendidikan Guru Sekolah Dasar,maaf bu saya kehilangan susunan kata rasanya jantung saya berdebar kencang,0,0.33,1
 7780,Pendidikan Guru Sekolah Dasar,kira kira seperti variabel intervening tersebut agak susah untuk dijabarkan,1,0.56,1
 7782,Pendidikan Guru Sekolah Dasar,kendati aplikasi elearning mengalami error penyampaian materi luring tetap berjalan lancar,1,0.95,3
-7783,Pendidikan Guru Sekolah Dasar,maaf sekali bapak saya tidak bisa berkata kata pertanyaan bapak di luar nalar saya,0,99.0,1
 7784,Pendidikan Guru Sekolah Dasar,astaga otak saya mendadak berhenti berpikir kepanikan ini merusak fokus saya,0,0.3,1
 7785,Pendidikan Guru Sekolah Dasar,mohon ampun bu saya sungguh sungguh lupa rasanya jantung saya berdebar kencang,0,0.08,1
 7786,Pendidikan Guru Sekolah Dasar,saya mohon maaf pak benar benar tidak bisa dasar statistik saya amat lemah,0,0.15,3
 7787,Pendidikan Guru Sekolah Dasar,aduh bapak saya berkeringat dingin ngeblank padahal tadi malam sudah dihapal,0,0.09,1
-7788,Pendidikan Guru Sekolah Dasar,sungguh saya memohon maaf karena menyerah bapak sudah kehabisan kosa kata menjawab,0,1.5,1
 7789,Pendidikan Guru Sekolah Dasar,asumsi pribadi saat ini pendekatan fenomenologi perlu dikalibrasi ulang,1,0.49,2
 7790,Pendidikan Guru Sekolah Dasar,kira kira seperti analisis korelasi product moment perlu dikalibrasi ulang,0,0.5,2
 7791,Pendidikan Guru Sekolah Dasar,analisis kuantitatif eh ralat kualitatif yang yang benar bapak,0,0.37,1
 7792,Pendidikan Guru Sekolah Dasar,kira kira seperti konsep pecahan sederhana memang wajar terjadi di sd,0,0.44,2
 7793,Pendidikan Guru Sekolah Dasar,astaga pikiran saya tiba tiba kosong hmmm padahal tadi malam sudah dihapal,0,0.13,1
 7794,Pendidikan Guru Sekolah Dasar,seingat pengamatan saya variabel intervening tersebut memiliki potensi bias,1,0.69,3
-7795,Pendidikan Guru Sekolah Dasar,secara pedagogis pembentukan karakter siswa mendukung diferensiasi pembelajaran,1,1.5,3
 7796,Pendidikan Guru Sekolah Dasar,siklus penelitiannya dua eh tiga putaran yang benar bapak,0,0.12,3
-7797,Pendidikan Guru Sekolah Dasar,kayaknya memang penggunaan media kartu kata memiliki potensi bias,1,1.5,2
 7798,Pendidikan Guru Sekolah Dasar,fokus penelitian kemandirian belajar mampu menjembatani gaya,1,0.93,3
 7799,Pendidikan Guru Sekolah Dasar,sebagian besar subjek belum merespons kuesioner sehingga wawancara mendalam diaplikasikan,1,0.9,3
 7801,Manajemen,maaf bu saya kehilangan kata kata saat ditanya margin laba kepanikan ini merusak semua persiapan presentasi saya,0,0.05,1
@@ -7195,7 +7083,6 @@ id,jurusan,teks,level,score,label
 7804,Manajemen,aspek finansial kinerja keuangan menciptakan keunggulan bersaing yang berkelanjutan,1,0.89,1
 7805,Manajemen,mohon ampun bu saya sungguh sungguh lupa definisi modal kerja sampai lidah saya kelu tidak bisa menjawab,0,0.01,1
 7806,Manajemen,kemungkinan terbesarnya kajian pustaka bagian sdm kurang tajam dalam pembahasannya,1,0.63,2
-7807,Manajemen,bisa jadi karena perhitungan net present value kurang relevan untuk sektor perbankan,1,99.0,2
 7809,Manajemen,pengumpulan data primer belum seluruhnya rampung pada fase awal namun penyebaran eform berhasil melengkapinya,1,0.9,3
 7811,Manajemen,sepertinya hal tersebut desain struktur organisasi terasa sedikit membingungkan alurnya,1,0.66,2
 7813,Manajemen,asumsi sementara saya pendekatan rasio likuiditas perlu dikalkulasi ulang datanya,0,0.42,2
@@ -7210,7 +7097,6 @@ id,jurusan,teks,level,score,label
 7824,Manajemen,secara teoretis manajemen konflik menunjukkan pola peningkatan yang signifikan,1,0.91,3
 7825,Manajemen,model kepemimpinan otoriter yang gagal memotivasi tim membuktikan pentingnya penerapan gaya partisipatif,1,0.95,3
 7826,Manajemen,kalau dicermati lagi variabel intervening kepuasan agak susah untuk diinterpretasikan nilainya,1,0.56,3
-7827,Manajemen,kinerja dinilai untuk menilai hasil capaian kerja bisa tercapai target laba lalu diteruskan,0,99.0,1
 7829,Manajemen,sepertinya desain struktur organisasi agak bergeser dari fokus rumusan,1,0.58,2
 7830,Manajemen,kalau dicermati lagi pendekatan rasio likuiditas masih butuh banyak penyesuaian,0,0.45,2
 7831,Manajemen,berdasarkan analisis manajemen konflik berdampak langsung pada return on asset,1,0.95,3
@@ -7235,9 +7121,7 @@ id,jurusan,teks,level,score,label
 7852,Manajemen,hasil regresi budaya organisasi berdampak langsung pada return on asset,1,0.82,3
 7853,Manajemen,bisa jadi karena analisis regresi berganda masih butuh banyak penyesuaian,0,0.48,2
 7854,Manajemen,menurut pandangan saya analisis regresi berganda masih butuh banyak penyesuaian,1,0.54,2
-7855,Manajemen,evaluasi kinerja kinerja keuangan memberikan kontribusi positif terhadap rasio likuiditas,1,-0.85,3
 7857,Manajemen,implementasi strategi budaya organisasi mampu menjembatani kesenjangan ekspektasi,1,0.91,3
-7858,Manajemen,hasil regresi efisiensi operasional terbukti relevan dalam menstimulasi produktivitas,1,-0.85,3
 7859,Manajemen,penerapan teori rantai pasokan terbukti relevan dalam menstimulasi produktivitas,1,0.98,1
 7860,Manajemen,meskipun ada notifikasi error saat ekstraksi data sekunder dari bei tren fluktuasi ihsg tetap bisa dianalisis,1,0.77,3
 7861,Manajemen,laporan laba rugi dirancang agar rancangannya terstruktur secara kumpulan informasi pasar yang utuh sekali,0,0.14,3
@@ -7259,13 +7143,11 @@ id,jurusan,teks,level,score,label
 7878,Manajemen,kendati software statistik mengalami error uji normalitas kolmogorovsmirnov dapat diselesaikan dengan cara manual,1,0.82,3
 7879,Manajemen,saya sungguh menyerah bu karena tidak sanggup lagi mengingat definisi elastisitas,0,0.15,3
 7881,Manajemen,ya ampun jawaban tentang struktur biaya itu lenyap dari pikiran sungguh tidak ada satu pun konsep yang mampir,0,0.04,1
-7882,Manajemen,kalau saya tidak keliru perhitungan net present value belum saya kuasai secara utuh,0,99.0,2
 7883,Manajemen,asumsi sementara saya metode penilaian persediaan mengandung sedikit bias pengukuran,0,0.56,2
 7884,Manajemen,sejauh pemahaman saya konsep return on equity mengandung sedikit bias pengukuran,0,0.66,2
 7886,Manajemen,laporan laba rugi dirancang agar rancangannya terstruktur secara dan sejalan dengan perasaan yang puas tersebut,0,0.26,3
 7887,Manajemen,kemungkinan terbesarnya analisis regresi berganda masih butuh banyak penyesuaian,0,0.61,2
 7888,Manajemen,perusahaan beroperasi untuk menjalankan operasi kepada terkendali solusinya di masa depan bisnis,0,0.28,1
-7889,Manajemen,aspek finansial risiko sistematis memberikan kontribusi positif terhadap rasio likuiditas,1,99.0,3
 7890,Manajemen,sejauh pemahaman saya instrumen skala likert agak bergeser dari fokus rumusan,0,0.62,2
 7891,Manajemen,strategi diferensiasi eh maksudnya cost leadership sebetulnya saya gunakan,0,0.24,1
 7893,Manajemen,terjadinya multikolinearitas yang menyebabkan error estimasi langsung dikoreksi dengan menghilangkan variabel pengganggu,1,0.91,3
@@ -7276,13 +7158,11 @@ id,jurusan,teks,level,score,label
 7899,Manajemen,mohon maaf bapak penguji penekanan riset ini murni pada aspek rasio rentabilitas bukan solvabilitas,1,0.81,3
 7901,Manajemen,kalau dicermati lagi kajian pustaka bagian sdm agak bergeser dari fokus rumusan,0,0.63,2
 7903,Manajemen,perusahaan beroperasi untuk menjalankan operasi kepada menjadi mengerti dan mencapai titik akhir tujuan,0,0.29,3
-7904,Manajemen,kalau saya tidak keliru teori keagenan masih butuh banyak penyesuaian,1,1.5,2
 7905,Manajemen,analisis fundamental eh ralat maksudnya teknikal yang saya jadi sangat belibet ngomongnya,0,0.08,1
 7906,Manajemen,pengukuran profitabilitas rantai pasokan berdampak langsung pada return on asset,1,0.9,3
 7907,Manajemen,waduh mohon maaf pak saya tidak bisa mengingat beda roa dan roe karena terlampau grogi duduk di kursi panas ini,0,0.31,1
 7908,Manajemen,mohon maaf apabila paparan ini agak kompleks sebab perhitungan weighted average cost of capital memang membutuhkan rincian,1,0.78,3
 7909,Manajemen,penerapan teori kepuasan pelanggan memberikan kontribusi positif terhadap rasio likuiditas,1,0.93,3
-7910,Manajemen,sepertinya desain struktur organisasi kurang tajam dalam pembahasannya,0,1.5,2
 7912,Manajemen,analisis fundamental eh ralat maksudnya teknikal yang sesuai saran pembimbing satu,0,0.13,1
 7913,Manajemen,ditinjau dari loyalitas konsumen mereduksi volatilitas harga saham,1,0.92,3
 7914,Manajemen,mohon ampun bu saya sungguh sungguh lupa definisi modal kerja karena terlampau grogi duduk di kursi panas ini,0,0.36,1
@@ -7293,7 +7173,6 @@ id,jurusan,teks,level,score,label
 7920,Manajemen,berdasarkan catatan kasar uji heteroskedastisitas kurang relevan untuk sektor perbankan,1,0.56,2
 7921,Manajemen,astaga pikiran saya tiba tiba kosong soal teori portofolio sungguh tidak ada satu pun konsep yang mampir,0,0.16,1
 7922,Manajemen,sejauh pemahaman saya teori keagenan perlu dikalkulasi ulang datanya,0,0.46,2
-7924,Manajemen,sejujurnya nyali saya sudah ciut bu karena pertanyaan analisis laporan ini di luar nalar saya,0,1.5,1
 7925,Manajemen,ditinjau dari perilaku konsumen menciptakan keunggulan bersaing yang berkelanjutan,1,0.9,3
 7926,Manajemen,tujuan diterapkannya promosi ini agar tujuannya relevan dan sangat mendukung visi perusahaan sekali,0,0.28,3
 7927,Manajemen,sepertinya variabel intervening kepuasan agak bergeser dari fokus rumusan,0,0.74,1
@@ -7303,13 +7182,11 @@ id,jurusan,teks,level,score,label
 7932,Manajemen,perusahaan manufaktur eh jasa maksudnya sesuai saran pembimbing satu,0,0.28,1
 7933,Manajemen,aspek finansial budaya organisasi mereduksi volatilitas harga saham,1,0.96,1
 7934,Manajemen,sejujurnya nyali saya sudah ciut bu karena rumus keuangan itu hilang dari memori,0,0.11,1
-7935,Manajemen,penerapan teori manajemen konflik berdampak langsung pada return on asset,1,99.0,3
 7936,Manajemen,mungkin saja kajian pustaka bagian sdm agak susah untuk diinterpretasikan nilainya,0,0.42,2
 7937,Manajemen,seingat analisis saya kajian pustaka bagian sdm belum saya kuasai secara utuh,1,0.51,2
 7938,Manajemen,perusahaan manufaktur eh jasa maksudnya saya jadi sangat belibet ngomongnya,0,0.12,1
 7939,Manajemen,bisa jadi karena konsep return on equity perlu dikalkulasi ulang datanya,0,0.64,2
 7940,Manajemen,sebagian besar responden belum memahami skala likert sehingga wawancara terstruktur ditambahkan,1,0.97,3
-7941,Manajemen,rasanya indikator variabel intervening kepuasan masih butuh banyak penyesuaian,0,1.5,2
 7942,Manajemen,budaya organisasi dibentuk supaya budayanya konsumen di pasar yang persaingannya ketat,0,0.39,3
 7943,Manajemen,saya mengaku tidak sanggup bapak karena dasar akuntansi saya amat lemah,0,0.18,1
 7945,Manajemen,ditinjau dari kualitas pelayanan menciptakan keunggulan bersaing yang berkelanjutan,1,0.77,3
@@ -7319,14 +7196,12 @@ id,jurusan,teks,level,score,label
 7949,Manajemen,berdasarkan catatan kasar desain struktur organisasi kurang begitu tepat pak,0,0.73,2
 7950,Manajemen,variabel moderating itu eh maksud saya intervening laporan neraca pak,0,0.14,1
 7951,Manajemen,rasanya indikator kinerja kajian pustaka mengenai kompensasi kurang relevan untuk perusahaan jasa perhotelan,0,0.55,3
-7952,Manajemen,dalam konteks pemasaran manajemen konflik internal menciptakan keunggulan bersaing yang berkelanjutan bagi perusahaan,1,99.0,3
 7954,Manajemen,pengujian hipotesis nol kepuasan pelanggan ritel meningkatkan efisiensi alokasi dana dari utang jangka pendek,1,0.91,3
 7955,Manajemen,asumsi pribadi saya saat ini penggunaan matriks daya tarik industri memang wajar terjadi di sektor ritel,1,0.42,2
 7957,Manajemen,pengukuran profitabilitas aset struktur modal perusahaan terbukti relevan dalam menstimulasi produktivitas karyawan,1,0.89,1
 7958,Manajemen,data cross section laporan keuangan oh bukan data panel saya jadi sangat belibet berbicara karena panik,0,0.31,1
 7959,Manajemen,mohon maaf apabila penjelasan struktur modal ini rumit sebab perhitungan wacc memerlukan presisi tinggi,1,0.95,3
 7962,Manajemen,astaga pikiran saya tiba tiba kosong saat ditanya teori motivasi rasanya jantung berdebar kencang karena takut menjawab salah,0,0.17,1
-7963,Manajemen,kemungkinan terbesarnya pendekatan analisis rasio terasa sedikit membingungkan untuk dijelaskan,1,-0.85,2
 7964,Manajemen,menggunakan rasio likuiditas current ratio eh bukan quick ratio sebetulnya saya gunakan dari awal,0,0.05,1
 7965,Manajemen,sungguh saya memohon maaf karena pasrah dan menyerah bapak tidak paham harus merespon apa soal manajemen mutu terpadu,0,0.22,1
 7966,Manajemen,berdasarkan rujukan literatur seingat saya teori struktur modal pecking order mengandung sedikit bias dari jawaban responden,1,0.53,3
@@ -7334,13 +7209,11 @@ id,jurusan,teks,level,score,label
 7968,Manajemen,sepertinya metode tersebut variabel intervening kualitas layanan kurang begitu sesuai pak penguji,0,0.65,2
 7969,Manajemen,aduh pikiran saya buntu tiba tiba waktu disuruh jelaskan bep kepanikan luar biasa ini merusak semua persiapan presentasi saya,0,0.17,1
 7970,Manajemen,manajemen modal kerja ini esensial karena amat penting sistematis menjadi lebih sempurna lagi siklus akuntansinya nanti,0,0.21,1
-7971,Manajemen,berdasarkan analisis regresi kualitas pelayanan perbankan meningkatkan efisiensi alokasi dana dari utang jangka pendek,1,99.0,3
 7972,Manajemen,kayaknya memang dampaknya metode purposive sampling mengandung sedikit bias dari jawaban responden,0,0.49,2
 7973,Manajemen,analisis regresi linier kinerja keuangan emiten menciptakan keunggulan bersaing yang berkelanjutan bagi perusahaan,1,0.8,3
 7974,Manajemen,analisis tren fundamental eh ralat maksudnya analisis teknikal yang yang jadi fokus pengamatan saya bapak,0,0.13,1
 7975,Manajemen,mohon maaf bapak penguji fokus riset ini murni pada aspek likuiditas bukan pada rasio aktivitas,1,0.92,3
 7976,Manajemen,saya sungguh menyerah bu penguji karena sudah kehabisan kosa kata akademik untuk menjawab teori msdm,0,0.13,1
-7977,Manajemen,kemungkinan terbesarnya penerapan total quality management agak melenceng dari fokus tujuan penelitian,1,99.0,2
 7978,Manajemen,konsumen yang belum merespons diskon ditarget ulang menggunakan personal selling dan direct marketing,1,0.95,3
 7980,Manajemen,sebagian besar nasabah belum memahami fitur ebanking sehingga in depth interview saya tambahkan,1,0.89,3
 7981,Manajemen,perusahaan manufaktur food and beverage eh jasa perbankan maksudnya laporan neraca lajur pak,0,0.12,1
@@ -7348,7 +7221,6 @@ id,jurusan,teks,level,score,label
 7983,Manajemen,kegiatan promosi yang gagal pada triwulan pertama justru menjadi insight berharga untuk pivot strategi,1,0.87,3
 7984,Manajemen,kira kira konsep manajemennya instrumen kuesioner lima skala agak susah untuk diinterpretasikan angka signifikansinya,0,0.53,2
 7985,Manajemen,rasanya indikator kinerja konsep return on investment agak melenceng dari fokus tujuan penelitian,0,0.51,3
-7986,Manajemen,sejujurnya nyali saya sudah ciut bu menghadapi sidang ini karena saya sungguh pusing memikirkan cara menghitung arus kas bersih,0,-0.85,1
 7987,Manajemen,bisa jadi hal tersebut dikarenakan uji autokorelasi durbin watson memang wajar terjadi di sektor ritel,0,0.56,2
 7988,Manajemen,maaf bu saya kehilangan kata kata waktu ditanya struktur organisasi padahal tadi malam sudah saya pelajari sangat detail,0,0.31,1
 7989,Manajemen,strategi diferensiasi produk eh maksudnya strategi kepemimpinan biaya di dalam bab kajian pustaka,0,0.38,1
@@ -7360,14 +7232,12 @@ id,jurusan,teks,level,score,label
 7998,Manajemen,sungguh saya memohon maaf karena pasrah dan menyerah bapak saya sungguh pusing memikirkan cara menghitung arus kas bersih,0,0.33,1
 7999,Manajemen,berdasarkan analisis regresi pengembalian investasi saham meningkatkan efisiensi alokasi dana dari utang jangka pendek,1,0.87,3
 8000,Manajemen,fokus penelitian manajerial kepuasan pelanggan ritel mereduksi volatilitas harga saham di bursa efek,1,0.78,3
-8001,Manajemen,penelitian kuantitatif kausal kualitas pelayanan perbankan berdampak langsung pada return on asset dan return on equity,1,1.5,3
 8002,Manajemen,kuesioner penelitian disebar agar datanya terkumpul menjadi data primer terus hidup di dalam iklim lingkungan kantor sehari hari,0,0.37,3
 8003,Manajemen,menurut pandangan analitis saya konsep return on investment kurang relevan untuk perusahaan jasa perhotelan,0,0.42,2
 8005,Manajemen,kepuasan konsumen merupakan perasaan senang supaya pelanggan merasa puas dimanfaatkan secara rutin demi kelancaran proses produksi pabrik,0,0.11,1
 8006,Manajemen,emiten yang belum mencapai target dividen payout ratio dianalisis berdasarkan retained earnings mereka,1,0.82,3
 8007,Manajemen,perusahaan manufaktur food and beverage eh jasa perbankan maksudnya sesuai saran pembimbing utama saya,0,0.02,1
 8008,Manajemen,menurut kerangka kerja rantai pasokan global terbukti relevan dalam menstimulasi produktivitas karyawan,1,0.84,3
-8009,Manajemen,laporan arus kas dirancang agar rancangannya memuat kas secara dan sejalan dengan perasaan yang amat puas tersebut dari pembeli,0,99.0,1
 8010,Manajemen,maaf bu kemampuan berpikir saya sudah di ujung batas dan sudah kehabisan kosa kata akademik untuk menjawab teori msdm,0,0.07,3
 8011,Manajemen,secara teoretis mungkin pendekatan pendekatan analisis rasio kurang begitu sesuai pak penguji,0,0.52,2
 8012,Manajemen,perusahaan dagang beroperasi untuk menjalankan kegiatan operasi harian kepada menguntungkan dengan amat sangat rapi pembukuannya di akhir periode,0,0.18,3
@@ -7385,28 +7255,21 @@ id,jurusan,teks,level,score,label
 8027,Manajemen,merujuk laporan audit perilaku konsumen milenial menunjukkan pola peningkatan yang persisten secara tahunan,1,0.97,1
 8028,Manajemen,secara teoretis mungkin pendekatan pendekatan analisis rasio kurang relevan untuk perusahaan jasa perhotelan,0,0.43,2
 8029,Manajemen,berdasarkan tinjauan bab dua kajian pustaka mengenai kompensasi memang wajar terjadi di sektor ritel,1,0.64,2
-8030,Manajemen,kesesuaian standar operasional perencanaan strategis lima tahunan memperkuat struktur permodalan jangka panjang entitas,1,99.0,3
 8031,Manajemen,kalau dicermati ulang pendekatan analisis rasio kurang begitu sesuai pak penguji,1,0.73,2
 8033,Manajemen,walaupun running data di eviews sempat error namun hasil uji asumsi klasik akhirnya terpenuhi,1,0.86,3
 8034,Manajemen,sistem kompensasi yang gagal meningkatkan kepuasan kerja membuktikan perlunya perbaikan paket remunerasi,1,0.8,3
 8036,Manajemen,berdasarkan tinjauan bab dua instrumen kuesioner lima skala kurang tajam dalam pemaparan hasilnya,0,0.44,2
-8037,Manajemen,secara teoretis mungkin pendekatan desain strategi diferensiasi belum saya kuasai secara mendalam,1,99.0,2
-8038,Manajemen,merujuk laporan audit budaya organisasi perusahaan mendukung diferensiasi produk di tengah pasar yang homogen,1,-0.85,3
 8039,Manajemen,sejujurnya bapak saya angkat tangan untuk disuruh blank total pikiran saya tidak mampu melanjutkannya,0,0.12,1
 8040,Manajemen,sejujurnya saya merasa amat sangat buntu di bagian ini dan penguasaan materi strategi pemasaran saya memang sangat minim,0,0.08,1
 8041,Manajemen,analisis regresi linier efisiensi operasional pabrik meningkatkan efisiensi alokasi dana dari utang jangka pendek,1,0.97,3
-8042,Manajemen,analisis tren fundamental eh ralat maksudnya analisis teknikal yang mohon dimaafkan kekeliruan pengucapan saya pak,0,-0.85,1
 8043,Manajemen,kemungkinan terbesarnya instrumen kuesioner lima skala terasa sedikit membingungkan untuk dijelaskan,1,0.6,2
 8044,Manajemen,budaya organisasi perusahaan dibentuk supaya budayanya berbentuk budaya bisa tercapai target laba kotor lalu diteruskan terus,0,0.34,1
 8045,Manajemen,ekspansi cabang fisik gagal menembus pasar lokal maka digital marketing campaign menjadi solusi utama,1,0.89,3
 8046,Manajemen,meskipun ada error saat penarikan data time series dari yahoo finance tren fluktuasi ihsg tetap tergambar,1,0.86,3
 8047,Manajemen,kinerja keuangan dinilai untuk menilai hasil akhir kinerja keuangan menguntungkan dengan amat sangat rapi pembukuannya di akhir periode,0,0.14,3
-8048,Manajemen,secara komprehensif portofolio kepemimpinan transformasional mampu menjembatani kesenjangan ekspektasi antara manajemen dan pemegang saham,1,-0.85,3
 8049,Manajemen,analisis regresi linier budaya organisasi perusahaan menekan tingkat perputaran karyawan atau turnover rate,1,0.77,3
 8050,Manajemen,seingat penelaahan saya analisis jalur atau path analysis perlu dihitung ulang memakai rumus lain,1,0.51,2
-8051,Manajemen,kira kira konsep manajemennya metode penilaian depresiasi perlu dihitung ulang memakai rumus lain,1,-0.85,2
 8053,Manajemen,aduh saya benar benar blank total mengenai uji validitas ini sungguh tidak ada satu pun konsep manajemen yang mampir di otak,0,0.02,1
-8054,Manajemen,merujuk laporan audit perilaku konsumen milenial memberikan kontribusi positif terhadap rasio rentabilitas,1,1.5,3
 8055,Manajemen,waduh konsentrasi saya buyar entah kemana saat bahas leverage karena terlampau grogi duduk menghadapi dosen penguji,0,0.03,1
 8056,Manajemen,eksplorasi konsep kepemimpinan pengembalian investasi saham terbukti relevan dalam menstimulasi produktivitas karyawan,1,0.94,3
 8058,Manajemen,siklus konversi kas perusahaan dua bulan eh tiga bulan pak di dalam bab kajian pustaka,0,0.04,1
@@ -7419,21 +7282,16 @@ id,jurusan,teks,level,score,label
 8065,Manajemen,temuan lapangan membuktikan budaya organisasi perusahaan mendukung diferensiasi produk di tengah pasar yang homogen,1,0.97,3
 8066,Manajemen,metode kuantitatif regresi eh maksud saya kualitatif deskriptif sesuai saran pembimbing utama saya,0,0.07,1
 8067,Manajemen,terjadinya multikolinearitas yang memicu error pada output langsung diatasi dengan transformasi data,1,0.88,3
-8068,Manajemen,tujuan diterapkannya promosi penjualan ini agar tujuannya dan sejalan dengan perasaan yang amat puas tersebut dari pembeli,0,99.0,1
 8069,Manajemen,sistem distribusi konvensional diakui gagal menjangkau pelosok lalu beralih ke dropshipping,1,0.87,3
 8070,Manajemen,asumsi pribadi saya saat ini metode penilaian depresiasi kurang begitu sesuai pak penguji,1,0.59,2
 8071,Manajemen,menurut pandangan analitis saya penggunaan matriks daya tarik industri masih butuh banyak penyesuaian asumsi,0,0.43,2
 8072,Manajemen,mungkin saja desain strategi diferensiasi kurang relevan untuk perusahaan jasa perhotelan,0,0.56,2
 8073,Manajemen,aduh maaf bapak saya mendadak ngeblank memikirkan perbedaan saham itu rasanya jantung berdebar kencang karena takut menjawab salah,0,0.06,1
-8074,Manajemen,berdasarkan analisis regresi struktur modal perusahaan berdampak langsung pada return on asset dan return on equity,1,1.5,3
 8075,Manajemen,aduh bapak saya berkeringat dingin ngeblank ditanya soal obligasi saat bapak menanyakan indikator yang sangat teknis ini,0,0.37,1
 8076,Manajemen,saya memohon maaf atas batasan rasio keuangan yang digunakan karena kelengkapan laporan tahunan tidak seragam,1,0.81,3
 8077,Manajemen,evaluasi kinerja operasional efisiensi operasional pabrik menunjukkan pola peningkatan yang persisten secara tahunan,1,0.93,3
 8078,Manajemen,kendati aplikasi spss mengalami error uji heteroskedastisitas menggunakan metode glejser dapat dirampungkan,1,0.83,3
-8079,Manajemen,analisis regresi linier struktur modal perusahaan berdampak langsung pada return on asset dan return on equity,1,-0.85,3
-8080,Manajemen,penelitian kuantitatif kausal perilaku konsumen milenial menunjukkan pola peningkatan yang persisten secara tahunan,1,1.5,3
 8081,Manajemen,aduh bapak saya berkeringat dingin ngeblank ditanya soal obligasi rasanya jantung berdebar kencang karena takut menjawab salah,0,0.03,1
-8082,Manajemen,sungguh saya memohon maaf karena pasrah dan menyerah bapak kepanikan ini sungguh melumpuhkan pikiran analitis manajerial saya,0,-0.85,1
 8083,Manajemen,maafkan saya pak saya pasrah saja menjawabnya karena saya sungguh pusing memikirkan cara menghitung arus kas bersih,0,0.3,1
 8085,Manajemen,aspek finansial perusahaan ekuitas merek dagang mampu menjembatani kesenjangan ekspektasi antara manajemen dan pemegang saham,1,0.79,3
 8086,Manajemen,waduh mohon maaf pak saya tidak bisa mengingat beda efisiensi dan efektivitas kepanikan luar biasa ini merusak semua persiapan presentasi saya,0,0.14,1
@@ -7451,7 +7309,6 @@ id,jurusan,teks,level,score,label
 8099,Manajemen,penyebaran kuesioner primer belum seluruhnya selesai pada bulan pertama namun metode snowball sampling melengkapinya,1,0.83,3
 8100,Manajemen,budaya organisasi perusahaan dibentuk supaya budayanya berbentuk budaya terkendali solusinya di masa depan bisnis perbankan itu,0,0.32,3
 8101,Manajemen,manajemen sumber daya manusia ini penting karena amat penting sistematis menjadi lebih sempurna lagi arah promosinya,0,0.37,1
-8104,Manajemen,menurut pandangan saya saat ini kajian pustaka bagian sejarah perusahaan mengandung potensi bias persepsi,1,1.5,2
 8105,Manajemen,seingat penelaahan pustaka saya struktur organisasi matriks mengandung potensi bias persepsi,0,0.68,2
 8106,Manajemen,ditinjau dari risiko investasi terbukti efektif dalam mereduksi biaya,1,0.79,3
 8108,Manajemen,berdasarkan rujukan seingat saya penerapan just in time mengandung potensi bias persepsi,0,0.68,2
@@ -7465,16 +7322,11 @@ id,jurusan,teks,level,score,label
 8118,Manajemen,ya ampun jawaban tentang evaluasi kinerja itu lenyap begitu saja sampai lidah saya kelu tidak sanggup merangkai sepatah kata,0,0.19,1
 8119,Manajemen,implementasi kebijakan rantai pasokan berdampak langsung pada peningkatan margin laba,1,0.93,3
 8120,Manajemen,saya sungguh menyerah bu penguji karena dasar ilmu akuntansi manajemen saya amat sangat lemah sekali,0,0.11,1
-8121,Manajemen,sepertinya pendekatan variabel intervensi loyalitas memang wajar terjadi di industri ritel,1,1.5,2
 8122,Manajemen,berdasarkan rujukan seingat saya penggunaan instrumen pemasaran memang wajar terjadi di industri ritel,0,0.62,2
 8124,Manajemen,mungkin saja struktur organisasi matriks kurang begitu pas diaplikasikan pak,1,0.68,2
-8125,Manajemen,ditinjau dari kepuasan pelanggan mendukung terciptanya inovasi produk baru,1,-0.85,3
-8126,Manajemen,metode kuantitatif kuesioner eh bukan kualitatif wawancara mendalam bu saya jadi sangat belibet berbicara karena teramat panik,0,-0.85,1
-8127,Manajemen,pada prinsipnya loyalitas konsumen memperkuat retensi karyawan jangka panjang,1,99.0,3
 8129,Manajemen,mohon ampun ibu saya tidak mengerti sama sekali manajemen kualitas dan tidak paham harus merespon apa soal sengketa ketenagakerjaan internal,0,0.25,1
 8130,Manajemen,kira kira konsep manajemen metode analisis swot kurang relevan untuk kasus sengketa perburuhan ini,0,0.49,2
 8131,Manajemen,kayaknya memang dampaknya teknik purposive sampling masih butuh banyak penyesuaian asumsi,0,0.56,2
-8132,Manajemen,rasanya indikator rasio struktur organisasi matriks agak bergeser dari fokus utama rumusan,0,1.5,2
 8134,Manajemen,kegagalan retensi karyawan di kuartal pertama diatasi melalui perbaikan sistem kompensasi dan benefit,1,0.77,3
 8135,Manajemen,berdasarkan catatan sementara saya variabel intervensi loyalitas masih butuh banyak penyesuaian asumsi,0,0.69,3
 8136,Manajemen,sejujurnya bapak saya angkat tangan untuk disuruh menjelaskan kerangka kerja blank total pikiran saya tidak mampu melanjutkannya ke bab penutup,0,0.05,1
@@ -7502,30 +7354,22 @@ id,jurusan,teks,level,score,label
 8159,Manajemen,perusahaan yang belum mencapai target profitabilitas tahunan dievaluasi efisiensi operasionalnya secara menyeluruh,1,0.76,3
 8160,Manajemen,analisis tren profitabilitas perusahaan mendukung terciptanya inovasi produk baru,1,0.8,3
 8161,Manajemen,waduh hafalan saya hilang mendadak terkait konsep struktur modal kepanikan luar biasa ini menghancurkan semua presentasi saya,0,0.26,1
-8162,Manajemen,tinjauan operasional perilaku konsumen mampu menjembatani kesenjangan ekspektasi,1,1.5,3
 8163,Manajemen,aktivitas branding yang belum optimal di kuartal sebelumnya telah diselaraskan ulang menggunakan segmentasi psikografis,1,0.82,3
 8164,Manajemen,teori hierarki kebutuhan aduh ralat maksud saya teori x dan y bapak di dalam penjabaran landasan teori,0,0.05,1
-8165,Manajemen,manajer harus mengambil keputusan supaya keputusannya berjalan mengambil dimanfaatkan secara rutin demi kelancaran eksistensi bisnis,0,-0.85,1
-8167,Manajemen,sejujurnya saya merasa amat sangat buntu merespon pertanyaan ini dan kepanikan melumpuhkan pikiran kritis saya sebagai mahasiswa manajemen,0,1.5,1
 8168,Manajemen,mohon maaf bapak ibu penekanan riset ini difokuskan murni pada aspek pemasaran digital bukan bauran harga,1,0.8,3
 8169,Manajemen,strategi diferensiasi yang dinilai gagal pada pasar regional memberikan landasan bagi lokalisasi produk yang lebih relevan,1,0.87,3
-8170,Manajemen,mohon maaf jika penjelasan struktur modal ini rumit sebab teorinya memang memerlukan rincian matematis,1,-0.85,3
-8171,Manajemen,kalau saya tidak salah tangkap konsep kepuasan kerja perlu dikaji ulang menggunakan parameter keuangan lainnya,0,99.0,2
 8172,Manajemen,asumsi pribadi saya konsep kepuasan kerja agak bergeser dari fokus utama rumusan,0,0.74,2
 8173,Manajemen,tinjauan operasional kepuasan pelanggan berdampak langsung pada peningkatan margin laba,1,0.91,3
 8175,Manajemen,sistem penilaian kinerja yang belum terintegrasi sepenuhnya diperbaiki lewat pendekatan human resource information system,1,0.96,3
 8176,Manajemen,analisis tren loyalitas konsumen memperkuat retensi karyawan jangka panjang,1,0.95,3
 8177,Manajemen,maafkan saya pak saya pasrah saja menjawab pertanyaan finansial karena saya sungguh pusing memikirkan cara urai variabel kepemimpinan ini,0,0.03,3
 8178,Manajemen,berdasarkan rujukan seingat saya metode analisis swot kurang relevan untuk kasus sengketa perburuhan ini,0,0.53,2
-8179,Manajemen,kemungkinan terbesarnya kajian pustaka bagian sejarah perusahaan terasa sedikit membingungkan alur logikanya,0,99.0,2
 8180,Manajemen,sejauh pemahaman teori saya teori keagenan kurang relevan untuk kasus sengketa perburuhan ini,0,0.53,2
 8182,Manajemen,itu dihitung dengan cara oh bukan maksud saya lewat laporan neraca pak sebagai acuan perhitungan saya pak,0,0.13,1
-8183,Manajemen,bisa jadi karena desain strategi negosiasi kurang begitu pas diaplikasikan pak,1,-0.85,2
 8184,Manajemen,astaga saya sangat ngeblank bapak penguji perihal matriks boston consulting group saat bapak menanyakan hal yang sangat spesifik tentang bab tiga,0,0.15,3
 8185,Manajemen,tinjauan operasional manajemen sumber daya manusia terbukti efektif dalam mereduksi biaya,1,0.79,3
 8186,Manajemen,aspek finansial pengambilan keputusan strategis terbukti efektif dalam mereduksi biaya,1,0.85,3
 8187,Manajemen,sejauh pemahaman teori saya penerapan just in time terasa sedikit membingungkan alur logikanya,0,0.64,2
-8189,Manajemen,strategi pemasaran rantai pasokan menunjukkan korelasi positif yang signifikan,1,1.5,3
 8190,Manajemen,asumsi pribadi saya teknik purposive sampling memang wajar terjadi di industri ritel,0,0.69,3
 8191,Manajemen,metode kuantitatif kuesioner eh bukan kualitatif wawancara mendalam bu sebagai acuan perhitungan saya pak,0,0.3,1
 8192,Manajemen,kira kira konsep manajemen konsep kepuasan kerja agak susah untuk dijabarkan korelasi kausalnya,0,0.67,2
@@ -7534,14 +7378,11 @@ id,jurusan,teks,level,score,label
 8195,Manajemen,penjualan ditingkatkan agar peningkatannya terus meningkat terus hidup di dalam iklim perusahaan sehari hari,0,0.3,1
 8196,Manajemen,sungguh saya memohon maaf karena pasrah dan menyerah bapak penguji sudah kehabisan kosa kata akademik untuk menjawab teori manajemen,0,0.16,3
 8198,Manajemen,aduh bapak saya berkeringat dingin ngeblank ditanya soal obligasi perusahaan saat bapak menanyakan hal yang sangat spesifik tentang bab tiga,0,0.29,1
-8199,Manajemen,mungkin saja pengukuran beban kerja memang wajar terjadi di industri ritel,0,-0.85,2
-8200,Manajemen,analisis teknikal eh ralat maksudnya analisis fundamental yang dipakai sebagai acuan perhitungan saya pak,0,1.5,1
 8201,Manajemen,sebagaimana terlihat bauran pemasaran menunjukkan korelasi positif yang signifikan,1,0.85,1
 8202,Manajemen,aduh pikiran saya buntu tiba tiba disuruh jelaskan analisis jabatan padahal barusan saja sebelum masuk saya ulas di perpustakaan,0,0.14,3
 8204,Manajemen,mungkin saja teori keagenan kurang relevan untuk kasus sengketa perburuhan ini,0,0.73,2
 8205,Manajemen,asumsi pribadi saya teori keagenan perlu dikaji ulang menggunakan parameter keuangan lainnya,0,0.41,2
 8208,Manajemen,kira kira konsep manajemen pengukuran beban kerja memang wajar terjadi di industri ritel,1,0.45,2
-8209,Manajemen,manajer harus mengambil keputusan supaya keputusannya berjalan mengambil menguntungkan dengan amat sangat rapi relasi organisasinya,0,-0.85,1
 8210,Manajemen,ditinjau dari budaya organisasi menciptakan nilai tambah bagi pemegang saham,1,0.82,3
 8211,Manajemen,dalam konteks rantai pasokan meningkatkan daya saing di tingkat global,1,0.9,3
 8212,Manajemen,pada prinsipnya risiko investasi meningkatkan daya saing di tingkat global,1,0.86,3
@@ -7549,7 +7390,6 @@ id,jurusan,teks,level,score,label
 8214,Manajemen,temuan lapangan return on asset mendukung terciptanya inovasi produk baru,1,0.94,3
 8215,Manajemen,aduh saya benar benar blank total mengenai kasus manajemen risiko ini padahal barusan saja sebelum masuk saya ulas di perpustakaan,0,0.11,1
 8216,Manajemen,teori hierarki kebutuhan aduh ralat maksud saya teori x dan y bapak mohon dimaafkan kekeliruan penyebutan saya pak,0,0.11,1
-8217,Manajemen,aduh maaf bapak saya mendadak ngeblank memikirkan rumus return on investment itu karena terlampau grogi duduk di kursi sidang ini,0,-0.85,1
 8218,Manajemen,analisis teknikal eh ralat maksudnya analisis fundamental yang dipakai begitu kira kira alur model bisnisnya,0,0.24,1
 8219,Manajemen,sebagai argumen budaya organisasi menciptakan nilai tambah bagi pemegang saham,1,0.99,3
 8220,Manajemen,strategi penetrasi pasar eh maksud saya pengembangan produk baru sesuai arahan dari dosen pembimbing utama saya,0,0.16,1
@@ -7563,8 +7403,6 @@ id,jurusan,teks,level,score,label
 8231,Manajemen,mungkin saja desain strategi negosiasi kurang relevan untuk kasus sengketa perburuhan ini,1,0.51,2
 8232,Manajemen,maaf bu kemampuan berpikir strategis saya sudah di ujung batas dan sudah kehabisan kosa kata akademik untuk menjawab teori manajemen,0,0.07,3
 8233,Manajemen,bisa jadi karena struktur organisasi matriks belum saya kuasai secara komprehensif,1,0.61,2
-8234,Manajemen,sejauh pemahaman teori saya penggunaan instrumen pemasaran memang wajar terjadi di industri ritel,0,-0.85,2
-8235,Manajemen,astaga saya sangat ngeblank bapak penguji perihal matriks boston consulting group padahal barusan saja sebelum masuk saya ulas di perpustakaan,0,99.0,1
 8236,Manajemen,meskipun server pengolahan data sempat error namun hasil analisis regresi logistik tetap valid,1,0.77,3
 8237,Manajemen,seingat penelaahan pustaka saya konsep kepuasan kerja masih butuh banyak penyesuaian asumsi,0,0.65,2
 8240,Manajemen,manajemen sumber daya manusia ini penting karena amat penting bisa tercapai target labanya lalu diteruskan terus tanpa henti,0,0.03,3
@@ -7574,24 +7412,19 @@ id,jurusan,teks,level,score,label
 8244,Manajemen,menyikapi fluktuasi efisiensi operasional menciptakan nilai tambah bagi pemegang saham,1,0.89,3
 8245,Manajemen,arus kas perusahaan dijaga untuk menjaga hasil akhir kas sistematis menjadi lebih sempurna lagi arah promosinya,0,0.37,1
 8246,Manajemen,kayaknya memang dampaknya variabel intervensi loyalitas kurang tajam analisis empirisnya,0,0.61,2
-8247,Manajemen,manajer harus mengambil keputusan supaya keputusannya berjalan mengambil menjadi sangat maksimal dan mencapai titik akhir akumulasi modal,0,99.0,1
 8248,Manajemen,bisa jadi karena penerapan just in time masih butuh banyak penyesuaian asumsi,0,0.64,2
 8249,Manajemen,kendati metode perhitungan rasio keuangan mengalami error pendekatan manual membuktikan tingkat presisi yang identik,1,0.98,3
 8251,Manajemen,bisa jadi analisis regresi berganda kurang relevan pak,0,0.7,2
 8252,Manajemen,sejujurnya bapak saya angkat tangan karena lupa sama sekali mengenai konsep kepuasan pelanggan,0,0.11,1
-8253,Manajemen,berdasarkan literatur seingat saya tinjauan pustaka tersebut kurang tepat sasaran,1,99.0,2
 8254,Manajemen,media promosi ini penting karena memang penting untuk mencapai hasil akhir finansial,0,0.26,1
 8255,Manajemen,evaluasi kinerja dilakukan untuk mengevaluasi hasil evaluasi sesuai dengan yang diharapkan manajer,0,0.33,1
 8256,Manajemen,saya mohon maaf atas keterbatasan sampel namun kaidah purposive sampling tetap terpenuhi,1,0.8,3
 8257,Manajemen,populasinya adalah seluruh perusahaan eh hanya sektor perbankan lewat kuesioner pak,0,0.19,1
 8258,Manajemen,aduh maaf bapak saya mendadak ngeblank mengenai perhitungan return on investment tadi,0,0.24,1
-8259,Manajemen,observasi lapangan pengambilan keputusan menekan tingkat perputaran staf,1,1.5,3
 8261,Manajemen,kira kira seperti itu teknik pengambilan sampel kurang relevan pak,0,0.53,1
 8262,Manajemen,bisa jadi analisis regresi berganda kurang tajam pembahasannya,1,0.42,2
 8263,Manajemen,pemahaman holistik loyalitas pelanggan menunjukkan tren peningkatan konsisten,1,0.92,3
-8264,Manajemen,perusahaan harus untung agar keuntungannya menjadi laba menjadi lebih baik lagi prosesnya,0,99.0,1
 8265,Manajemen,aduh saya benar benar blank sekarang saat ditanya bagian manajemen keuangan,0,0.13,1
-8266,Manajemen,kalau saya tidak salah tangkap instrumen kuesioner masih butuh penyempurnaan,0,1.5,2
 8267,Manajemen,karyawan tetap eh maksud saya tenaga kontrak yang benar bapak untuk sampel,0,0.27,1
 8268,Manajemen,evaluasi kinerja dilakukan untuk mengevaluasi hasil evaluasi menjadi lebih baik lagi prosesnya,0,0.3,1
 8269,Manajemen,meskipun terdapat error pada sistem absensi awal kalibrasi data sdm membuktikan konsistensi,1,0.98,3
@@ -7601,14 +7434,11 @@ id,jurusan,teks,level,score,label
 8273,Manajemen,analisis mendalam budaya organisasi berfungsi optimal sebagai variabel intervening,1,0.88,3
 8274,Manajemen,asesmen operasional manajemen modal kerja mampu mengakomodasi perubahan tren,1,0.77,1
 8275,Manajemen,kalau saya tidak salah tangkap teknik pengambilan sampel masih butuh penyempurnaan,1,0.7,2
-8277,Manajemen,kalau tidak keliru metode penilaian kinerja agak sulit diinterpretasikan,0,99.0,2
 8279,Manajemen,maaf bapak saya sungguh tidak tahu dan saya benar benar buntu soal teori struktur modal,0,0.2,3
 8280,Manajemen,data cross section eh bukan data panel yang menjadi fokus utama saya,0,0.08,1
 8281,Manajemen,maaf bu saya mendadak kehilangan kata kata saat ditanya bagian manajemen keuangan,0,0.23,1
 8282,Manajemen,seingat saya variabel moderasi ini masih butuh penyempurnaan,0,0.65,2
 8283,Manajemen,teori agensi itu teori aduh ralat maksud saya saat penyebaran angket,0,0.13,1
-8284,Manajemen,menurut ingatan saya metode penilaian kinerja memiliki bias tertentu,1,1.5,2
-8285,Manajemen,maaf sekali saya menyerah karena saya benar benar buntu soal teori struktur modal,0,99.0,1
 8286,Manajemen,kesalahan error saat tabulasi data telah diantisipasi melalui cross check manual yang ketat,1,0.94,3
 8287,Manajemen,segmen pasar yang belum merespons kampanye ditargetkan ulang melalui retargeting ads secara efisien,1,0.94,3
 8288,Manajemen,data cross section eh bukan data panel begitu kira kira alurnya,0,0.08,1
@@ -7618,7 +7448,6 @@ id,jurusan,teks,level,score,label
 8295,Manajemen,kemungkinan besar penggunaan bauran pemasaran belum saya kuasai penuh,0,0.64,2
 8296,Manajemen,pengukuran efisiensi efektivitas promosi menunjukkan tren peningkatan konsisten,1,0.83,3
 8297,Manajemen,walaupun pengolahan data spss sempat error namun hasil uji asumsi klasik tetap valid,1,0.88,3
-8298,Manajemen,kira kira seperti itu variabel moderasi ini belum saya kuasai penuh,0,99.0,2
 8299,Manajemen,kalau saya tidak salah tangkap uji heteroskedastisitas belum saya kuasai penuh,1,0.66,2
 8300,Manajemen,meski belum mencapai target laba maksimal tetapi efisiensi biaya operasional menunjukkan perbaikan,1,0.9,3
 8301,Manajemen,mungkin saja analisis rasio likuiditas memiliki bias tertentu,0,0.69,2
@@ -7635,15 +7464,12 @@ id,jurusan,teks,level,score,label
 8314,Manajemen,pendekatan strategis return on asset menunjukkan tren peningkatan konsisten,1,0.93,3
 8315,Manajemen,berdasarkan literatur seingat saya teori struktur modal kurang tepat sasaran,1,0.51,2
 8316,Manajemen,validasi model return on asset menciptakan nilai tambah bagi pemegang saham,1,0.98,3
-8317,Manajemen,sebagai tindak risiko investasi menciptakan nilai tambah bagi pemegang saham,1,1.5,3
 8318,Manajemen,pengukuran efisiensi loyalitas pelanggan mendukung ekspansi pangsa pasar,1,0.8,3
 8319,Manajemen,astaga teori itu mendadak hilang dari kepala saya sampai tidak bisa menjawab soal sdm,0,0.04,1
 8320,Manajemen,analisis mendalam profitabilitas perusahaan menciptakan nilai tambah bagi pemegang saham,1,0.93,3
 8321,Manajemen,sop disusun supaya susunannya teratur secara sistematis sesuai dengan yang diharapkan manajer,0,0.11,1
 8322,Manajemen,sepertinya saya teknik pengambilan sampel memang begitu adanya,1,0.49,2
 8323,Manajemen,fase distribusi yang gagal pada awal tahun menjadi fondasi perbaikan supply chain management,1,0.94,3
-8324,Manajemen,sebagai bukti profitabilitas perusahaan menciptakan nilai tambah bagi pemegang saham,1,-0.85,3
-8325,Manajemen,sepertinya saya teknik pengambilan sampel kurang relevan pak,1,99.0,2
 8326,Manajemen,maaf sekali saya menyerah karena materi manajemen operasional ini di luar dugaan saya,0,0.02,3
 8327,Manajemen,itu diuji dengan dengan cara oh bukan maksud saya saat penyebaran angket,0,0.38,1
 8329,Manajemen,maaf bu saya mendadak kehilangan kata kata keringat dingin saya keluar memikirkan laba rugi,0,0.34,1
@@ -7652,7 +7478,6 @@ id,jurusan,teks,level,score,label
 8333,Manajemen,target pasar ditargetkan supaya penjualannya sesuai target tercapai pada akhirnya nanti,0,0.29,1
 8334,Manajemen,kemungkinan besar instrumen kuesioner kurang tajam pembahasannya,0,0.54,1
 8335,Manajemen,fokus utama keunggulan kompetitif berfungsi optimal sebagai variabel intervening,1,0.83,3
-8336,Manajemen,saya pasrah bu karena variabel intervening itu benar benar hilang dari ingatan saya,0,-0.85,1
 8337,Manajemen,ada kemungkinan metode penilaian kinerja memiliki bias tertentu,0,0.5,1
 8338,Manajemen,seingat saya pendekatan kualitatif tersebut belum saya kuasai penuh,1,0.42,3
 8339,Manajemen,kemungkinan besar penggunaan bauran pemasaran masih butuh penyempurnaan,1,0.51,2
@@ -7662,17 +7487,14 @@ id,jurusan,teks,level,score,label
 8343,Manajemen,mungkin saja teori struktur modal masih butuh penyempurnaan,1,0.49,2
 8344,Manajemen,mungkin penggunaan variabel moderasi ini kurang tepat sasaran,1,0.54,2
 8345,Manajemen,ada kemungkinan variabel moderasi ini kurang relevan pak,1,0.73,2
-8346,Manajemen,saya mengaku tidak sanggup bapak karena saya benar benar buntu soal teori struktur modal,0,-0.85,1
 8347,Manajemen,waduh tiba tiba kepala saya kosong saat ditanya bagian manajemen keuangan,0,0.38,1
 8348,Manajemen,berdasarkan literatur seingat saya penggunaan bauran pemasaran kurang tepat sasaran,0,0.51,2
 8349,Manajemen,fakta bahwa sop ini belum diterapkan sepenuhnya justru membuka peluang optimalisasi proses,1,0.86,3
-8351,Manajemen,penelitian terdahulu manajemen modal kerja memberikan dampak positif yang terukur,1,99.0,3
 8352,Manajemen,itu diuji dengan dengan cara oh bukan maksud saya yang menjadi fokus utama saya,0,0.31,1
 8354,Manajemen,pemahaman holistik iklim kerja terbukti efektif menstimulasi produktivitas,1,0.87,1
 8355,Manajemen,astaga teori itu mendadak hilang dari kepala saya keringat dingin saya keluar memikirkan laba rugi,0,0.04,1
 8356,Manajemen,karyawan tetap eh maksud saya tenaga kontrak begitu kira kira alurnya,0,0.09,1
 8357,Manajemen,kalau tidak keliru tinjauan pustaka tersebut kurang tepat sasaran,0,0.56,2
-8359,Manajemen,mungkin saja tinjauan pustaka tersebut memiliki bias tertentu,0,1.5,2
 8360,Manajemen,tujuan dari penerapan ini diterapakan agar tujuannya sesuai dengan yang diharapkan manajer,0,0.33,1
 8361,Manajemen,waduh tiba tiba kepala saya kosong sampai tidak bisa menjawab soal sdm,0,0.01,1
 8363,Manajemen,bisa jadi tinjauan pustaka tersebut memang begitu adanya,0,0.52,2
@@ -7681,7 +7503,6 @@ id,jurusan,teks,level,score,label
 8366,Manajemen,kompensasi dari kuesioner yang error tadi adalah penggunaan in depth interview langsung,1,0.8,3
 8367,Manajemen,sepertinya saya teknik pengambilan sampel belum saya kuasai penuh,0,0.62,2
 8368,Manajemen,menurut pandangan risiko investasi menunjukkan tren peningkatan konsisten,1,0.84,3
-8369,Manajemen,pemahaman holistik efektivitas promosi menekan tingkat perputaran staf,1,1.5,3
 8370,Manajemen,kalau saya tidak salah tangkap variabel moderasi ini kurang relevan pak,0,0.69,2
 8371,Manajemen,astaga pikiran saya buyar hmmm keringat dingin saya keluar memikirkan laba rugi,0,0.05,1
 8372,Manajemen,penelitian kuantitatif eh maksudnya deskriptif yang yang benar bapak untuk sampel,0,0.16,1
@@ -7690,11 +7511,8 @@ id,jurusan,teks,level,score,label
 8375,Manajemen,mungkin penggunaan teori struktur modal terasa membingungkan bu,1,0.51,2
 8376,Manajemen,pada prinsipnya iklim kerja menekan tingkat perputaran staf,1,0.78,3
 8378,Manajemen,merujuk pada efektivitas promosi mampu mengakomodasi perubahan tren,1,0.9,3
-8380,Manajemen,kalau tidak keliru analisis rasio likuiditas kurang tajam pembahasannya,1,1.5,2
-8381,Manajemen,bisa jadi teknik pengambilan sampel kurang tajam pembahasannya,1,99.0,2
 8382,Manajemen,kalau tidak keliru uji heteroskedastisitas memang begitu adanya,0,0.49,2
 8383,Manajemen,kajian literatur bauran pemasaran memberikan dampak positif yang terukur,1,0.88,3
-8384,Manajemen,penerapan konsep keunggulan kompetitif menekan tingkat perputaran staf,1,-0.85,3
 8385,Manajemen,aspek sumber daya budaya organisasi menekan tingkat perputaran staf,1,0.98,1
 8386,Manajemen,mungkin penggunaan instrumen kuesioner agak sulit diinterpretasikan,1,0.54,2
 8387,Manajemen,sepertinya saya teori struktur modal kurang relevan pak,0,0.43,2
@@ -7704,7 +7522,6 @@ id,jurusan,teks,level,score,label
 8393,Manajemen,waduh pikiran saya melayang entah kemana mengenai perhitungan return on investment tadi,0,0.21,1
 8394,Manajemen,ditinjau dari loyalitas pelanggan mampu mengakomodasi perubahan tren,1,0.97,1
 8395,Manajemen,dalam konteks manajemen rantai pasok menciptakan nilai tambah bagi pemegang saham,1,0.88,3
-8396,Manajemen,secara empiris budaya organisasi menekan tingkat perputaran staf,1,1.5,3
 8397,Manajemen,karyawan yang belum mencapai kpi diberikan pelatihan khusus agar kompetensinya meningkat,1,0.9,3
 8399,Manajemen,aduh rasanya saya lupa semua materi saya sungguh tidak ingat konsep rekrutmen tersebut,0,0.19,1
 8401,Ilmu Hubungan Internasional,kepentingan nasional negara ini esensial karena amat penting negara anggota di kawasan yang persaingannya sangat ketat,0,0.37,1
@@ -7714,7 +7531,6 @@ id,jurusan,teks,level,score,label
 8405,Ilmu Hubungan Internasional,waduh konsentrasi saya buyar entah kemana bahas keamanan manusia karena terlampau grogi duduk di kursi sidang yang menegangkan ini,0,0.24,1
 8406,Ilmu Hubungan Internasional,konstelasi politik hegemoni regional mampu menjembatani kesenjangan kepentingan strategis,1,0.96,3
 8408,Ilmu Hubungan Internasional,sepertinya pendekatan diplomasi koersif tersebut mengandung potensi bias barat,1,0.6,2
-8409,Ilmu Hubungan Internasional,aktor negara eh maksud saya aktor non negara yang bergerak secara transnasional yang jadi fokus pengamatan empiris saya bapak,0,99.0,1
 8410,Ilmu Hubungan Internasional,waduh mohon maaf pak saya tidak bisa mengingat beda realisme dan liberalisme padahal tadi malam sudah saya pelajari detail dari buku teks,0,0.26,1
 8411,Ilmu Hubungan Internasional,kayaknya memang dampaknya pengukuran kapabilitas nasional masih butuh banyak penyesuaian asumsi,0,0.68,1
 8412,Ilmu Hubungan Internasional,ya ampun jawaban tentang organisasi global itu lenyap begitu saja rasanya jantung berdebar kencang karena takut menyimpulkan salah,0,0.04,1
@@ -7723,13 +7539,11 @@ id,jurusan,teks,level,score,label
 8415,Ilmu Hubungan Internasional,kalau dicermati ulang dinamikanya diplomasi koersif tersebut agak susah untuk dijabarkan korelasi kausalnya,1,0.59,2
 8416,Ilmu Hubungan Internasional,sejauh pemahaman teori saya teori balance of threat belum saya kuasai secara komprehensif,0,0.47,2
 8417,Ilmu Hubungan Internasional,pendekatan konstruktivis hegemoni regional memperkuat legitimasi rezim global,1,0.76,3
-8418,Ilmu Hubungan Internasional,teori perdamaian demokratis aduh ralat maksud saya teori dependensi bapak di dalam penjabaran bab kajian teori,0,99.0,1
 8419,Ilmu Hubungan Internasional,kerjasama bilateral merupakan kesepakatan dua pihak supaya sepakat terkendali solusinya di masa depan arsitektur kawasan,0,0.07,1
 8420,Ilmu Hubungan Internasional,saya mohon maaf atas keterbatasan referensi lokal sehingga tinjauan pustaka didominasi oleh jurnal asing terkemuka,1,0.9,3
 8421,Ilmu Hubungan Internasional,data primer wawancara diplomat oh bukan sekunder dari laporan lembaga saya jadi sangat belibet berbicara karena teramat gugup,0,0.01,1
 8422,Ilmu Hubungan Internasional,model diplomasi aktor nonnegara menciptakan ruang dialog yang konstruktif antar pihak,1,0.99,1
 8423,Ilmu Hubungan Internasional,sejauh pemahaman teori saya kajian pustaka bagian sejarah integrasi agak bergeser dari fokus utama rumusan,0,0.61,2
-8424,Ilmu Hubungan Internasional,hegemoni politik dibentuk supaya struktur kekuasaannya berbentuk kekuasaan dimanfaatkan secara rutin demi kelancaran eksistensi negara,0,1.5,1
 8426,Ilmu Hubungan Internasional,kalau saya tidak salah tangkap penggunaan instrumen soft power mengandung potensi bias barat,1,0.5,2
 8427,Ilmu Hubungan Internasional,dalam konteks rezim lingkungan berdampak langsung pada restrukturisasi kekuatan,1,0.82,3
 8428,Ilmu Hubungan Internasional,implementasi resolusi organisasi transnasional mampu menjembatani kesenjangan kepentingan strategis,1,0.78,3
@@ -7755,7 +7569,6 @@ id,jurusan,teks,level,score,label
 8453,Ilmu Hubungan Internasional,kalau dicermati ulang dinamikanya pendekatan realisme struktural kurang tajam analisis empirisnya,0,0.53,2
 8454,Ilmu Hubungan Internasional,terjadinya error saat tabulasi indeks demokrasi tidak menghambat proses penelitian karena saya menggunakan metode triangulasi,1,0.85,3
 8455,Ilmu Hubungan Internasional,astaga memori saya mendadak terhapus tentang aktor transnasional kepanikan luar biasa ini menghancurkan semua persiapan presentasi saya,0,0.32,1
-8456,Ilmu Hubungan Internasional,meskipun server database sipri sempat error namun pengolahan data panel anggaran pertahanan tetap berjalan lancar,1,1.5,3
 8457,Ilmu Hubungan Internasional,kebijakan luar negeri yang dinilai gagal pada dekade lalu memberikan pelajaran berharga untuk perumusan strategi kontemporer,1,0.78,3
 8458,Ilmu Hubungan Internasional,secara komprehensif keamanan nontradisional mampu menjembatani kesenjangan kepentingan strategis,1,0.76,3
 8459,Ilmu Hubungan Internasional,maaf sekali bapak saya tidak bisa berkata kata lagi soal hukum internasional dasar ilmu politik global saya amat sangat lemah sekali,0,0.08,1
@@ -7764,17 +7577,13 @@ id,jurusan,teks,level,score,label
 8462,Ilmu Hubungan Internasional,maaf bu kemampuan berpikir geopolitik saya sudah di ujung batas dan tidak sanggup lagi mengingat definisi keamanan komprehensif asimetris,0,0.38,1
 8464,Ilmu Hubungan Internasional,seingat penelaahan saya kajian pustaka bagian sejarah integrasi perlu dikaji ulang menggunakan lensa konstruktivisme,1,0.47,2
 8465,Ilmu Hubungan Internasional,kebijakan luar negeri dirancang agar rancangannya terstruktur secara relevan dan sangat mendukung visi misi diplomasi global,0,0.34,1
-8466,Ilmu Hubungan Internasional,kayaknya memang dampaknya penerapan teori dependensi kurang begitu pas diaplikasikan pak,0,-0.85,2
 8467,Ilmu Hubungan Internasional,saya sungguh menyerah bu penguji karena otak saya menolak memproses fenomena proxy war yang membingungkan,0,0.2,1
 8468,Ilmu Hubungan Internasional,waduh hafalan saya hilang mendadak terkait institusi internasional saat bapak menanyakan indikator yang sangat spesifik tersebut,0,0.35,1
 8469,Ilmu Hubungan Internasional,berdasarkan catatan sementara pendekatan realisme struktural kurang begitu pas diaplikasikan pak,1,0.48,2
 8470,Ilmu Hubungan Internasional,maaf bu kemampuan berpikir geopolitik saya sudah di ujung batas dan penguasaan materi kebijakan luar negeri saya memang sangat minim,0,0.09,1
 8471,Ilmu Hubungan Internasional,bisa jadi karena kajian pustaka bagian sejarah integrasi kurang relevan untuk kasus sengketa perbatasan ini,0,0.46,2
 8472,Ilmu Hubungan Internasional,asumsi pribadi saya desain strategi negosiasi kurang relevan untuk kasus sengketa perbatasan ini,0,0.72,2
-8473,Ilmu Hubungan Internasional,data primer wawancara diplomat oh bukan sekunder dari laporan lembaga sesuai saran arahan pembimbing utama saya,0,99.0,1
-8474,Ilmu Hubungan Internasional,secara hipotetis mungkin kajian pustaka bagian sejarah integrasi agak bergeser dari fokus utama rumusan,1,-0.85,2
 8475,Ilmu Hubungan Internasional,meskipun uji validitas awal menunjukkan pesan error modifikasi instrumen survei memastikan reliabilitas instrumen akhir,1,0.83,3
-8476,Ilmu Hubungan Internasional,organisasi perdagangan wto eh maksudnya institusi moneter imf di dalam penjabaran bab kajian teori,0,-0.85,1
 8477,Ilmu Hubungan Internasional,sepertinya pendekatan desain strategi negosiasi mengandung potensi bias barat,1,0.71,2
 8480,Ilmu Hubungan Internasional,saya mengaku tidak sanggup bapak melanjutkan analisis ini karena sudah kehabisan kosa kata akademik untuk menjawab teori keamanan,0,0.1,1
 8481,Ilmu Hubungan Internasional,tujuan diterapkannya diplomasi ini agar tujuannya dan sejalan dengan kesepahaman yang sepakat tersebut,0,0.04,1
@@ -7785,15 +7594,12 @@ id,jurusan,teks,level,score,label
 8488,Ilmu Hubungan Internasional,sebagian besar negara kawasan belum meratifikasi perjanjian lingkungan tersebut sehingga pendekatan bilateral dieksplorasi,1,0.83,3
 8489,Ilmu Hubungan Internasional,sepertinya desain strategi negosiasi masih butuh banyak penyesuaian asumsi,1,0.71,2
 8490,Ilmu Hubungan Internasional,rasanya indikator keamanan metode analisis diskursus terasa sedikit membingungkan alur logikanya,0,0.64,2
-8491,Ilmu Hubungan Internasional,berdasarkan rujukan seingat saya pengukuran kapabilitas nasional belum saya kuasai secara komprehensif,0,99.0,2
 8492,Ilmu Hubungan Internasional,itu dianalisis dengan cara oh bukan maksud saya lewat data statistik pak sebetulnya saya gunakan sejak bab dua,0,0.34,1
 8493,Ilmu Hubungan Internasional,tujuan diterapkannya diplomasi ini agar tujuannya menjadi sangat absolut dan mencapai titik akhir kekuasaan,0,0.16,1
 8494,Ilmu Hubungan Internasional,temuan lapangan embargo ekonomi berfungsi sebagai katalisator perdamaian,1,0.96,1
-8495,Ilmu Hubungan Internasional,bisa jadi karena penerapan teori dependensi terasa sedikit membingungkan alur logikanya,1,99.0,2
 8496,Ilmu Hubungan Internasional,kalau dicermati ulang dinamikanya penerapan teori dependensi kurang relevan untuk kasus sengketa perbatasan ini,0,0.45,2
 8497,Ilmu Hubungan Internasional,temuan lapangan embargo ekonomi mendukung terciptanya keseimbangan baru,1,0.8,3
 8498,Ilmu Hubungan Internasional,model diplomasi perang asimetris berdampak langsung pada restrukturisasi kekuatan,1,0.83,3
-8500,Ilmu Hubungan Internasional,hukum laut internasional unclos eh hukum humaniter maksudnya sebagai pisau analisis utamanya pak,0,99.0,1
 8501,Ilmu Hubungan Internasional,diplomat sebagai perwakilan harus bernegosiasi supaya perundingannya berjalan sistematis menjadi lebih sempurna lagi arah diplomasinya,0,0.37,1
 8502,Ilmu Hubungan Internasional,negara hegemon dituntut berkuasa agar prosesnya menjadi berkuasa menguntungkan dengan amat sangat rapi relasi hubungannya,0,0.17,3
 8503,Ilmu Hubungan Internasional,maaf sekali bapak saya tidak bisa berkata kata lagi soal hukum internasional otak saya menolak memproses fenomena proxy war yang membingungkan,0,0.1,3
@@ -7804,10 +7610,8 @@ id,jurusan,teks,level,score,label
 8510,Ilmu Hubungan Internasional,secara komprehensif embargo ekonomi berfungsi sebagai katalisator perdamaian,1,0.89,3
 8511,Ilmu Hubungan Internasional,merujuk pada embargo ekonomi menciptakan ruang dialog yang konstruktif antar pihak,1,0.92,3
 8512,Ilmu Hubungan Internasional,berdasarkan rujukan seingat saya analisis kebijakan luar negeri belum saya kuasai secara komprehensif,1,0.61,2
-8513,Ilmu Hubungan Internasional,negosiasi multilateral yang gagal seringkali membuka jalan bagi pendekatan diplomasi jalur dua yang lebih cair,1,-0.85,3
 8516,Ilmu Hubungan Internasional,tujuan diterapkannya diplomasi ini agar tujuannya menguntungkan dengan amat sangat rapi relasi hubungannya,0,0.21,1
 8517,Ilmu Hubungan Internasional,diplomat sebagai perwakilan harus bernegosiasi supaya perundingannya berjalan menjadi sangat absolut dan mencapai titik akhir kekuasaan,0,0.13,1
-8518,Ilmu Hubungan Internasional,secara teoretis rezim lingkungan menunjukkan korelasi positif yang signifikan,1,1.5,3
 8519,Ilmu Hubungan Internasional,tinjauan geopolitik keamanan nontradisional meningkatkan daya tawar negara berkembang,1,0.82,3
 8522,Ilmu Hubungan Internasional,strategi keamanan organisasi transnasional terbukti efektif dalam mereduksi ketegangan,1,0.97,3
 8524,Ilmu Hubungan Internasional,asumsi pribadi saya diplomasi koersif tersebut agak bergeser dari fokus utama rumusan,0,0.6,3
@@ -7823,13 +7627,10 @@ id,jurusan,teks,level,score,label
 8537,Ilmu Hubungan Internasional,sejujurnya saya merasa amat sangat buntu merespon pertanyaan ini dan kepanikan melumpuhkan pikiran kritis saya sebagai mahasiswa hi,0,0.07,1
 8538,Ilmu Hubungan Internasional,sejauh pemahaman teori saya diplomasi koersif tersebut agak susah untuk dijabarkan korelasi kausalnya,1,0.6,2
 8539,Ilmu Hubungan Internasional,mungkin saja metode analisis diskursus terasa sedikit membingungkan alur logikanya,1,0.6,2
-8541,Ilmu Hubungan Internasional,pendekatan realisme ofensif eh ralat maksudnya defensif yang saya pakai sebetulnya saya gunakan sejak bab dua,0,99.0,1
 8542,Ilmu Hubungan Internasional,sepertinya kajian pustaka bagian sejarah integrasi agak susah untuk dijabarkan korelasi kausalnya,0,0.61,2
 8543,Ilmu Hubungan Internasional,mohon maaf apabila penjelasan strukturalisme ini terkesan rumit sebab analisis asimetri kekuasaan menuntut ketelitian,1,0.82,3
 8544,Ilmu Hubungan Internasional,bisa jadi karena pengukuran kapabilitas nasional kurang tajam analisis empirisnya,1,0.53,2
-8545,Ilmu Hubungan Internasional,kepentingan nasional negara ini esensial karena amat penting kumpulan kesepakatan global yang utuh sekali implementasinya,0,1.5,1
 8546,Ilmu Hubungan Internasional,negara berkembang belum memaksimalkan potensi soft power mereka akibat keterbatasan infrastruktur diplomasi budaya,1,0.88,3
-8547,Ilmu Hubungan Internasional,dinamika kawasan ekonomi politik global mampu menjembatani kesenjangan kepentingan strategis,1,99.0,3
 8548,Ilmu Hubungan Internasional,dalam konteks kebijakan luar negeri menciptakan ruang dialog yang konstruktif antar pihak,1,0.91,3
 8549,Ilmu Hubungan Internasional,mohon maaf bapak ibu penekanan riset ini difokuskan murni pada keamanan manusia alih alih postur militer tradisional,1,0.92,3
 8551,Ilmu Hubungan Internasional,strategi diplomasi koersif eh maksud saya preventif begitu kira kira alurnya,0,0.11,1
@@ -7865,7 +7666,6 @@ id,jurusan,teks,level,score,label
 8589,Ilmu Hubungan Internasional,berdasarkan catatan sementara metode analisis wacana kurang tajam analisisnya,1,0.55,2
 8590,Ilmu Hubungan Internasional,ditinjau dari diplomasi publik meningkatkan leverage tawar menawar negara,1,0.93,3
 8591,Ilmu Hubungan Internasional,sejujurnya bapak saya angkat tangan untuk disuruh blank total pikiran saya tidak mampu melanjutkannya,0,0.1,3
-8593,Ilmu Hubungan Internasional,pada prinsipnya keamanan nontradisional meningkatkan leverage tawar menawar negara,1,99.0,3
 8594,Ilmu Hubungan Internasional,saya mohon maaf pak benar benar tidak bisa merespon blank total pikiran saya tidak mampu melanjutkannya,0,0.17,1
 8595,Ilmu Hubungan Internasional,bisa jadi karena pendekatan realisme struktural kurang begitu pas pak,1,0.44,2
 8596,Ilmu Hubungan Internasional,ditinjau dari diplomasi publik menekan potensi eskalasi konflik secara efektif,1,0.81,3
@@ -7875,11 +7675,9 @@ id,jurusan,teks,level,score,label
 8600,Ilmu Hubungan Internasional,kalau dicermati ulang penggunaan konsep soft power kurang tajam analisisnya,0,0.7,2
 8601,Ilmu Hubungan Internasional,data primer wawancara oh bukan sekunder dari laporan sesuai saran pembimbing utama saya,0,0.05,1
 8602,Ilmu Hubungan Internasional,organisasi wto eh maksudnya institusi imf di dalam bab kajian teori,0,0.03,1
-8603,Ilmu Hubungan Internasional,kemungkinan terbesarnya pengukuran kekuatan nasional kurang tajam analisisnya,0,-0.85,2
 8604,Ilmu Hubungan Internasional,berdasarkan rujukan seingat saya instrumen diplomasi koersif memang wajar terjadi di hi,1,0.43,2
 8605,Ilmu Hubungan Internasional,mungkin saja kajian pustaka bagian sejarah agak bergeser dari fokus utama,0,0.5,2
 8607,Ilmu Hubungan Internasional,rasanya indikator pengukuran kekuatan nasional perlu dikaji ulang literaturnya,1,0.58,3
-8608,Ilmu Hubungan Internasional,kajian literatur perang asimetris memperkuat legitimasi institusi global,1,1.5,3
 8610,Ilmu Hubungan Internasional,kalau dicermati ulang analisis kebijakan luar negeri kurang relevan untuk kasus ini,0,0.43,2
 8611,Ilmu Hubungan Internasional,maaf sekali bapak saya tidak bisa berkata kata lagi tidak sanggup lagi mengingat definisi keamanan komprehensif,0,0.33,1
 8613,Ilmu Hubungan Internasional,kira kira konsepnya penerapan teori dependensi masih butuh banyak penyesuaian,1,0.64,2
@@ -7890,7 +7688,6 @@ id,jurusan,teks,level,score,label
 8619,Ilmu Hubungan Internasional,asumsi pribadi saya teori balance of threat mengandung potensi bias,1,0.55,2
 8620,Ilmu Hubungan Internasional,saya sungguh menyerah bu penguji karena kepanikan melumpuhkan pikiran kritis saya,0,0.14,1
 8621,Ilmu Hubungan Internasional,aduh pikiran saya buntu tiba tiba disuruh jelaskan hegemoni padahal barusan saja sebelum masuk saya diskusikan,0,0.28,1
-8622,Ilmu Hubungan Internasional,kemungkinan terbesarnya analisis kebijakan luar negeri belum saya kuasai secara utuh,1,99.0,2
 8623,Ilmu Hubungan Internasional,sebagian besar negara maju belum menyepakati komitmen pendanaan iklim sehingga negosiasi deadlock,1,0.89,1
 8624,Ilmu Hubungan Internasional,sejujurnya nyali saya sudah ciut bu menghadapi sidang karena pertanyaan analisis rezim ini di luar nalar saya,0,0.08,1
 8626,Ilmu Hubungan Internasional,strategi militeristik yang terbukti gagal mendorong pergeseran menuju soft power diplomacy,1,0.76,3
@@ -7898,16 +7695,13 @@ id,jurusan,teks,level,score,label
 8629,Ilmu Hubungan Internasional,pengumpulan data wawancara belum seluruhnya rampung pada tahap awal namun dokumen resmi melengkapinya,1,0.8,1
 8630,Ilmu Hubungan Internasional,sejujurnya saya merasa amat sangat buntu dan teori hubungan internasional itu lenyap dari memori kepala saya,0,0.24,1
 8631,Ilmu Hubungan Internasional,temuan lapangan hegemoni regional meningkatkan leverage tawar menawar negara,1,0.92,3
-8632,Ilmu Hubungan Internasional,secara hipotetis mungkin desain strategi negosiasi kurang begitu pas pak,1,-0.85,2
 8633,Ilmu Hubungan Internasional,sepertinya teori balance of threat kurang tajam analisisnya,1,0.63,2
 8634,Ilmu Hubungan Internasional,maafkan saya pak saya pasrah saja menjawab karena saya sungguh pusing memikirkan cara urai variabel ini,0,0.16,1
 8635,Ilmu Hubungan Internasional,negara dituntut berkuasa agar prosesnya menjadi berkuasa negara anggota di pasar yang persaingannya ketat,0,0.19,1
 8636,Ilmu Hubungan Internasional,rasanya indikator pengukuran kekuatan nasional mengandung potensi bias,0,0.54,1
-8637,Ilmu Hubungan Internasional,perjanjian diratifikasi agar ratifikasinya meratifikasi bisa tercapai target damai lalu diteruskan,0,-0.85,1
 8638,Ilmu Hubungan Internasional,bantuan asing disalurkan supaya hasil akhir bantuannya kumpulan informasi global yang utuh sekali,0,0.22,1
 8639,Ilmu Hubungan Internasional,implementasi resolusi perang asimetris menunjukkan korelasi positif yang signifikan,1,0.83,3
 8640,Ilmu Hubungan Internasional,secara komprehensif resolusi konflik berfungsi sebagai katalisator perdamaian,1,0.92,3
-8641,Ilmu Hubungan Internasional,kebijakan luar negeri dirancang agar rancangannya terstruktur secara kumpulan informasi global yang utuh sekali,0,99.0,1
 8642,Ilmu Hubungan Internasional,model diplomasi intervensi kemanusiaan menunjukkan korelasi positif yang signifikan,1,0.79,1
 8643,Ilmu Hubungan Internasional,teori perdamaian demokratis aduh ralat maksud saya teori dependensi sesuai saran pembimbing utama saya,0,0.13,1
 8644,Ilmu Hubungan Internasional,objek penelitian seluruh asean eh hanya satu negara sebetulnya saya gunakan,0,0.31,1
@@ -7918,18 +7712,14 @@ id,jurusan,teks,level,score,label
 8649,Ilmu Hubungan Internasional,mohon maaf bapak penekanan riset ini murni pada aspek human security bukan sekadar state security,1,0.84,1
 8650,Ilmu Hubungan Internasional,berdasarkan catatan sementara variabel intervensi asing mengandung potensi bias,1,0.51,2
 8651,Ilmu Hubungan Internasional,implementasi resolusi aktor nonnegara mendukung terciptanya keseimbangan kekuatan,1,0.96,3
-8652,Ilmu Hubungan Internasional,rasanya indikator metode analisis wacana agak bergeser dari fokus utama,0,99.0,2
-8653,Ilmu Hubungan Internasional,mungkin saja instrumen diplomasi koersif kurang relevan untuk kasus ini,1,99.0,2
 8654,Ilmu Hubungan Internasional,data primer wawancara oh bukan sekunder dari laporan mohon dimaafkan kekeliruan pengucapan saya pak,0,0.23,1
 8656,Ilmu Hubungan Internasional,sejujurnya bapak saya angkat tangan untuk disuruh saya sungguh pusing memikirkan cara urai variabel ini,0,0.29,1
 8657,Ilmu Hubungan Internasional,walaupun pengambilan data primer sempat error namun arsip digital dewan keamanan memberikan solusi,1,0.98,3
-8658,Ilmu Hubungan Internasional,menyikapi fenomena resolusi konflik terbukti efektif dalam mereduksi ketegangan,1,99.0,3
 8660,Ilmu Hubungan Internasional,implementasi resolusi intervensi kemanusiaan terbukti efektif dalam mereduksi ketegangan,1,0.92,3
 8661,Ilmu Hubungan Internasional,temuan lapangan intervensi kemanusiaan memperkuat legitimasi institusi global,1,0.8,3
 8662,Ilmu Hubungan Internasional,menurut pandangan saya pengukuran kekuatan nasional belum saya kuasai secara utuh,1,0.42,2
 8663,Ilmu Hubungan Internasional,sejauh pemahaman saya instrumen diplomasi koersif agak susah untuk dijabarkan,1,0.74,2
 8664,Ilmu Hubungan Internasional,kayaknya memang analisis kebijakan luar negeri kurang begitu pas pak,0,0.64,2
-8665,Ilmu Hubungan Internasional,astaga memori saya mendadak terhapus tentang aktor non negara saat bapak menanyakan hal yang sangat spesifik ini,0,99.0,1
 8666,Ilmu Hubungan Internasional,rezim internasional beroperasi untuk menjalankan operasi terkendali solusinya di masa depan kawasan,0,0.29,1
 8667,Ilmu Hubungan Internasional,menggunakan soft power eh bukan hard power di dalam bab kajian teori,0,0.14,1
 8668,Ilmu Hubungan Internasional,periode penelitian dekade lalu eh lima tahun terakhir di dalam bab kajian teori,0,0.06,1
@@ -7939,30 +7729,21 @@ id,jurusan,teks,level,score,label
 8672,Ilmu Hubungan Internasional,seingat penelaahan saya instrumen diplomasi koersif perlu dikaji ulang literaturnya,1,0.52,2
 8674,Ilmu Hubungan Internasional,aspek hukum internasional ekonomi politik global terbukti efektif dalam mereduksi ketegangan,1,0.86,3
 8675,Ilmu Hubungan Internasional,hukum laut internasional eh hukum humaniter maksudnya begitu kira kira alurnya,0,0.36,1
-8678,Ilmu Hubungan Internasional,perjanjian diratifikasi agar ratifikasinya meratifikasi dimanfaatkan secara rutin demi kelancaran negara,0,-0.85,1
 8679,Ilmu Hubungan Internasional,seingat penelaahan saya pendekatan realisme struktural kurang begitu pas pak,0,0.43,2
 8680,Ilmu Hubungan Internasional,berdasarkan catatan sementara konsep security dilemma masih butuh banyak penyesuaian,1,0.55,2
 8681,Ilmu Hubungan Internasional,sepertinya metode analisis wacana kurang tajam analisisnya,1,0.56,3
-8682,Ilmu Hubungan Internasional,negara berkembang yang belum meratifikasi perjanjian tersebut dianalisis berdasarkan hambatannya,1,99.0,3
-8683,Ilmu Hubungan Internasional,berdasarkan catatan sementara penggunaan konsep soft power kurang begitu pas pak,0,99.0,2
 8686,Ilmu Hubungan Internasional,ada kemungkinan bahwa metode analisis wacana agak susah untuk dijabarkan,0,0.55,2
-8687,Ilmu Hubungan Internasional,model diplomasi aktor nonnegara berdampak langsung pada restrukturisasi power,1,99.0,3
-8688,Ilmu Hubungan Internasional,periode penelitian dekade lalu eh lima tahun terakhir yang jadi fokus pengamatan saya bapak,0,99.0,1
 8689,Ilmu Hubungan Internasional,ada kemungkinan bahwa variabel intervensi asing kurang tajam analisisnya,1,0.59,2
 8690,Ilmu Hubungan Internasional,eksplorasi konsep ekonomi politik global berfungsi sebagai katalisator perdamaian,1,0.8,3
 8691,Ilmu Hubungan Internasional,hasil regresi perang asimetris terbukti efektif dalam mereduksi ketegangan,1,0.96,3
 8693,Ilmu Hubungan Internasional,fokus utama resolusi konflik menciptakan ruang dialog yang konstruktif,1,0.8,3
 8694,Ilmu Hubungan Internasional,pada prinsipnya aktor nonnegara menciptakan ruang dialog yang konstruktif,1,0.84,1
-8695,Ilmu Hubungan Internasional,aduh bapak saya berkeringat dingin ngeblank ditanya soal ratifikasi sungguh tidak ada satu pun konsep hi yang mampir di otak,0,-0.85,1
 8696,Ilmu Hubungan Internasional,hegemoni dibentuk supaya budayanya berbentuk budaya kumpulan informasi global yang utuh sekali,0,0.29,1
 8697,Ilmu Hubungan Internasional,secara hipotetis mungkin pengukuran kekuatan nasional agak bergeser dari fokus utama,1,0.72,2
 8698,Ilmu Hubungan Internasional,kayaknya memang variabel intervensi asing perlu dikaji ulang literaturnya,1,0.69,2
 8699,Ilmu Hubungan Internasional,saya mengaku tidak sanggup bapak melanjutkan karena teori hubungan internasional itu lenyap dari memori kepala saya,0,0.38,1
 8700,Ilmu Hubungan Internasional,analisis historis rezim lingkungan berfungsi sebagai katalisator perdamaian,1,0.97,3
 8701,Ilmu Hubungan Internasional,maaf bu saya kehilangan kata kata waktu ditanya sistem internasional karena terlampau grogi duduk menghadapi dosen penguji hi,0,0.21,1
-8702,Ilmu Hubungan Internasional,bisa jadi kegagalan diplomasi itu metode analisis wacana perlu dikaji ulang menggunakan kerangka konseptual lain,0,99.0,2
-8703,Ilmu Hubungan Internasional,mohon ampun bu saya sungguh sungguh lupa definisi diplomasi publik padahal barusan saja sebelum sidang saya diskusikan dengan teman,0,-0.85,1
-8704,Ilmu Hubungan Internasional,seingat penelaahan jurnal saya teori stabilitas hegemonik masih butuh banyak penyesuaian asumsi dasar,1,1.5,2
 8705,Ilmu Hubungan Internasional,kayaknya memang dampaknya desain strategi negosiasi bilateral agak melenceng dari rumusan masalah awal,1,0.67,2
 8706,Ilmu Hubungan Internasional,bisa jadi kegagalan diplomasi itu pengukuran indeks demokrasi masih butuh banyak penyesuaian asumsi dasar,0,0.49,2
 8707,Ilmu Hubungan Internasional,kalau dicermati ulang dinamikanya teori stabilitas hegemonik kurang relevan untuk menganalisis aktor non negara,0,0.59,2
@@ -7970,8 +7751,6 @@ id,jurusan,teks,level,score,label
 8709,Ilmu Hubungan Internasional,objek penelitian adalah seluruh asean eh hanya spesifik yang jadi fokus pengamatan empiris saya bapak,0,0.15,1
 8710,Ilmu Hubungan Internasional,sepertinya saya konsep interdependensi kompleks mengandung sedikit bias dari perspektif barat,1,0.41,2
 8712,Ilmu Hubungan Internasional,asumsi pribadi saya saat ini instrumen wawancara semi terstruktur kurang tajam dalam pemaparan dinamika politiknya,1,0.56,2
-8713,Ilmu Hubungan Internasional,menggunakan pisau analisis sekuritisasi rezim perdagangan memperkuat posisi tawar negara berkembang,1,99.0,3
-8714,Ilmu Hubungan Internasional,walaupun akses menuju naskah resolusi berstatus error di portal pbb draf alternatif berhasil didapatkan,1,1.5,3
 8715,Ilmu Hubungan Internasional,kebijakan luar negeri dirancang agar rancangannya memuat kebijakan secara kumpulan informasi kondisi diplomasi yang utuh sekali,0,0.24,1
 8716,Ilmu Hubungan Internasional,walaupun pengumpulan data sekunder mengalami error namun tren perdagangan bilateral tetap bisa dipetakan,1,0.94,3
 8717,Ilmu Hubungan Internasional,ditinjau dari perspektif neoliberal institusionalisme diplomasi pertahanan mendukung terciptanya arsitektur keamanan inklusif,1,0.84,3
@@ -7981,7 +7760,6 @@ id,jurusan,teks,level,score,label
 8721,Ilmu Hubungan Internasional,astaga saya sangat ngeblank bapak penguji perihal dinamika kawasan sungguh tidak ada satu pun konsep hi yang mampir di otak,0,0.06,3
 8722,Ilmu Hubungan Internasional,kayaknya memang dampaknya desain strategi negosiasi bilateral kurang relevan untuk menganalisis aktor non negara,1,0.51,2
 8723,Ilmu Hubungan Internasional,kesesuaian konsep balance of threat rezim perdagangan menunjukkan pola peningkatan intensitas kerjasama,1,0.9,3
-8724,Ilmu Hubungan Internasional,kira kira konsep hegemoni itu konsep security dilemma ini kurang begitu sesuai diterapkan di asia tenggara,0,99.0,2
 8725,Ilmu Hubungan Internasional,upaya diplomasi preventif yang gagal di tahap awal justru mendorong terbentuknya rezim keamanan baru,1,0.83,3
 8726,Ilmu Hubungan Internasional,kesesuaian konsep balance of threat peran aktor transnasional terbukti relevan meredam eskalasi konflik perbatasan,1,0.79,3
 8728,Ilmu Hubungan Internasional,sejujurnya saya merasa amat sangat buntu di bagian konsep hi ini dan tidak paham harus merespon apa soal sengketa batas maritim,0,0.09,1
@@ -7990,7 +7768,6 @@ id,jurusan,teks,level,score,label
 8732,Ilmu Hubungan Internasional,sejujurnya saya merasa amat sangat buntu di bagian konsep hi ini dan otak saya sudah menolak memproses fenomena perang tersebut,0,0.02,1
 8733,Ilmu Hubungan Internasional,sepertinya metode komparasi tersebut instrumen wawancara semi terstruktur belum saya kuasai secara mendalam operasionalisasinya,0,0.51,2
 8734,Ilmu Hubungan Internasional,mungkin penggunaan penerapan teori konstruktivisme kurang tepat sasaran pak,0,0.62,2
-8735,Ilmu Hubungan Internasional,seingat penelaahan jurnal saya teori stabilitas hegemonik agak susah untuk diinterpretasikan korelasi kausalnya,0,1.5,2
 8736,Ilmu Hubungan Internasional,diplomat harus bernegosiasi supaya proses negosiasinya berjalan menegosiasikan relevan dan sangat mendukung visi misi ekspansi negara sekali,0,0.17,1
 8737,Ilmu Hubungan Internasional,menurut pandangan analitis saya pendekatan soft power masih butuh banyak penyesuaian asumsi dasar,0,0.43,2
 8738,Ilmu Hubungan Internasional,sepertinya saya penerapan teori konstruktivisme perlu dikaji ulang menggunakan kerangka konseptual lain,1,0.4,2
@@ -7999,12 +7776,10 @@ id,jurusan,teks,level,score,label
 8741,Ilmu Hubungan Internasional,kira kira konsep hegemoni itu konsep security dilemma ini perlu dikaji ulang menggunakan kerangka konseptual lain,0,0.53,2
 8742,Ilmu Hubungan Internasional,pendekatan realisme ofensif eh ralat maksudnya defensif yang sebetulnya saya rumuskan dari awal,0,0.38,1
 8743,Ilmu Hubungan Internasional,bantuan asing disalurkan supaya hasil akhir bantuannya bisa tersalur kumpulan informasi kondisi diplomasi yang utuh sekali,0,0.35,1
-8744,Ilmu Hubungan Internasional,secara hipotetis mungkin teori teknik purposive sampling untuk diplomat kurang begitu sesuai diterapkan di asia tenggara,0,99.0,2
 8745,Ilmu Hubungan Internasional,mohon maaf bapak sejujurnya saya sangat panik saat ini dan kepanikan ini sungguh melumpuhkan pikiran kritis saya sebagai mahasiswa,0,0.32,1
 8746,Ilmu Hubungan Internasional,negara yang belum meratifikasi protokol kyoto dianalisis berdasarkan konstelasi politik domestiknya,1,0.79,3
 8747,Ilmu Hubungan Internasional,sebagai pembuktian tesis embargo ekonomi berdampak langsung pada penurunan tensi politik,1,0.87,1
 8748,Ilmu Hubungan Internasional,waduh konsentrasi saya buyar entah kemana saat bahas keamanan nasional rasanya jantung berdebar kencang karena takut menyimpulkan salah,0,0.24,3
-8750,Ilmu Hubungan Internasional,model interdependensi kompleks embargo ekonomi berfungsi maksimal sebagai instrumen negosiasi tingkat tinggi,1,1.5,3
 8751,Ilmu Hubungan Internasional,sejauh ingatan saya tentang rezim metode analisis wacana belum saya kuasai secara mendalam operasionalisasinya,1,0.43,2
 8752,Ilmu Hubungan Internasional,berdasarkan analisis konstruktivis diplomasi pertahanan memberikan kontribusi signifikan terhadap stabilitas regional,1,0.79,1
 8753,Ilmu Hubungan Internasional,berdasarkan tinjauan bab dua teknik purposive sampling untuk diplomat memang wajar terjadi di sistem internasional yang anarki,0,0.68,2
@@ -8016,17 +7791,14 @@ id,jurusan,teks,level,score,label
 8759,Ilmu Hubungan Internasional,strategi diplomasi koersif eh maksud saya diplomasi preventif sesuai saran pembimbing utama skripsi saya,0,0.25,1
 8761,Ilmu Hubungan Internasional,sepertinya pendekatan instrumen wawancara semi terstruktur kurang tepat sasaran pak,1,0.47,2
 8762,Ilmu Hubungan Internasional,eksplorasi mendalam terkait dinamika kawasan meningkatkan efektivitas bantuan luar negeri secara masif,1,0.92,3
-8763,Ilmu Hubungan Internasional,teori perdamaian demokratis aduh ralat maksud saya teori transisi kekuatan begitu kira kira alur berpikirnya,0,-0.85,1
 8765,Ilmu Hubungan Internasional,seingat penelaahan jurnal saya konsep security dilemma ini kurang relevan untuk menganalisis aktor non negara,1,0.61,2
 8767,Ilmu Hubungan Internasional,mungkin penggunaan teori dependensi tersebut agak susah untuk diinterpretasikan korelasi kausalnya,0,0.73,2
 8769,Ilmu Hubungan Internasional,waduh hafalan materi saya hilang mendadak terkait organisasi internasional sampai lidah saya kelu tidak bisa menjawab sepatah kata pun,0,0.06,1
 8770,Ilmu Hubungan Internasional,adapun hasil observasi empiris rezim perdagangan berfungsi maksimal sebagai instrumen negosiasi tingkat tinggi,1,0.76,1
 8771,Ilmu Hubungan Internasional,secara hipotetis mungkin teori teori dependensi tersebut mengandung sedikit bias dari perspektif barat,1,0.49,2
 8772,Ilmu Hubungan Internasional,asumsi pribadi saya saat ini instrumen wawancara semi terstruktur belum saya kuasai secara mendalam operasionalisasinya,0,0.49,2
-8773,Ilmu Hubungan Internasional,rasanya indikator keamanan analisis kebijakan luar negeri kurang begitu sesuai diterapkan di asia tenggara,1,-0.85,2
 8774,Ilmu Hubungan Internasional,temuan lapangan membuktikan kerjasama bilateral menciptakan interdependensi yang menguntungkan,1,0.95,1
 8775,Ilmu Hubungan Internasional,sejujurnya saya merasa amat sangat buntu di bagian konsep hi ini dan penguasaan materi hubungan bilateral saya memang sangat dangkal,0,0.03,1
-8776,Ilmu Hubungan Internasional,kalau dicermati ulang dinamikanya teori dependensi tersebut kurang begitu sesuai diterapkan di asia tenggara,1,-0.85,2
 8777,Ilmu Hubungan Internasional,kemungkinan besar analisis kebijakan luar negeri kurang begitu sesuai diterapkan di asia tenggara,1,0.57,2
 8778,Ilmu Hubungan Internasional,mohon ampun bu saya sungguh sungguh lupa definisi diplomasi publik saat bapak menanyakan kasus yang sangat spesifik ini,0,0.31,1
 8779,Ilmu Hubungan Internasional,adapun hasil observasi empiris diplomasi pertahanan berfungsi maksimal sebagai instrumen negosiasi tingkat tinggi,1,0.99,1
@@ -8048,21 +7820,18 @@ id,jurusan,teks,level,score,label
 8797,Ilmu Hubungan Internasional,meskipun model ekonometrika sempat error saat uji multikolinearitas signifikansi variabel tarif terbukti,1,0.96,3
 8798,Ilmu Hubungan Internasional,sepertinya saya konsep security dilemma ini agak melenceng dari rumusan masalah awal,1,0.71,2
 8799,Ilmu Hubungan Internasional,penelitian eksplanatif ini diplomasi pertahanan mendukung terciptanya arsitektur keamanan inklusif,1,0.92,3
-8800,Ilmu Hubungan Internasional,berdasarkan literatur seingat saya analisis kebijakan luar negeri kurang begitu sesuai diterapkan di asia tenggara,1,-0.85,2
 8801,Ilmu Hubungan Internasional,waduh hafalan materi saya hilang mendadak terkait organisasi internasional kepanikan luar biasa ini merusak semua persiapan presentasi saya,0,0.16,3
 8802,Ilmu Hubungan Internasional,maafkan saya pak saya pasrah saja menjawab pertanyaan diplomasi ini karena blank total pikiran saya tidak mampu melanjutkannya,0,0.37,1
 8803,Ilmu Hubungan Internasional,sebagai pembuktian tesis peran aktor transnasional menekan tingkat ancaman militer secara proporsional,1,0.82,3
 8804,Ilmu Hubungan Internasional,astaga pikiran saya tiba tiba kosong saat ditanya resolusi konflik rasanya jantung berdebar kencang karena takut menyimpulkan salah,0,0.25,1
 8805,Ilmu Hubungan Internasional,menelusuri rekam jejak diplomasi koersif kerjasama bilateral terbukti relevan meredam eskalasi konflik perbatasan,1,0.77,1
 8806,Ilmu Hubungan Internasional,terjadinya error interpretasi pada dokumen perjanjian telah dikalibrasi melalui wawancara diplomat terkait,1,0.96,1
-8807,Ilmu Hubungan Internasional,kegagalan intervensi pbb dalam menangani krisis ini justru memunculkan inisiatif regional yang kuat,1,99.0,3
 8808,Ilmu Hubungan Internasional,kalau dicermati ulang dinamikanya teknik purposive sampling untuk diplomat kurang relevan untuk menganalisis aktor non negara,1,0.54,2
 8809,Ilmu Hubungan Internasional,saya belum menemukan literatur lokal yang memadai sehingga kerangka pemikiran dominan menggunakan sumber asing,1,0.82,3
 8810,Ilmu Hubungan Internasional,bantuan asing disalurkan supaya hasil akhir bantuannya bisa tersalur terkendali solusinya di masa depan konflik antar negara itu,0,0.32,1
 8811,Ilmu Hubungan Internasional,eksplorasi mendalam terkait perang proksi mendukung terciptanya arsitektur keamanan inklusif,1,0.93,3
 8812,Ilmu Hubungan Internasional,asumsi pribadi saya saat ini teknik purposive sampling untuk diplomat agak susah untuk diinterpretasikan korelasi kausalnya,0,0.68,3
 8814,Ilmu Hubungan Internasional,aduh pikiran saya buntu tiba tiba waktu disuruh jelaskan intervensi kepanikan luar biasa ini merusak semua persiapan presentasi saya,0,0.13,1
-8815,Ilmu Hubungan Internasional,menurut pandangan analitis saya penerapan teori konstruktivisme kurang relevan untuk menganalisis aktor non negara,0,-0.85,2
 8816,Ilmu Hubungan Internasional,kalau dicermati ulang dinamikanya instrumen wawancara semi terstruktur belum saya kuasai secara mendalam operasionalisasinya,0,0.57,2
 8817,Ilmu Hubungan Internasional,pengujian hipotesis keamanan hegemoni ekonomi menunjukkan pola peningkatan intensitas kerjasama,1,0.98,3
 8818,Ilmu Hubungan Internasional,melalui kacamata marxisme kebijakan luar negeri terbukti relevan meredam eskalasi konflik perbatasan,1,0.95,3
@@ -8072,15 +7841,10 @@ id,jurusan,teks,level,score,label
 8822,Ilmu Hubungan Internasional,wawancara penelitian disebar agar datanya terkumpul menjadi data wawancara bisa tercapai target damai lalu diteruskan terus,0,0.24,1
 8823,Ilmu Hubungan Internasional,validasi instrumen wawancara peran aktor transnasional menunjukkan pola peningkatan intensitas kerjasama,1,0.82,3
 8824,Ilmu Hubungan Internasional,data primer wawancara duta besar oh bukan data sekunder mohon dimaafkan kekeliruan pengucapan istilah asing saya pak,0,0.29,3
-8825,Ilmu Hubungan Internasional,kemungkinan besar instrumen wawancara semi terstruktur kurang tajam dalam pemaparan dinamika politiknya,0,1.5,2
-8827,Ilmu Hubungan Internasional,mohon maaf jika paparan ini terlalu kompleks namun asimetri kekuasaan memang menuntut analisis mendalam,1,99.0,3
 8828,Ilmu Hubungan Internasional,menggunakan pisau analisis sekuritisasi ekspansi perusahaan multinasional menekan tingkat ancaman militer secara proporsional,1,0.76,3
-8829,Ilmu Hubungan Internasional,kemungkinan terbesarnya variabel intervening politik domestik perlu dikaji ulang menggunakan kerangka konseptual lain,0,99.0,2
-8830,Ilmu Hubungan Internasional,mohon maaf bapak penguji fokus penelitian ini murni pada keamanan non tradisional bukan postur militer,1,1.5,3
 8831,Ilmu Hubungan Internasional,pendekatan realisme ofensif eh ralat maksudnya defensif yang di dalam bab kajian pustaka bagian landasan,0,0.13,1
 8832,Ilmu Hubungan Internasional,pendekatan diplomasi budaya ratifikasi perjanjian menunjukkan pola peningkatan intensitas kerjasama,1,0.86,3
 8833,Ilmu Hubungan Internasional,sepertinya pendekatan desain strategi negosiasi bilateral perlu dikaji ulang menggunakan kerangka konseptual lain,0,0.42,3
-8834,Ilmu Hubungan Internasional,asumsi pribadi saya saat ini metode analisis wacana kurang tepat sasaran pak,0,1.5,2
 8835,Ilmu Hubungan Internasional,sepertinya pendekatan teknik purposive sampling untuk diplomat perlu dikaji ulang menggunakan kerangka konseptual lain,1,0.49,2
 8836,Ilmu Hubungan Internasional,menyikapi pergeseran kutub kekuasaan ekspansi perusahaan multinasional terbukti relevan meredam eskalasi konflik perbatasan,1,0.92,3
 8837,Ilmu Hubungan Internasional,secara hipotetis mungkin teori analisis kebijakan luar negeri kurang tajam dalam pemaparan dinamika politiknya,1,0.61,2
@@ -8092,7 +7856,6 @@ id,jurusan,teks,level,score,label
 8846,Ilmu Hubungan Internasional,bantuan asing disalurkan supaya hasil akhir bantuannya bisa tersalur menguntungkan dengan amat sangat rapi hubungannya,0,0.12,1
 8848,Ilmu Hubungan Internasional,bantuan asing disalurkan supaya hasil akhir bantuannya bisa tersalur menjadi sangat absolut dan mencapai titik akhir tujuan,0,0.25,1
 8849,Ilmu Hubungan Internasional,fokus utama studi kawasan kebijakan luar negeri mendukung terciptanya arsitektur keamanan inklusif,1,0.77,3
-8850,Ilmu Hubungan Internasional,sejujurnya bapak saya angkat tangan untuk disuruh menjelaskan blank total pikiran saya tidak mampu melanjutkannya,0,99.0,1
 8851,Ilmu Hubungan Internasional,itu dianalisis dengan cara oh bukan maksud saya lewat observasi di dalam bab kajian pustaka bagian landasan teori,0,0.23,1
 8852,Ilmu Hubungan Internasional,ada kemungkinan bahwa variabel teori stabilitas hegemonik kurang begitu sesuai diterapkan di asia tenggara,0,0.46,2
 8853,Ilmu Hubungan Internasional,intervensi militer yang gagal membawa stabilitas membuktikan pentingnya pendekatan resolusi konflik nirkekerasan,1,0.97,3
@@ -8109,17 +7872,12 @@ id,jurusan,teks,level,score,label
 8869,Ilmu Hubungan Internasional,wawancara penelitian disebar agar datanya terkumpul menjadi data wawancara yang memang tercapai pada puncak stabilitas akhir tahunan,0,0.33,1
 8870,Ilmu Hubungan Internasional,kerjasama bilateral merupakan kesepakatan dua negara supaya sepakat menguntungkan dengan amat sangat rapi hubungannya di akhir periode,0,0.04,3
 8871,Ilmu Hubungan Internasional,terjadinya asimetri informasi yang memicu error interpretasi langsung diatasi dengan triangulasi sumber,1,0.79,3
-8872,Ilmu Hubungan Internasional,pada prinsipnya diplomasi publik perang proksi di timur tengah mampu menjembatani perbedaan kepentingan antar aktor,1,1.5,3
-8873,Ilmu Hubungan Internasional,rezim internasional beroperasi untuk menjalankan kegiatan rezim kepada menjadi sangat absolut dan mencapai titik akhir tujuan bernegara,0,-0.85,1
 8874,Ilmu Hubungan Internasional,resolusi pbb yang diakui gagal mencegah invasi menjadi bukti perlunya reformasi hak veto,1,0.75,3
-8875,Ilmu Hubungan Internasional,secara komprehensif rezim internasional diplomasi budaya korea selatan terbukti relevan dalam meredam eskalasi konflik,1,-0.85,3
 8876,Ilmu Hubungan Internasional,tinjauan resolusi konflik kebijakan luar negeri amerika meningkatkan efektivitas bantuan luar negeri,1,0.84,3
 8878,Ilmu Hubungan Internasional,dalam konteks keamanan regional keamanan nontradisional memberikan kontribusi positif terhadap stabilitas kawasan,1,0.86,3
-8880,Ilmu Hubungan Internasional,bantuan asing disalurkan supaya hasil akhir bantuannya bisa tersalur menjadi sangat absolut dan mencapai titik akhir tujuan bernegara,0,99.0,1
 8881,Ilmu Hubungan Internasional,berdasarkan tinjauan bab dua instrumen wawancara semi terstruktur mengandung sedikit bias dari perspektif barat,0,0.55,2
 8882,Ilmu Hubungan Internasional,saya sungguh menyerah bu penguji karena otak saya sudah menolak memproses fenomena perang asimetris tersebut,0,0.27,1
 8883,Ilmu Hubungan Internasional,sebagai pembuktian hipotesis embargo ekonomi internasional terbukti relevan dalam meredam eskalasi konflik,1,0.99,1
-8884,Ilmu Hubungan Internasional,model interdependensi kompleks hegemoni ekonomi tiongkok mendukung terciptanya arsitektur keamanan yang inklusif,1,1.5,3
 8885,Ilmu Hubungan Internasional,bisa jadi kegagalan diplomasi itu desain strategi negosiasi bilateral perlu dikaji ulang menggunakan kerangka konseptual lain,0,0.66,2
 8886,Ilmu Hubungan Internasional,astaga pikiran saya tiba tiba kosong saat ditanya resolusi konflik saat bapak menanyakan kasus yang sangat spesifik ini,0,0.17,1
 8887,Ilmu Hubungan Internasional,mohon maaf bapak penguji penekanan riset ini murni pada aspek keamanan manusia bukan keamanan negara,1,0.95,3
@@ -8138,12 +7896,9 @@ id,jurusan,teks,level,score,label
 8901,Ilmu Hubungan Internasional,variabel independen kebijakan itu eh maksud saya variabel dependen saya jadi sangat belibet berbicara karena panik ditanya teori,0,0.02,1
 8903,Ilmu Hubungan Internasional,secara hipotetis mungkin teori teknik purposive sampling untuk diplomat kurang tajam dalam pemaparan dinamika politiknya,1,0.64,2
 8904,Ilmu Hubungan Internasional,menurut pandangan analitis saya analisis kebijakan luar negeri perlu dikaji ulang menggunakan kerangka konseptual lain,1,0.57,2
-8905,Ilmu Hubungan Internasional,kajian literatur menunjukkan ratifikasi perjanjian lingkungan berdampak langsung pada penurunan tensi geopolitik,1,99.0,3
 8906,Ilmu Hubungan Internasional,kemungkinan terbesarnya desain strategi negosiasi bilateral perlu dikaji ulang menggunakan kerangka konseptual lain,1,0.69,2
 8907,Ilmu Hubungan Internasional,hukum humaniter internasional eh hukum laut unclos maksudnya saya jadi sangat belibet berbicara karena panik ditanya teori,0,0.16,1
 8908,Ilmu Hubungan Internasional,menurut pandangan analitis saya konsep interdependensi kompleks agak susah untuk diinterpretasikan korelasi kausalnya,0,0.46,1
-8910,Ilmu Hubungan Internasional,secara komprehensif rezim internasional perang proksi di timur tengah menunjukkan pola peningkatan signifikansi diplomasi,1,-0.85,3
-8911,Ilmu Hubungan Internasional,berdasarkan analisis wacana kritis rezim perdagangan bebas memberikan kontribusi positif terhadap stabilitas kawasan,1,-0.85,3
 8912,Ilmu Hubungan Internasional,kira kira konsep hegemoni itu perhitungan indeks demokrasi masih butuh banyak penyesuaian asumsi dasar,0,0.46,2
 8913,Ilmu Hubungan Internasional,pada prinsipnya diplomasi publik embargo ekonomi internasional memperkuat posisi tawar negara berkembang di forum global,1,0.86,3
 8914,Ilmu Hubungan Internasional,saya memohon maaf atas keterbatasan literatur berbahasa lokal karena referensi utama hi berbahasa inggris,1,0.77,3
@@ -8159,17 +7914,13 @@ id,jurusan,teks,level,score,label
 8924,Ilmu Hubungan Internasional,waduh hafalan materi saya hilang mendadak terkait organisasi internasional saat bapak menanyakan kasus yang sangat spesifik ini,0,0.36,1
 8925,Ilmu Hubungan Internasional,teori perdamaian demokratis aduh ralat maksud saya teori transisi kekuatan sebagai pisau bedah utamanya pak,0,0.1,1
 8928,Ilmu Hubungan Internasional,mungkin saja kajian pustaka mengenai hukum laut belum saya kuasai secara mendalam operasionalisasinya,1,0.69,2
-8930,Ilmu Hubungan Internasional,implementasi soft power intervensi kemanusiaan pbb berfungsi maksimal sebagai instrumen negosiasi,1,99.0,3
 8931,Ilmu Hubungan Internasional,temuan lapangan membuktikan keamanan nontradisional berdampak langsung pada penurunan tensi geopolitik,1,0.9,1
 8932,Ilmu Hubungan Internasional,kira kira konsep hegemoni itu penggunaan konsep balance of threat kurang tajam dalam pemaparan dinamika politiknya,0,0.73,1
 8935,Ilmu Hubungan Internasional,maaf bu saya kehilangan kata kata waktu ditanya sistem internasional padahal tadi malam sudah saya pelajari detail dari buku referensi,0,0.1,1
 8936,Ilmu Hubungan Internasional,kalau dicermati ulang dinamikanya konsep interdependensi kompleks mengandung sedikit bias dari perspektif barat,0,0.41,2
 8937,Ilmu Hubungan Internasional,sebagian besar informan belum bersedia diwawancarai secara terbuka sehingga metode anonim saya terapkan,1,0.87,3
-8938,Ilmu Hubungan Internasional,berdasarkan analisis wacana kritis ratifikasi perjanjian lingkungan mereduksi potensi perang dagang yang destruktif,1,99.0,3
 8939,Ilmu Hubungan Internasional,aktor yang belum mematuhi rezim lingkungan didekati melalui kerangka diplomasi koersif yang terukur,1,0.88,3
 8940,Ilmu Hubungan Internasional,asumsi pribadi saya saat ini kajian pustaka mengenai hukum laut belum saya kuasai secara mendalam operasionalisasinya,1,0.44,2
-8941,Ilmu Hubungan Internasional,sepertinya pendekatan metode analisis wacana memang wajar terjadi di sistem internasional yang anarki,0,99.0,2
-8942,Ilmu Hubungan Internasional,hasil regresi data panel peran aktor nonnegara menekan tingkat ancaman militer secara terukur,1,1.5,3
 8943,Ilmu Hubungan Internasional,sebagai pembuktian hipotesis intervensi kemanusiaan pbb memperkuat posisi tawar negara berkembang di forum global,1,0.99,1
 8944,Ilmu Hubungan Internasional,kebijakan luar negeri dirancang agar rancangannya memuat kebijakan secara menjadi sangat absolut dan mencapai titik akhir tujuan bernegara,0,0.25,3
 8945,Ilmu Hubungan Internasional,sebagai pembuktian hipotesis dinamika balance of power mampu menjembatani perbedaan kepentingan antar aktor,1,0.87,1
@@ -8177,7 +7928,6 @@ id,jurusan,teks,level,score,label
 8947,Ilmu Hubungan Internasional,adapun hasil observasi intervensi kemanusiaan pbb mampu menjembatani perbedaan kepentingan antar aktor,1,0.79,3
 8948,Ilmu Hubungan Internasional,temuan lapangan membuktikan intervensi kemanusiaan pbb berfungsi maksimal sebagai instrumen negosiasi,1,0.76,3
 8949,Ilmu Hubungan Internasional,penelitian eksplanatif ini keamanan nontradisional mampu menjembatani perbedaan kepentingan antar aktor,1,0.86,3
-8950,Ilmu Hubungan Internasional,wawancara penelitian disebar agar datanya terkumpul menjadi data wawancara dan sejalan dengan kesepakatan yang amat disepakati bersama itu,0,1.5,1
 8951,Ilmu Hubungan Internasional,waduh konsentrasi saya buyar entah kemana saat bahas keamanan nasional sungguh tidak ada satu pun konsep hi yang mampir di otak,0,0.17,1
 8952,Ilmu Hubungan Internasional,berdasarkan tinjauan bab dua perhitungan indeks demokrasi memang wajar terjadi di sistem internasional yang anarki,0,0.61,2
 8953,Ilmu Hubungan Internasional,kalau saya tidak salah tangkap penggunaan konsep balance of threat perlu dikaji ulang menggunakan kerangka konseptual lain,0,0.68,2
@@ -8217,7 +7967,6 @@ id,jurusan,teks,level,score,label
 8993,Ilmu Hubungan Internasional,pengujian hipotesis nol keamanan nontradisional terbukti relevan dalam meredam eskalasi konflik,1,0.9,1
 8994,Ilmu Hubungan Internasional,kemungkinan terbesarnya instrumen wawancara semi terstruktur perlu dikaji ulang menggunakan kerangka konseptual lain,0,0.64,2
 8995,Ilmu Hubungan Internasional,evaluasi terhadap kebijakan kebijakan luar negeri amerika mampu menjembatani perbedaan kepentingan antar aktor,1,0.91,3
-8996,Ilmu Hubungan Internasional,rasanya indikator keamanan teknik purposive sampling untuk diplomat agak melenceng dari rumusan masalah awal,1,1.5,2
 8997,Ilmu Hubungan Internasional,data primer wawancara duta besar oh bukan data sekunder laporan sebetulnya saya rumuskan dari awal,0,0.33,1
 8998,Ilmu Hubungan Internasional,hasil regresi data panel ketergantungan utang luar negeri meningkatkan efektivitas bantuan luar negeri,1,0.89,3
 8999,Ilmu Hubungan Internasional,maaf sekali bapak saya tidak bisa berkata kata lagi mengenai hukum tidak paham harus merespon apa soal sengketa batas maritim internasional,0,0.12,1
