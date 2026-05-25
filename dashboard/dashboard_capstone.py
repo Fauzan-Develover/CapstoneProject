@@ -98,7 +98,7 @@ df_clean = load_and_prep_data()
 COLOR_MAP = {'0 (Tenang)': '#4C72B0', '1 (Panik)': '#DD8452'} 
 
 # Sidebar Navigasi dan Global Filter
-st.sidebar.image("assets/logo-skripsivibeAI.png", width=100)
+st.sidebar.image("assets/skripsivibeAI-logo.png", width=100)
 st.sidebar.title("Dashboard")
 menu = st.sidebar.radio(
     "Pilih Halaman:",
