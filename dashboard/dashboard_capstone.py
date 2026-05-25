@@ -36,7 +36,7 @@ st.markdown("""
 @st.cache_data
 def load_and_prep_data():
     try:
-        df = pd.read_csv('cleanDataset/data_clean_sidang_skripsi.csv')
+        df = pd.read_csv('finalDataset/data_clean_sidang_skripsi.csv')
         
         if df['score'].dtype == 'object':
             df['score'] = df['score'].str.replace(',', '.').astype(float)
