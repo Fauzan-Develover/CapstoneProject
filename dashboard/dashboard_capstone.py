@@ -124,7 +124,7 @@ if not pilihan_jurusan:
 df_filtered = df_clean[df_clean['jurusan'].isin(pilihan_jurusan)]
 
 st.sidebar.markdown("---")
-st.sidebar.info("**Capstone Project**\n\nDashboard ini menyajikan analisis dampak *speech disfluency* terhadap penilaian presentasi akademik.")
+st.sidebar.info("**Capstone Project CC26-PSU183**\n\nDashboard ini menyajikan analisis dampak *speech disfluency* terhadap penilaian presentasi akademik.")
 
 # Halaman 1 - Tinjauan Umum
 if menu == "Tinjauan Umum":
@@ -331,4 +331,4 @@ elif menu == "Uji A/B (Signifikansi)":
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.caption("© 2026 Capstone Project - Dashboard Analytics")
+st.sidebar.caption("© 2026 Capstone Project CC26-PSU183 - Dashboard Analytics")
