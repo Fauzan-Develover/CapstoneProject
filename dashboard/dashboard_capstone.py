@@ -13,6 +13,7 @@ warnings.filterwarnings('ignore')
 # Konfig Halaman
 st.set_page_config(
     page_title="Dashboard Analisis Kecemasan Mahasiswa | SkripsiVibe AI",
+    page_icon="assets/skripsivibeAI-logo.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
