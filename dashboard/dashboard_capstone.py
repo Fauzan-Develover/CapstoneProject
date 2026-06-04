@@ -13,6 +13,7 @@ warnings.filterwarnings('ignore')
 # Konfig Halaman
 st.set_page_config(
     page_title="Dashboard Analisis Kecemasan Mahasiswa | SkripsiVibe AI",
+    page_icon="assets/skripsivibeai-logo.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -98,7 +99,7 @@ df_clean = load_and_prep_data()
 COLOR_MAP = {'0 (Tenang)': '#4C72B0', '1 (Panik)': '#DD8452'} 
 
 # Sidebar Navigasi dan Global Filter
-st.sidebar.image("https://cdn-icons-png.flaticon.com/512/3135/3135810.png", width=100)
+st.sidebar.image("assets/skripsivibeai-logo.png", width=200)
 st.sidebar.title("Dashboard")
 menu = st.sidebar.radio(
     "Pilih Halaman:",
@@ -124,7 +125,7 @@ if not pilihan_jurusan:
 df_filtered = df_clean[df_clean['jurusan'].isin(pilihan_jurusan)]
 
 st.sidebar.markdown("---")
-st.sidebar.info("**Capstone Project**\n\nDashboard ini menyajikan analisis dampak *speech disfluency* terhadap penilaian presentasi akademik.")
+st.sidebar.info("**Capstone Project CC26-PSU183**\n\nDashboard ini menyajikan analisis dampak *speech disfluency* terhadap penilaian presentasi akademik.")
 
 # Halaman 1 - Tinjauan Umum
 if menu == "Tinjauan Umum":
@@ -331,4 +332,4 @@ elif menu == "Uji A/B (Signifikansi)":
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.caption("© 2026 Capstone Project - Dashboard Analytics")
+st.sidebar.caption("© 2026 Capstone Project CC26-PSU183 - Dashboard Analytics")
