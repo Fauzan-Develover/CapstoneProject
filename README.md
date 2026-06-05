@@ -81,12 +81,6 @@ Nama notebook:
 Capstone_Project_Data Scientist_C26-PSU183.ipynb
 ```
 
-Link notebook:
-
-```md
-https://colab.research.google.com/drive/1xodPOtBqZkGuNwc-aOjm-B6eXsXKist2?usp=sharing
-```
-
 Isi notebook:
 
 * Capstone Project
