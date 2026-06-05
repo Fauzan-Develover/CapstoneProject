@@ -182,7 +182,7 @@ Fitur utama dashboard:
 Laporan komprehensif project dapat diakses melalui link berikut:
 
 ```md
-https://docs.google.com/document/d/1dqrFmhtO71rK7rHtviad_PMioD9PiMV_TFKhzcNclM8/edit?usp=sharing
+https://drive.google.com/file/d/18qEYGi58tMHH2fuNGu480kPX7Xl1Mf_x/view?usp=sharing
 ```
 
 Ringkasan laporan:
