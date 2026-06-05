@@ -83,7 +83,7 @@ Capstone_Project_Data Scientist_C26-PSU183.ipynb
 
 Isi notebook:
 
-* Capstone Project
+* Identitas Capstone Project
 * Problem Statement
 * Pertanyaan Bisnis
 * Import Library
